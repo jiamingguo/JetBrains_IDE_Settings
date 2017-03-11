@@ -9,6 +9,12 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/App.css" timestamp="1488953647627">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/gittor/src/components/editor-view/SelectServiceView.js" timestamp="1464994959876">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="17" />
@@ -19,6 +25,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/ops/string-ops.es6" timestamp="1488945423785">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/views/IntegratsionsView.js" timestamp="1471416079833">
         <mark key="[" line="3" column="0" />
@@ -31,6 +43,12 @@
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/package.json" timestamp="1489207354445">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="7" column="68" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/list-view/list-panel.scss" timestamp="1461741787339">
         <mark key="[" line="27" column="22" />
@@ -55,18 +73,17 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/notes/OT-design-docs/Escherpad Scientifit Markdown Design Doc.md" timestamp="1489094163914">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/layout-components/src/index.js" timestamp="1481502957438">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="7" column="50" />
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="50" />
-      </file>
-      <file name="$USER_HOME$/projects/luna-saga/README.md" timestamp="1482883199546">
-        <mark key="'" line="85" column="23" />
-        <mark key="[" line="337" column="24" />
-        <mark key="]" line="337" column="25" />
-        <mark key="^" line="337" column="25" />
-        <mark key="." line="337" column="25" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/c-bazel-example/test/hello-test.cc" timestamp="1470732344792">
         <mark key="[" line="3" column="10" />
@@ -80,6 +97,11 @@
         <mark key="." line="51" column="22" />
         <mark key="^" line="51" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/ops/string-ops.js" timestamp="1489206215060">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/gittor/src/editor-view/backend-badge.scss" timestamp="1463091457295">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="21" />
@@ -91,13 +113,6 @@
         <mark key="]" line="47" column="15" />
         <mark key="^" line="47" column="15" />
         <mark key="." line="47" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" timestamp="1488502615659">
-        <mark key="'" line="116" column="50" />
-        <mark key="[" line="118" column="68" />
-        <mark key="]" line="118" column="68" />
-        <mark key="^" line="118" column="68" />
-        <mark key="." line="118" column="68" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/form/Button.js" timestamp="1483416768668">
         <mark key="[" line="18" column="0" />
@@ -122,18 +137,16 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/package.json" timestamp="1488757575936">
-        <mark key="'" line="39" column="5" />
-        <mark key="[" line="116" column="4" />
-        <mark key="]" line="116" column="90" />
-        <mark key="^" line="118" column="5" />
-        <mark key="." line="118" column="25" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/src/components/badge/BlueBadge.js" timestamp="1483416764581">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="69" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/modules/cellulose/src/example/Readme.js" timestamp="1489211152633">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/badge/BadgeWithControl.js" timestamp="1481505393549">
         <mark key="[" line="5" column="3" />
@@ -147,19 +160,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="94" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/modals/SaveToBackendModal/ConnectToService.js" timestamp="1481568885131">
-        <mark key="'" line="34" column="48" />
-        <mark key="[" line="34" column="97" />
-        <mark key="]" line="34" column="95" />
-        <mark key="." line="34" column="95" />
-        <mark key="^" line="34" column="95" />
-      </file>
-      <file name="$USER_HOME$/projects/luna-saga/src/generator.spec.ts" timestamp="1482825116872">
-        <mark key="'" line="14" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="12" column="13" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/notes/scientific-markdown/Escherpad Scientifit Markdown Design Doc.md" timestamp="1489112142033">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="15" />
+        <mark key="^" line="37" column="10" />
+        <mark key="." line="23" column="8" />
       </file>
       <file name="$USER_HOME$/projects/episodeyang.github.io/front-page/index.js" timestamp="1461393455950">
         <mark key="[" line="43" column="39" />
@@ -179,31 +184,16 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" timestamp="1488610338627">
-        <mark key="'" line="122" column="2" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="70" />
-        <mark key="." line="80" column="70" />
-        <mark key="^" line="80" column="70" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/ops/index.js" timestamp="1489206981384">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/editor-view/CodeEditor.js" timestamp="1488576966159">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="29" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/episodeyang.github.io/_sass/article.scss" timestamp="1488445299800">
-        <mark key="'" line="19" column="26" />
-        <mark key="[" line="50" column="6" />
-        <mark key="]" line="50" column="10" />
-        <mark key="." line="50" column="10" />
-        <mark key="^" line="50" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/list-view/ListPanel.js" timestamp="1487609507712">
-        <mark key="'" line="155" column="23" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="39" />
-        <mark key="." line="76" column="108" />
-        <mark key="^" line="76" column="108" />
       </file>
       <file name="$USER_HOME$/projects/gittor/build/index.html" timestamp="1461480209580">
         <mark key="[" line="4" column="0" />
@@ -234,6 +224,12 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/index.es6" timestamp="1488756590083">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/gittor/src/oauth/AccountList.js" timestamp="1463267160941">
         <mark key="[" line="27" column="4" />
         <mark key="]" line="27" column="14" />
@@ -252,11 +248,6 @@
         <mark key="." line="0" column="65" />
         <mark key="^" line="0" column="69" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1483404647516">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/src/app/demoPost.js" timestamp="1462333081436">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="15" />
@@ -268,20 +259,6 @@
         <mark key="]" line="54" column="10" />
         <mark key="." line="54" column="10" />
         <mark key="^" line="54" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" timestamp="1488576617056">
-        <mark key="'" line="7" column="17" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/luna-saga/src/saga.effects.spec.ts" timestamp="1482878886786">
-        <mark key="'" line="151" column="78" />
-        <mark key="[" line="153" column="61" />
-        <mark key="]" line="153" column="61" />
-        <mark key="." line="153" column="61" />
-        <mark key="^" line="153" column="61" />
       </file>
       <file name="$USER_HOME$/projects/react-markdownit/src/index.js" timestamp="1467219391496">
         <mark key="[" line="0" column="35" />
@@ -313,13 +290,6 @@
         <mark key="^" line="23" column="18" />
         <mark key="." line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/webpack.production.config.js" timestamp="1481375957114">
-        <mark key="'" line="9" column="18" />
-        <mark key="[" line="96" column="24" />
-        <mark key="]" line="96" column="35" />
-        <mark key="." line="96" column="35" />
-        <mark key="^" line="96" column="35" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/notes/Todo List.md" timestamp="1487374380824">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -350,25 +320,17 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/luna-saga/src/effects/effectsHelpers.ts" timestamp="1482828089104">
-        <mark key="'" line="155" column="11" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-        <mark key="^" line="126" column="25" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/src/store/bindrs/bindrs.js" timestamp="1483416833762">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/index.html" timestamp="1488756691441">
-        <mark key="'" line="66" column="30" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="57" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="72" column="107" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/.gitignore" timestamp="1488954877741">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/editor-view/FullScreenToggleButton.js" timestamp="1463133219127">
         <mark key="[" line="29" column="0" />
@@ -382,25 +344,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/store/RootStore.js" timestamp="1488641531333">
-        <mark key="'" line="13" column="44" />
-        <mark key="[" line="75" column="22" />
-        <mark key="]" line="75" column="35" />
-        <mark key="." line="75" column="35" />
-        <mark key="^" line="75" column="35" />
-      </file>
       <file name="$USER_HOME$/projects/ssl-setup-server/test-config" timestamp="1473297657475">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="1" column="51" />
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="51" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/markdown/mathjax-config.js" timestamp="1488607869782">
-        <mark key="'" line="42" column="9" />
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-        <mark key="^" line="12" column="12" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/styling/Height.js" timestamp="1464597201294">
         <mark key="[" line="10" column="41" />
@@ -419,6 +367,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/App.test.js" timestamp="1489118860006">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="2" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/oauth/dropboxApi.js" timestamp="1463262578513">
         <mark key="[" line="1" column="40" />
@@ -473,13 +427,6 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/store/accounts/accounts.js" timestamp="1483291801679">
-        <mark key="'" line="76" column="10" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="51" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="76" column="28" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/src/components/editor-view/Editor.js" timestamp="1484202661749">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="6" />
@@ -533,6 +480,12 @@
         <mark key="]" line="16" column="10" />
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/source.js" timestamp="1489216971796">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/editor-view/modals/themeList.js" timestamp="1462753340719">
         <mark key="[" line="0" column="31" />
@@ -593,18 +546,17 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/js.operation.helloworld.html" timestamp="1488757419054">
+        <mark key="[" line="209" column="18" />
+        <mark key="]" line="209" column="24" />
+        <mark key="^" line="209" column="24" />
+        <mark key="." line="209" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/gittor/src/lib/immutables/immutable-array.js" timestamp="1484469931822">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="16" column="17" />
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/markdown/Mathjax.js" timestamp="1488051248770">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="86" column="31" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/go-chat-server/src/asset/index.html" timestamp="1470543484201">
         <mark key="[" line="31" column="17" />
@@ -666,20 +618,6 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/markdown-editor/MarkdownEditor.js" timestamp="1484852348129">
-        <mark key="'" line="67" column="13" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="163" column="17" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="34" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/luna-saga/src/saga.store.spec.ts" timestamp="1482877761821">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="33" />
-        <mark key="." line="47" column="33" />
-        <mark key="^" line="47" column="33" />
-      </file>
       <file name="$USER_HOME$/projects/operational-transform-reducers/src/arrayInsert.js" timestamp="1469901073454">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="6" />
@@ -697,13 +635,6 @@
         <mark key="]" line="2" column="32" />
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/Canvas.js" timestamp="1484453904670">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="89" column="31" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/badge/badge.scss" timestamp="1465024915025">
         <mark key="[" line="21" column="26" />
@@ -741,13 +672,6 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/SaveToBackEndBadge.js" timestamp="1487008758970">
-        <mark key="'" line="51" column="2" />
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="31" />
-        <mark key="." line="26" column="31" />
-        <mark key="^" line="26" column="31" />
-      </file>
       <file name="$USER_HOME$/projects/luna-saga/src/util/isPromise.ts" timestamp="1482827820009">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="13" />
@@ -771,13 +695,6 @@
         <mark key="]" line="5" column="30" />
         <mark key="^" line="5" column="30" />
         <mark key="." line="5" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/extensions/simplePen.js" timestamp="1481684704511">
-        <mark key="'" line="11" column="11" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/folderEntry.js" timestamp="1481095287989">
         <mark key="[" line="2" column="7" />
@@ -809,6 +726,11 @@
         <mark key="." line="75" column="12" />
         <mark key="^" line="75" column="12" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1483404647516">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/react-canvas-paint/src/extensions/calligraphyPen.js" timestamp="1473704866619">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -827,11 +749,11 @@
         <mark key="^" line="50" column="7" />
         <mark key="." line="50" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/list-view/PostListItem.js" timestamp="1488578463256">
-        <mark key="'" line="56" column="6" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/projects/golang-book-notes/003_test.go" timestamp="1477409985416">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/projects/golang-book-notes/hello.go" timestamp="1469947516733">
         <mark key="[" line="2" column="12" />
@@ -845,12 +767,10 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/editable/InlineEditable.js" timestamp="1482996783914">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="133" column="6" />
-        <mark key="]" line="133" column="12" />
-        <mark key="." line="133" column="12" />
-        <mark key="^" line="133" column="12" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/Selection.css" timestamp="1489214545899">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/if/If.js" timestamp="1463132542075">
         <mark key="[" line="16" column="28" />
@@ -876,6 +796,12 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/webpack.dev.config.js" timestamp="1488757625752">
+        <mark key="[" line="9" column="67" />
+        <mark key="]" line="9" column="67" />
+        <mark key="." line="9" column="67" />
+        <mark key="^" line="5" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/episodeyang.github.io/webpack.config.js" timestamp="1461460738378">
         <mark key="[" line="15" column="72" />
         <mark key="]" line="15" column="72" />
@@ -887,6 +813,11 @@
         <mark key="]" line="7" column="32" />
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/package.json" timestamp="1488949662626">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
       </file>
       <file name="$USER_HOME$/projects/eywa-dropbox/src/index.html" timestamp="1487385182835">
         <mark key="[" line="11" column="0" />
@@ -905,6 +836,11 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
         <mark key="^" line="30" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/ops/object-ops.es6" timestamp="1488946016317">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/editor-view/configs/themeList.js" timestamp="1462753592520">
         <mark key="[" line="51" column="2" />
@@ -927,8 +863,8 @@
       <file name="$USER_HOME$/projects/golang-book-notes/002_variables.go" timestamp="1469949811990">
         <mark key="[" line="28" column="41" />
         <mark key="]" line="28" column="43" />
-        <mark key="." line="28" column="43" />
         <mark key="^" line="28" column="43" />
+        <mark key="." line="28" column="43" />
       </file>
       <file name="$USER_HOME$/projects/react-vis-link-graph/src/utils/get-width-up-to.js" timestamp="1472105341896">
         <mark key="[" line="1" column="32" />
@@ -936,11 +872,23 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/Selection.js" timestamp="1489214547556">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/gittor/src/components/styling/ShadowText.js" timestamp="1464596581330">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/.gitignore" timestamp="1489207686241">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/go-chat-server/.editorconfig" timestamp="1470808220308">
         <mark key="[" line="20" column="0" />
@@ -958,20 +906,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/TitleBar.js" timestamp="1483034681880">
-        <mark key="'" line="162" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="40" />
-        <mark key="." line="97" column="26" />
-        <mark key="^" line="97" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/AccountListView.js" timestamp="1481567527799">
-        <mark key="'" line="7" column="16" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/go-chat-server/src/main_extend.go" timestamp="1470158306145">
         <mark key="[" line="6" column="9" />
@@ -1007,13 +941,6 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/src/store/posts/posts.js" timestamp="1488605371681">
-        <mark key="'" line="230" column="11" />
-        <mark key="[" line="241" column="53" />
-        <mark key="]" line="241" column="53" />
-        <mark key="." line="241" column="53" />
-        <mark key="^" line="241" column="53" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/editor-view/save-to-backend-badge.scss" timestamp="1463091946178">
         <mark key="[" line="9" column="22" />
@@ -1051,22 +978,16 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/eywa-dropbox/src/dropbox/rpcRequest.js" timestamp="1488610389200">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="63" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/src/components/layout/Flex.js" timestamp="1464603731873">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="36" />
         <mark key="." line="15" column="36" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/extensions/Eraser.js" timestamp="1484798978509">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="3" column="53" />
-        <mark key="." line="3" column="53" />
-        <mark key="^" line="3" column="53" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/ops/num-ops.es6" timestamp="1488945903971">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/golang-book-notes/002_main.go" timestamp="1469949406281">
         <mark key="[" line="0" column="0" />
@@ -1080,18 +1001,16 @@
         <mark key="." line="24" column="57" />
         <mark key="^" line="24" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/luna/src/Store.spec.ts" timestamp="1482862709890">
-        <mark key="'" line="207" column="9" />
-        <mark key="[" line="202" column="43" />
-        <mark key="]" line="202" column="43" />
-        <mark key="." line="202" column="43" />
-        <mark key="^" line="202" column="46" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/src/store/notice.js" timestamp="1482885352301">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="58" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/modules/cellulose/src/jian.js" timestamp="1489211814026">
+        <mark key="[" line="79" column="4" />
+        <mark key="]" line="79" column="4" />
+        <mark key="." line="79" column="4" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/browser-column-view.scss" timestamp="1481095136540">
         <mark key="[" line="8" column="22" />
@@ -1194,13 +1113,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/luna-saga/karma.conf.js" timestamp="1482863772981">
-        <mark key="'" line="25" column="21" />
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="32" column="64" />
-        <mark key="." line="32" column="64" />
-        <mark key="^" line="32" column="64" />
-      </file>
       <file name="$USER_HOME$/projects/react-layout-components/src/Flex.js" timestamp="1467487411714">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="31" column="13" />
@@ -1218,6 +1130,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="23" column="27" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/.babelrc" timestamp="1488755982947">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="44" />
+        <mark key="." line="1" column="44" />
       </file>
       <file name="$USER_HOME$/projects/episodeyang.github.io/_layouts/post.html" timestamp="1488442225196">
         <mark key="[" line="30" column="0" />
@@ -1261,19 +1178,11 @@
         <mark key="." line="30" column="29" />
         <mark key="^" line="30" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" timestamp="1488122022126">
-        <mark key="'" line="166" column="27" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="." line="197" column="0" />
-        <mark key="^" line="152" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/Bristol.js" timestamp="1484850559912">
-        <mark key="'" line="310" column="7" />
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="0" />
-        <mark key="." line="277" column="0" />
-        <mark key="^" line="302" column="70" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/.gitignore" timestamp="1489214803179">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/input/Input.js" timestamp="1481529650395">
         <mark key="[" line="24" column="34" />
@@ -1281,25 +1190,17 @@
         <mark key="^" line="24" column="47" />
         <mark key="." line="24" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/luna-saga/src/generator-promise.spec.ts" timestamp="1482824690511">
-        <mark key="'" line="18" column="33" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="49" />
-      </file>
       <file name="$USER_HOME$/projects/luna-saga/src/sagaConnect.ts" timestamp="1482770078937">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="42" />
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/store/postList.js" timestamp="1488668635095">
-        <mark key="'" line="98" column="29" />
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="7" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/rootStore.js" timestamp="1488956066237">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/animations/Fade.js" timestamp="1462687481922">
         <mark key="[" line="16" column="64" />
@@ -1307,18 +1208,23 @@
         <mark key="." line="16" column="64" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/views/DropboxRedirectLanding.js" timestamp="1480907202137">
-        <mark key="'" line="2" column="17" />
-        <mark key="[" line="20" column="63" />
-        <mark key="]" line="20" column="63" />
-        <mark key="." line="20" column="63" />
-        <mark key="^" line="2" column="17" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/src/components/pdf-viewer/SimplePdfIframe.js" timestamp="1483170290653">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="32" column="23" />
         <mark key="^" line="32" column="23" />
         <mark key="." line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/index.js" timestamp="1488949901872">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="55" />
+        <mark key="^" line="5" column="55" />
+        <mark key="." line="5" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/Caret.js" timestamp="1489214756107">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/projects/react-canvas-paint/src/extensions/stencilPen.js" timestamp="1480278886770">
         <mark key="[" line="17" column="0" />
@@ -1326,12 +1232,11 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/PostHeader.js" timestamp="1487633102065">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="53" column="42" />
-        <mark key="]" line="53" column="42" />
-        <mark key="." line="53" column="42" />
-        <mark key="^" line="53" column="42" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/modules/cellulose/src/EditorCard.example.js" timestamp="1489211296311">
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="30" />
+        <mark key="." line="26" column="30" />
+        <mark key="^" line="26" column="30" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/modules/dropbox.js" timestamp="1488584697323">
         <mark key="[" line="2" column="0" />
@@ -1369,19 +1274,11 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/list-view/BreadCrumBadges.js" timestamp="1488577377165">
-        <mark key="'" line="44" column="42" />
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="53" column="31" />
-        <mark key="." line="53" column="31" />
-        <mark key="^" line="53" column="31" />
-      </file>
-      <file name="$USER_HOME$/projects/eywa-dropbox/src/dropbox-api.js" timestamp="1487381539988">
-        <mark key="'" line="45" column="24" />
-        <mark key="[" line="116" column="25" />
-        <mark key="]" line="116" column="36" />
-        <mark key="." line="116" column="36" />
-        <mark key="^" line="116" column="36" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/index.js" timestamp="1488757657604">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
       </file>
       <file name="$USER_HOME$/projects/gittor/index.html" timestamp="1461410370371">
         <mark key="[" line="6" column="15" />
@@ -1413,6 +1310,12 @@
         <mark key="^" line="41" column="46" />
         <mark key="." line="8" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/webpack.dev.config.js" timestamp="1488757193958">
+        <mark key="[" line="8" column="60" />
+        <mark key="]" line="8" column="66" />
+        <mark key="." line="8" column="66" />
+        <mark key="^" line="8" column="66" />
+      </file>
       <file name="$USER_HOME$/projects/escher.im/groot/src/Makefile" timestamp="1470809249712">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="15" />
@@ -1437,18 +1340,17 @@
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" timestamp="1488441654998">
-        <mark key="'" line="152" column="27" />
-        <mark key="[" line="147" column="8" />
-        <mark key="]" line="148" column="0" />
-        <mark key="^" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/luna-saga/src/util/isGenerator.ts" timestamp="1482827780725">
         <mark key="[" line="4" column="75" />
         <mark key="]" line="4" column="75" />
         <mark key="." line="4" column="75" />
         <mark key="^" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/.gitignore" timestamp="1473495684188">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="6" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/list-view/order-by-dropdown.scss" timestamp="1462486117634">
         <mark key="[" line="17" column="0" />
@@ -1491,6 +1393,11 @@
         <mark key="]" line="17" column="16" />
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/lib/Selector.js" timestamp="1488957205830">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/badge/SmallBlueBadge.js" timestamp="1483416781755">
         <mark key="[" line="6" column="0" />
@@ -1606,13 +1513,6 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/store/accountBrowser.js" timestamp="1488600876656">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="21" />
-        <mark key="]" line="54" column="21" />
-        <mark key="." line="54" column="21" />
-        <mark key="^" line="54" column="21" />
-      </file>
       <file name="$USER_HOME$/projects/team-signup-client/src/components/Background.js" timestamp="1467485732761">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="12" column="3" />
@@ -1643,13 +1543,6 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/layout-components/src/Responsive.js" timestamp="1484204314331">
-        <mark key="'" line="68" column="2" />
-        <mark key="[" line="53" column="38" />
-        <mark key="]" line="53" column="48" />
-        <mark key="^" line="53" column="48" />
-        <mark key="." line="53" column="48" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/File.js" timestamp="1481095883884">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="6" column="40" />
@@ -1668,12 +1561,6 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/lib/eywa-dropbox/src/dropbox/dropbox-api.js" timestamp="1488584012330">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/react-canvas-paint/src/extensions/dotTest.js" timestamp="1473755521138">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1691,6 +1578,12 @@
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/c-bazel-example/websocket.BUILD" timestamp="1470897579489">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/projects/eywa-dropbox/src/github/contentRequest.js" timestamp="1487481786760">
         <mark key="[" line="13" column="0" />
@@ -1728,13 +1621,6 @@
         <mark key="^" line="85" column="9" />
         <mark key="." line="85" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/lib/ModalReducer.js" timestamp="1483416785507">
-        <mark key="'" line="2" column="37" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/gittor-server/actionHandle.js" timestamp="1467531493493">
         <mark key="[" line="26" column="49" />
         <mark key="]" line="26" column="49" />
@@ -1765,6 +1651,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="1" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/Setup_EMR_On_AWS.md" timestamp="1488946498872">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/episodeyang.github.io/_includes/mixpanel.html" timestamp="1488564790968">
         <mark key="[" line="3" column="66" />
         <mark key="]" line="3" column="74" />
@@ -1782,6 +1674,12 @@
         <mark key="]" line="5" column="15" />
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/App.js" timestamp="1488958419962">
+        <mark key="[" line="9" column="71" />
+        <mark key="]" line="9" column="71" />
+        <mark key="." line="9" column="71" />
+        <mark key="^" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/projects/gittor/.gitignore" timestamp="1482989738163">
         <mark key="[" line="4" column="3" />
@@ -1801,6 +1699,11 @@
         <mark key="^" line="37" column="9" />
         <mark key="." line="37" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/ops/js.operation.helloworld.html" timestamp="1488756133278">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/gittor/src/store/demoInitialState.js" timestamp="1463283820820">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="23" />
@@ -1813,6 +1716,12 @@
         <mark key="." line="20" column="82" />
         <mark key="^" line="20" column="82" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/DemoComponent.js" timestamp="1489217100883">
+        <mark key="[" line="58" column="7" />
+        <mark key="]" line="58" column="100" />
+        <mark key="." line="58" column="100" />
+        <mark key="^" line="58" column="100" />
+      </file>
       <file name="$USER_HOME$/projects/react-canvas-paint/src/HappySandwichMaker.example.js" timestamp="1473711863030">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="23" />
@@ -1824,13 +1733,6 @@
         <mark key="]" line="14" column="42" />
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="43" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-mathjax.js" timestamp="1487609364150">
-        <mark key="'" line="70" column="42" />
-        <mark key="[" line="98" column="29" />
-        <mark key="]" line="98" column="38" />
-        <mark key="." line="98" column="38" />
-        <mark key="^" line="98" column="38" />
       </file>
       <file name="$USER_HOME$/projects/eywa-dropbox/src/test.config.js.example" timestamp="1487434230907">
         <mark key="[" line="2" column="54" />
@@ -1880,6 +1782,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/README.md" timestamp="1489207714263">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/eywa-dropbox/src/contentRequest.js" timestamp="1465705633040">
         <mark key="[" line="25" column="35" />
         <mark key="]" line="25" column="35" />
@@ -1903,13 +1811,6 @@
         <mark key="]" line="1" column="12" />
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/webpack.develop.config.js" timestamp="1488757590656">
-        <mark key="'" line="46" column="50" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="58" column="7" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/notifications/notifications.scss" timestamp="1482890178586">
         <mark key="[" line="41" column="24" />
@@ -1946,12 +1847,11 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/EditorView.js" timestamp="1484849693384">
-        <mark key="'" line="10" column="10" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="55" />
-        <mark key="." line="14" column="5" />
-        <mark key="^" line="14" column="5" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/index.js" timestamp="1489207294606">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="29" />
       </file>
       <file name="$USER_HOME$/test-kik-bot/.gitignore" timestamp="1473295601982">
         <mark key="[" line="4" column="0" />
@@ -1970,6 +1870,12 @@
         <mark key="]" line="33" column="14" />
         <mark key="." line="33" column="14" />
         <mark key="^" line="33" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/selection.js" timestamp="1489217143087">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/modal/modal-transitions.scss" timestamp="1462695789858">
         <mark key="[" line="25" column="26" />
@@ -2007,12 +1913,11 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-math.js" timestamp="1488396315871">
-        <mark key="'" line="37" column="28" />
-        <mark key="[" line="110" column="31" />
-        <mark key="]" line="110" column="26" />
-        <mark key="^" line="110" column="26" />
-        <mark key="." line="110" column="26" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/README.md" timestamp="1488949752101">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/rust-chat-server/openssl_fix" timestamp="1470719262759">
         <mark key="[" line="2" column="0" />
@@ -2080,6 +1985,12 @@
         <mark key="." line="20" column="68" />
         <mark key="^" line="75" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" timestamp="1489214459403">
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="4" column="77" />
+        <mark key="." line="4" column="77" />
+        <mark key="^" line="4" column="77" />
+      </file>
       <file name="$USER_HOME$/projects/episodeyang.github.io/posts/index.scss" timestamp="1488444939814">
         <mark key="[" line="57" column="31" />
         <mark key="]" line="57" column="32" />
@@ -2092,25 +2003,11 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/markdown/Markdown.js" timestamp="1487734538469">
-        <mark key="'" line="117" column="67" />
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="16" />
-        <mark key="." line="29" column="16" />
-        <mark key="^" line="29" column="16" />
-      </file>
       <file name="$USER_HOME$/projects/eywa-dropbox/webpack.production.config.js" timestamp="1465787288018">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
         <mark key="^" line="87" column="31" />
-      </file>
-      <file name="$USER_HOME$/projects/luna-saga/webpack.config.js" timestamp="1482823883280">
-        <mark key="'" line="19" column="54" />
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="31" />
-        <mark key="^" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/lib/dropbox/dropbox-api.js" timestamp="1465453534817">
         <mark key="[" line="89" column="19" />
@@ -2129,27 +2026,6 @@
         <mark key="]" line="5" column="23" />
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/projects/luna-saga/src/Saga.spec.ts" timestamp="1482866376147">
-        <mark key="'" line="44" column="18" />
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="17" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/eywa-dropbox/src/github/github-api.js" timestamp="1487484685894">
-        <mark key="'" line="55" column="33" />
-        <mark key="[" line="99" column="34" />
-        <mark key="]" line="99" column="40" />
-        <mark key="." line="99" column="40" />
-        <mark key="^" line="99" column="40" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/notes/amsmath.js" timestamp="1487905667649">
-        <mark key="'" line="507" column="22" />
-        <mark key="[" line="505" column="0" />
-        <mark key="]" line="508" column="4" />
-        <mark key="^" line="19" column="13034" />
-        <mark key="." line="19" column="13034" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/editor-view/modals/SaveToBackendModal/ChooseAService.js" timestamp="1481070105103">
         <mark key="[" line="15" column="0" />
@@ -2187,13 +2063,6 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" timestamp="1488641415156">
-        <mark key="'" line="83" column="9" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="124" column="58" />
-        <mark key="." line="129" column="23" />
-        <mark key="^" line="129" column="23" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/src/input/Input.js" timestamp="1462126605445">
         <mark key="[" line="5" column="38" />
         <mark key="]" line="5" column="43" />
@@ -2206,12 +2075,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/eywa-dropbox/src/dropbox-api.spec.js" timestamp="1487387918943">
-        <mark key="'" line="74" column="9" />
-        <mark key="[" line="95" column="24" />
-        <mark key="]" line="95" column="27" />
-        <mark key="." line="95" column="27" />
-        <mark key="^" line="95" column="27" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/Caret.css" timestamp="1489214730436">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/go-chat-server/src/main.go" timestamp="1470808109881">
         <mark key="[" line="4" column="16" />
@@ -2255,13 +2123,6 @@
         <mark key="^" line="10" column="23" />
         <mark key="." line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/SizeContainer.js" timestamp="1483382477261">
-        <mark key="'" line="6" column="32" />
-        <mark key="[" line="46" column="4" />
-        <mark key="]" line="46" column="56" />
-        <mark key="." line="46" column="56" />
-        <mark key="^" line="46" column="56" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/src/editor-view/OpenEditorConfig.js" timestamp="1462588894071">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="99" />
@@ -2286,6 +2147,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/reducers/rootStore.js" timestamp="1488950907439">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/react-layout-components/src/Flex-row.example.js" timestamp="1467360239632">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="30" />
@@ -2303,6 +2170,11 @@
         <mark key="]" line="10" column="13" />
         <mark key="^" line="11" column="67" />
         <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/ops/string-ops.spec.js" timestamp="1489120965301">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/markdown-preview/dom/findNodeWithText.js" timestamp="1487609738166">
         <mark key="[" line="3" column="2" />
@@ -2327,13 +2199,6 @@
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/modals/SaveToBackendModal/SaveToBackendModal.js" timestamp="1481572792144">
-        <mark key="'" line="62" column="2" />
-        <mark key="[" line="68" column="21" />
-        <mark key="]" line="68" column="21" />
-        <mark key="^" line="68" column="21" />
-        <mark key="." line="68" column="21" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/lib/immutables/charInt.js" timestamp="1484457667675">
         <mark key="[" line="13" column="32" />
@@ -2430,6 +2295,12 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/ops/array-ops.es6" timestamp="1488945594308">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/episodeyang.github.io/index.html" timestamp="1461396270481">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="9" column="37" />
@@ -2454,20 +2325,6 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/luna-saga/src/saga.simple.spec.ts" timestamp="1482868915666">
-        <mark key="'" line="45" column="12" />
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="11" column="35" />
-        <mark key="^" line="11" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/luna-saga/package.json" timestamp="1482882947059">
-        <mark key="'" line="52" column="17" />
-        <mark key="[" line="34" column="55" />
-        <mark key="]" line="34" column="58" />
-        <mark key="." line="34" column="58" />
-        <mark key="^" line="34" column="58" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/src/layout/FlexRow.js" timestamp="1461526601080">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="16" column="24" />
@@ -2485,13 +2342,6 @@
         <mark key="]" line="3" column="34" />
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
-      </file>
-      <file name="$USER_HOME$/projects/eywa-dropbox/src/github/github-api.spec.js" timestamp="1487469263261">
-        <mark key="'" line="72" column="6" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="85" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/modal/ModalContainer.js" timestamp="1462750715432">
         <mark key="[" line="13" column="38" />
@@ -2516,10 +2366,6 @@
         <mark key="]" line="16" column="72" />
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
-      </file>
-      <file name="$USER_HOME$/projects/eywa-dropbox/package.json" timestamp="1488755848800">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -2626,28 +2472,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>babel</text>
       </register>
       <register name="0" type="4">
-        <text>action: Action|Thunk</text>
+        <text encoding="base64">IHx8IGUudGFyZ2V0LnZhbHVlID0gJyc=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG86IGF1dG9iaW5kIHRoaXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgdmFsdWU9IiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjdGlvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLmVudGl0aWVzLmZvckVhY2goKHBvc3QpPT57Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRvZG86IGF1dG9iaW5kIHRoaXMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2697,20 +2546,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHlpZWxkIGRpc3BhdGNoKHt0eXBlOiAiU0VMRUNUX1BPU1QiLCBwb3N0SWQ6IGVkaXRvci5wb3N0SWR9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjY291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLmVudGl0aWVzLmZvckVhY2goKHBvc3QpPT57Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBvc3RMaXN0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHlpZWxkIGRpc3BhdGNoKHt0eXBlOiAiU0VMRUNUX1BPU1QiLCBwb3N0SWQ6IGVkaXRvci5wb3N0SWR9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2727,49 +2573,12 @@
     </search>
     <history>
       <history-search>
-        <entry>The ratio</entry>
-        <entry>path</entry>
-        <entry>Path</entry>
-        <entry>brace</entry>
-        <entry>pdf</entry>
-        <entry>preview</entry>
-        <entry>blob</entry>
-        <entry>dapi</entry>
-        <entry>main</entry>
-        <entry>\/file</entry>
-        <entry>Preview</entry>
-        <entry>Blob</entry>
-        <entry>long</entry>
-        <entry>list</entry>
-        <entry>search</entry>
-        <entry>folder</entry>
-        <entry>luna-saga</entry>
-        <entry>longPoll</entry>
-        <entry>watchFolder</entry>
-        <entry>babel</entry>
+        <entry>alterna</entry>
+        <entry>watch</entry>
+        <entry>console</entry>
+        <entry>Caret</entry>
       </history-search>
-      <history-cmd>
-        <entry>%s/isPreblock/dom.isPreblock/g</entry>
-        <entry>%s/isList/dom.isList/g</entry>
-        <entry>%s/isBlock/dom.isBlock/g</entry>
-        <entry>%s/isVoid/dom.isVoid/g</entry>
-        <entry>%s/isTaEditorContainer/dom.isTaEditorContainer/g</entry>
-        <entry>%s/all/opacity/g</entry>
-        <entry>%s/keyLeft/keyArrowLeft/g</entry>
-        <entry>%s/keyDown/keyArrowDown/g</entry>
-        <entry>%s/keyRight/keyArrowRight/g</entry>
-        <entry>%s/keyUp/keyArrowUp/g</entry>
-        <entry>%s/NoteModel/HashStoreModel/g</entry>
-        <entry>%s/,/\n/gc</entry>
-        <entry>%s/$/                           /g</entry>
-        <entry>%s/$/                           ./g</entry>
-        <entry>%s/$/                                                                                                                                          ./g</entry>
-        <entry>%s/data/authData/gc</entry>
-        <entry>%s/PropTypes\.//gc</entry>
-        <entry>%s:/React.PropTypes.//gc</entry>
-        <entry>wq</entry>
-        <entry>w</entry>
-      </history-cmd>
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
