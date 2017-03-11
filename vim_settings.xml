@@ -481,10 +481,11 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/source.js" timestamp="1489233486587">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/source.js" timestamp="1489251080098">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/editor-view/modals/themeList.js" timestamp="1462753340719">
         <mark key="[" line="0" column="31" />
@@ -1207,11 +1208,11 @@
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/rootStore.js" timestamp="1489233386126">
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="33" />
-        <mark key="." line="28" column="33" />
-        <mark key="^" line="28" column="33" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/rootStore.js" timestamp="1489252125508">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="38" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/animations/Fade.js" timestamp="1462687481922">
         <mark key="[" line="16" column="64" />
@@ -1739,11 +1740,11 @@
         <mark key="." line="20" column="82" />
         <mark key="^" line="20" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/DemoComponent.js" timestamp="1489231559405">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="33" column="51" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/DemoComponent.js" timestamp="1489252416063">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+        <mark key="^" line="28" column="17" />
       </file>
       <file name="$USER_HOME$/projects/react-canvas-paint/src/HappySandwichMaker.example.js" timestamp="1473711863030">
         <mark key="[" line="1" column="25" />
@@ -1894,8 +1895,8 @@
         <mark key="." line="33" column="14" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/selection.js" timestamp="1489230447907">
-        <mark key="[" line="24" column="7" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/selection.js" timestamp="1489251087409">
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="24" column="7" />
         <mark key="." line="24" column="7" />
         <mark key="^" line="24" column="7" />
@@ -2008,11 +2009,11 @@
         <mark key="." line="20" column="68" />
         <mark key="^" line="75" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" timestamp="1489232913047">
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" timestamp="1489252428171">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
         <mark key="^" line="2" column="42" />
       </file>
       <file name="$USER_HOME$/projects/episodeyang.github.io/posts/index.scss" timestamp="1488444939814">
@@ -2502,10 +2503,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbW1hbmQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>, pos: props.selection.head</text>
       </register>
       <register name="/" type="4">
         <text>Input</text>
@@ -2514,19 +2515,19 @@
         <text encoding="base64">ICBsZXQgbGVmdCA9IE1hdGgubWluKGFjdGlvbi5zZWxlY3Rpb24uYW5jaG9yLCBhY3Rpb24uc2VsZWN0aW9uLmhlYWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbW1hbmQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBwb3M6IHByb3BzLnNlbGVjdGlvbi5oZWFkLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gb3BzLm1hcCgob3ApID0+ICh7Li4uYWN0aW9uLCBvcH0pKS5yZWR1Y2Uocm9vdFJlZHVjZXIsIGRvYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZWxlY3Rpb246IHByb3BzLnNlbGVjdGlvbiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdGlvbjogcHJvcHMuc2VsZWN0aW9uLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgTUVUQV9LRVlTID0gWydTSElGVCcsICdDVFJMJywgJ0FMVCddOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcHMpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2576,20 +2577,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">dCAKdCA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpZiAoZGVsX29wLmwgPiAwKSBvcHMgPSBbZGVsX29wXTsK</text>
       </register>
-      <register name="7" type="8">
-        <text>let 
-let 
-cons
-cons</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24sIHN0YXRlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24sIHN0YXRlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQgbGVmdCA9IE1hdGgubWluKGFjdGlvbi5zZWxlY3Rpb24uYW5jaG9yLCBhY3Rpb24uc2VsZWN0aW9uLmhlYWQpOwogIGxldCByaWdodCA9IE1hdGgubWF4KGFjdGlvbi5zZWxlY3Rpb24uYW5jaG9yLCBhY3Rpb24uc2VsZWN0aW9uLmhlYWQpOwogIGNvbnN0IGRlbF9vcCA9IHt0eXBlOiAiZGVsIiwgcG9zOiBsZWZ0LCBsOiByaWdodCAtIGxlZnR9OwogIGNvbnN0IG9wcyA9IGRlbF9vcC5sID49IDAgPyBbZGVsX29wXTpbXTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
