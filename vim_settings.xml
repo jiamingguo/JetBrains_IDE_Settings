@@ -1740,11 +1740,10 @@
         <mark key="." line="20" column="82" />
         <mark key="^" line="20" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/DemoComponent.js" timestamp="1489252416063">
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="17" />
-        <mark key="." line="28" column="17" />
-        <mark key="^" line="28" column="17" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/DemoComponent.js" timestamp="1489260358305">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/react-canvas-paint/src/HappySandwichMaker.example.js" timestamp="1473711863030">
         <mark key="[" line="1" column="25" />
@@ -2503,10 +2502,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc9PT0+IG9uQ29tcG9zaXRpb25FbmQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>ENTER</text>
@@ -2515,19 +2514,19 @@
         <text encoding="base64">ICAgIGlmICh0aGlzLmlzQ29tcG9zaW5nKSByZXR1cm47CiAgICB0aGlzLl9kaXNwYXRjaCgiSU5QVVQiLCB0aGlzLm5hdGl2ZUVsZW1lbnQuaW5uZXJIVE1MKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc9PT0+IG9uQ29tcG9zaXRpb25FbmQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCc9PT0+IG9uSW5wdXQnKTsK</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRVcGRhdGUoKSB7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZGVib3VuY2UpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJlQmxvY2spOwogICAgc2V0VGltZW91dCgoKT0+ewogICAgICBoaWdobGlnaHRCbG9jayh0aGlzLnByZUJsb2NrKTsKICAgIH0sIDEwMDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNmICh0aGlzLmlzQ29tcG9zaW5nKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIGhpZ2hsaWdodEJsb2NrKHRoaXMucHJlQmxvY2spOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2578,16 +2577,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMub25JbnB1dCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNDb21wb3NpbmcgPSBmYWxzZTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coaGlnaGxpZ2h0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0b3A6ICI1cHgiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXJnaW5Ub3A6ICJjYWxjKDFlbSAtIDIwcHgpIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
