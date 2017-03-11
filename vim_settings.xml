@@ -2009,12 +2009,12 @@
         <mark key="." line="20" column="68" />
         <mark key="^" line="75" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" timestamp="1489254269232">
-        <mark key="'" line="12" column="15" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="2" column="42" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" timestamp="1489259122885">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="48" column="56" />
       </file>
       <file name="$USER_HOME$/projects/episodeyang.github.io/posts/index.scss" timestamp="1488444939814">
         <mark key="[" line="57" column="31" />
@@ -2502,32 +2502,32 @@
       <jump line="12" column="15" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>baseline</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc9PT0+IG9uQ29tcG9zaXRpb25FbmQnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>baseline</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ENTER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB9IGVsc2UgaWYgKGFjdGlvbi50eXBlID09PSAiQkFDS1NQQUNFIikgewogICAgaWYgKGRlbF9vcC5sZW5ndGggPiAwKSBvcHMgPSBbZGVsX29wXTsKICAgIGVsc2Ugb3BzID0gW3t0eXBlOiAiZGVsIiwgcG9zOiBzdGF0ZS5zZWxlY3Rpb24uYW5jaG9yIC0gMSwgbGVuZ3RoOiAxfV07Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmlzQ29tcG9zaW5nKSByZXR1cm47CiAgICB0aGlzLl9kaXNwYXRjaCgiSU5QVVQiLCB0aGlzLm5hdGl2ZUVsZW1lbnQuaW5uZXJIVE1MKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0b3A6ICI1cHgiLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc9PT0+IG9uQ29tcG9zaXRpb25FbmQnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtYXJnaW5Ub3A6ICJjYWxjKDFlbSAtIDIwcHgpIiwK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCc9PT0+IG9uSW5wdXQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKiB0b3A6IC0wLjVlbTsgKi8KICAvKiB0b3A6IDBweDsgKi8K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZGVib3VuY2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aGVpZ2h0OiAiMHB4IiwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmVydGljYWwtYWxpZ246IGJhc2VsaW5lOwo=</text>
+        <text encoding="base64">ICAgIHNmICh0aGlzLmlzQ29tcG9zaW5nKSByZXR1cm47Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2578,16 +2578,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ym94U2l6aW5nOiAiYm9yZGVyLWJveCIsCg==</text>
+        <text encoding="base64">ICAgIHRoaXMub25JbnB1dCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFkZGluZy1ib3R0b206IDAuNWVtOwpwYWRkaW5nLXRvcDogMC41ZW07Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNDb21wb3NpbmcgPSBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWFyZ2luLWJvdHRvbTogLTAuNWVtOwo=</text>
+        <text encoding="base64">ICB0b3A6ICI1cHgiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWFyZ2luLXRvcDogLTAuNWVtOwo=</text>
+        <text encoding="base64">ICBtYXJnaW5Ub3A6ICJjYWxjKDFlbSAtIDIwcHgpIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
