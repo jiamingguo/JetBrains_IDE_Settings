@@ -1,0 +1,8 @@
+<templateSet group="gulp">
+  <template name="gulp-task" value="gulp.task('$TaskName$', function(){&#10;})" description="gulp task" toReformat="true" toShortenFQNames="true">
+    <variable name="TaskName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,2803 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/gittor/src/app/RootStore.js" timestamp="1463281842492">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/SelectServiceView.js" timestamp="1464994959876">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+      </file>
+      <file name="/a.dummy" timestamp="1488958060618">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/views/IntegratsionsView.js" timestamp="1471416079833">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/operational-transform-reducers/src/arrayRemove.js" timestamp="1469901078006">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/list-view/list-panel.scss" timestamp="1461741787339">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="28" column="16" />
+        <mark key="^" line="28" column="16" />
+        <mark key="." line="28" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/index.ts" timestamp="1482773073005">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/animations/fade-and-slide-down.scss" timestamp="1462695569264">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="33" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="20" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/node_modules/eywa-dropbox/src/dropbox-api.js" timestamp="1488580366061">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/layout-components/src/index.js" timestamp="1481502957438">
+        <mark key="[" line="7" column="51" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/README.md" timestamp="1482883199546">
+        <mark key="'" line="85" column="23" />
+        <mark key="[" line="337" column="24" />
+        <mark key="]" line="337" column="25" />
+        <mark key="^" line="337" column="25" />
+        <mark key="." line="337" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/c-bazel-example/test/hello-test.cc" timestamp="1470732344792">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/list-view/post-item.scss" timestamp="1481506282365">
+        <mark key="[" line="51" column="22" />
+        <mark key="]" line="51" column="22" />
+        <mark key="." line="51" column="22" />
+        <mark key="^" line="51" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editor-view/backend-badge.scss" timestamp="1463091457295">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/go-makefile-hello-world-example/init.sh" timestamp="1470027204151">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="47" column="15" />
+        <mark key="^" line="47" column="15" />
+        <mark key="." line="47" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" timestamp="1488502615659">
+        <mark key="'" line="116" column="50" />
+        <mark key="[" line="118" column="68" />
+        <mark key="]" line="118" column="68" />
+        <mark key="^" line="118" column="68" />
+        <mark key="." line="118" column="68" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/form/Button.js" timestamp="1483416768668">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/react-layout-components/webpack.build-static-docs.config.js" timestamp="1467357554808">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="33" />
+        <mark key="^" line="20" column="25" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/BrowserColumn.js" timestamp="1481002332271">
+        <mark key="[" line="22" column="47" />
+        <mark key="]" line="22" column="59" />
+        <mark key="^" line="22" column="59" />
+        <mark key="." line="22" column="59" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/typings.json" timestamp="1482881186097">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/package.json" timestamp="1488757575936">
+        <mark key="'" line="39" column="5" />
+        <mark key="[" line="116" column="4" />
+        <mark key="]" line="116" column="90" />
+        <mark key="^" line="118" column="5" />
+        <mark key="." line="118" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/badge/BlueBadge.js" timestamp="1483416764581">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="69" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/badge/BadgeWithControl.js" timestamp="1481505393549">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="73" />
+        <mark key="^" line="5" column="73" />
+        <mark key="." line="5" column="73" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/test.github.config.js" timestamp="1487384593788">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="94" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/modals/SaveToBackendModal/ConnectToService.js" timestamp="1481568885131">
+        <mark key="'" line="34" column="48" />
+        <mark key="[" line="34" column="97" />
+        <mark key="]" line="34" column="95" />
+        <mark key="." line="34" column="95" />
+        <mark key="^" line="34" column="95" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/generator.spec.ts" timestamp="1482825116872">
+        <mark key="'" line="14" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/episodeyang.github.io/front-page/index.js" timestamp="1461393455950">
+        <mark key="[" line="43" column="39" />
+        <mark key="]" line="43" column="42" />
+        <mark key="^" line="43" column="42" />
+        <mark key="." line="43" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/cellulose/src/caretUtils/getCaretText.js" timestamp="1469683056169">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/account-list-view.scss" timestamp="1481079196308">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" timestamp="1488610338627">
+        <mark key="'" line="122" column="2" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="70" />
+        <mark key="." line="80" column="70" />
+        <mark key="^" line="80" column="70" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/CodeEditor.js" timestamp="1488576966159">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/episodeyang.github.io/_sass/article.scss" timestamp="1488445299800">
+        <mark key="'" line="19" column="26" />
+        <mark key="[" line="50" column="6" />
+        <mark key="]" line="50" column="10" />
+        <mark key="." line="50" column="10" />
+        <mark key="^" line="50" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/list-view/ListPanel.js" timestamp="1487609507712">
+        <mark key="'" line="155" column="23" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="76" column="108" />
+        <mark key="^" line="76" column="108" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/build/index.html" timestamp="1461480209580">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/cellulose/src/domUtils/getCaretText.js" timestamp="1469682516683">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/util/Sym.ts" timestamp="1482879202537">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/episodeyang.github.io/front-page/index.scss" timestamp="1461397124849">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/animations/Animate.js" timestamp="1462694962769">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/oauth/AccountList.js" timestamp="1463267160941">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="14" />
+        <mark key="." line="27" column="14" />
+        <mark key="^" line="27" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/react-layout-components/src/example/index.html" timestamp="1467358602599">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/go-makefile-hello-world-example/activate" timestamp="1470028819466">
+        <mark key="[" line="0" column="65" />
+        <mark key="]" line="0" column="65" />
+        <mark key="." line="0" column="65" />
+        <mark key="^" line="0" column="69" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1483404647516">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/app/demoPost.js" timestamp="1462333081436">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/post-view/PostView.js" timestamp="1484202732610">
+        <mark key="[" line="54" column="10" />
+        <mark key="]" line="54" column="10" />
+        <mark key="." line="54" column="10" />
+        <mark key="^" line="54" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" timestamp="1488576617056">
+        <mark key="'" line="7" column="17" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/saga.effects.spec.ts" timestamp="1482878886786">
+        <mark key="'" line="151" column="78" />
+        <mark key="[" line="153" column="61" />
+        <mark key="]" line="153" column="61" />
+        <mark key="." line="153" column="61" />
+        <mark key="^" line="153" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/react-markdownit/src/index.js" timestamp="1467219391496">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/react-es6-template/webpack.build-docs.config.js" timestamp="1467356475560">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="38" column="6" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="23" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/messenger-platform-samples/config/default.json" timestamp="1472377761730">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="203" />
+        <mark key="^" line="2" column="203" />
+        <mark key="." line="2" column="203" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/containers/Posts.js" timestamp="1463265203521">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/test-kik-bot/README.md" timestamp="1473295066007">
+        <mark key="[" line="31" column="52" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="18" />
+        <mark key="." line="23" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/webpack.production.config.js" timestamp="1481375957114">
+        <mark key="'" line="9" column="18" />
+        <mark key="[" line="96" column="24" />
+        <mark key="]" line="96" column="35" />
+        <mark key="." line="96" column="35" />
+        <mark key="^" line="96" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/notes/Todo List.md" timestamp="1487374380824">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/app/demoInitialState.js" timestamp="1462893607600">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/BristolBoard.js" timestamp="1484871346924">
+        <mark key="[" line="28" column="75" />
+        <mark key="]" line="28" column="75" />
+        <mark key="^" line="28" column="75" />
+        <mark key="." line="28" column="75" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/go-chat-server/src/glide.yaml" timestamp="1470547711347">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/react-canvas-paint/src/extensions/caligraphyPen.js" timestamp="1473674002337">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/effects/effectsHelpers.ts" timestamp="1482828089104">
+        <mark key="'" line="155" column="11" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+        <mark key="^" line="126" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/bindrs/bindrs.js" timestamp="1483416833762">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="23" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/index.html" timestamp="1488756691441">
+        <mark key="'" line="66" column="30" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="57" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="72" column="107" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editor-view/FullScreenToggleButton.js" timestamp="1463133219127">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="48" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/modals/SaveToBackendModal/PostServiceInfoView.js" timestamp="1471415840271">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="44" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/RootStore.js" timestamp="1488641531333">
+        <mark key="'" line="13" column="44" />
+        <mark key="[" line="75" column="22" />
+        <mark key="]" line="75" column="35" />
+        <mark key="." line="75" column="35" />
+        <mark key="^" line="75" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/ssl-setup-server/test-config" timestamp="1473297657475">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="1" column="51" />
+        <mark key="^" line="1" column="50" />
+        <mark key="." line="1" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown/mathjax-config.js" timestamp="1488607869782">
+        <mark key="'" line="42" column="9" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/styling/Height.js" timestamp="1464597201294">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/notes/OT operation definitions.md" timestamp="1484513152309">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/extensions/utils.js" timestamp="1483416747749">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/oauth/dropboxApi.js" timestamp="1463262578513">
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="47" />
+        <mark key="^" line="1" column="47" />
+        <mark key="." line="1" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/react-layout-components/webpack.build-docs.config.js" timestamp="1467269235722">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="38" />
+        <mark key="^" line="23" column="25" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown-preview/dom/cursorHelpers.js" timestamp="1487609759000">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/groot/src/chat-server/README.md" timestamp="1470812796467">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editor-view/placeholder copies.js" timestamp="1463072669601">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/tsconfig.json" timestamp="1482882030387">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/team-signup-client/src/example/Readme.js" timestamp="1467367731599">
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/Bristol.js" timestamp="1481606502878">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/util/isAction.ts" timestamp="1482882376687">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+        <mark key="^" line="2" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/accounts/accounts.js" timestamp="1483291801679">
+        <mark key="'" line="76" column="10" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="51" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="76" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/Editor.js" timestamp="1484202661749">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="6" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/go-chat-server/src/hello.go" timestamp="1470011482664">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/util/isCallback.ts" timestamp="1482827727652">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/configs.js" timestamp="1480905703813">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/lib/immutables/collaborative-string.spec.js" timestamp="1484461952143">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/team-signup-client/src/index.html" timestamp="1467487023833">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="55" />
+        <mark key="." line="8" column="55" />
+        <mark key="^" line="8" column="55" />
+      </file>
+      <file name="$USER_HOME$/test-kik-bot/package.json" timestamp="1473290154351">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/Bristol.example.js" timestamp="1481683319861">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="11" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown/mathjax-service.js" timestamp="1487523377955">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editor-view/modals/themeList.js" timestamp="1462753340719">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad-new/app-server/src/CollaborationModel/CollaborationModel.ts" timestamp="1466657336660">
+        <mark key="[" line="27" column="2" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/rust-chat-server/openssl_fix.sh" timestamp="1470587164049">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="61" />
+        <mark key="^" line="0" column="61" />
+        <mark key="." line="0" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/groot/src/chat-server/Makefile" timestamp="1470812487772">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/demo/index.js" timestamp="1487483688087">
+        <mark key="[" line="10" column="64" />
+        <mark key="]" line="10" column="73" />
+        <mark key="^" line="10" column="73" />
+        <mark key="." line="10" column="73" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/groot/src/main.go" timestamp="1470809488174">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="45" />
+        <mark key="." line="10" column="45" />
+        <mark key="^" line="10" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/team-nav/TeamNavBar.js" timestamp="1461026718550">
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="59" />
+        <mark key="." line="17" column="59" />
+        <mark key="^" line="17" column="59" />
+      </file>
+      <file name="$USER_HOME$/projects/react-canvas-paint/src/Bristol.example.js" timestamp="1480294855819">
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="21" column="4" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/notifications/notifications.js" timestamp="1483416740492">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/react-vis-link-graph/src/utils/get-width-sums.js" timestamp="1472105907576">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/lib/immutables/immutable-array.js" timestamp="1484469931822">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown/Mathjax.js" timestamp="1488051248770">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="86" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/go-chat-server/src/asset/index.html" timestamp="1470543484201">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+        <mark key="^" line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/util/isNull.ts" timestamp="1482827808178">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/react-layout-components/src/Flex-fill.example.js" timestamp="1467360523608">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="26" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/Saga$.ts" timestamp="1482733133288">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/react-highlightjs/README.md" timestamp="1467182495624">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/cellulose/src/RichTextEditor.example.js" timestamp="1469675762793">
+        <mark key="[" line="73" column="34" />
+        <mark key="]" line="73" column="34" />
+        <mark key="^" line="73" column="34" />
+        <mark key="." line="73" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/modules/dropbox-service.js" timestamp="1480908396046">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="5" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/episodeyang.github.io/_layouts/default.html" timestamp="1488564153854">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/controls/RangeSelector.js" timestamp="1484800127527">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/badge/small-blue-badge.scss" timestamp="1481506820366">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown-editor/MarkdownEditor.js" timestamp="1484852348129">
+        <mark key="'" line="67" column="13" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="163" column="17" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="34" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/saga.store.spec.ts" timestamp="1482877761821">
+        <mark key="'" line="29" column="8" />
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="47" column="33" />
+        <mark key="." line="47" column="33" />
+        <mark key="^" line="47" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/operational-transform-reducers/src/arrayInsert.js" timestamp="1469901073454">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/modal/modal.scss" timestamp="1462744065999">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/luna/src/util/isAction.ts" timestamp="1482826995861">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/Canvas.js" timestamp="1484453904670">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="89" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/badge/badge.scss" timestamp="1465024915025">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/AccountEntryWithExpandableBrowser.js" timestamp="1483124325145">
+        <mark key="[" line="43" column="63" />
+        <mark key="]" line="43" column="75" />
+        <mark key="^" line="43" column="75" />
+        <mark key="." line="43" column="75" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/layout/Width.js" timestamp="1464651340584">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/team-signup-client/src/example/index.html" timestamp="1467479480761">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/storeHelper.ts" timestamp="1481088206322">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/team-nav/team-nav-bar.scss" timestamp="1461039906093">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/SaveToBackEndBadge.js" timestamp="1487008758970">
+        <mark key="'" line="51" column="2" />
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/util/isPromise.ts" timestamp="1482827820009">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editor-view/modals/configs/themeList.js" timestamp="1462753443504">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="49" column="14" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown/MathJax.js" timestamp="1487575102808">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/c-bazel-example/test/BUILD" timestamp="1470727971344">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/extensions/simplePen.js" timestamp="1481684704511">
+        <mark key="'" line="11" column="11" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/folderEntry.js" timestamp="1481095287989">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/textShortener.js" timestamp="1483120677882">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="1" />
+        <mark key="." line="28" column="1" />
+        <mark key="^" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/badge/blue-badge.scss" timestamp="1481506051738">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editor-view/modals/SaveToBackEndModal.js" timestamp="1463280600813">
+        <mark key="[" line="58" column="35" />
+        <mark key="]" line="58" column="35" />
+        <mark key="." line="58" column="35" />
+        <mark key="^" line="58" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/modal/SimpleModal.js" timestamp="1486947831521">
+        <mark key="[" line="75" column="12" />
+        <mark key="]" line="75" column="12" />
+        <mark key="." line="75" column="12" />
+        <mark key="^" line="75" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/react-canvas-paint/src/extensions/calligraphyPen.js" timestamp="1473704866619">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="39" column="23" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/accountBrowserReducer.js" timestamp="1481082113793">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="20" column="1" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/popover/Popover.js" timestamp="1462664011825">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="38" />
+        <mark key="^" line="50" column="7" />
+        <mark key="." line="50" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/list-view/PostListItem.js" timestamp="1488578463256">
+        <mark key="'" line="56" column="6" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/golang-book-notes/hello.go" timestamp="1469947516733">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/FolderEntry.js" timestamp="1481095644615">
+        <mark key="[" line="6" column="72" />
+        <mark key="]" line="6" column="55" />
+        <mark key="^" line="6" column="55" />
+        <mark key="." line="6" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editable/InlineEditable.js" timestamp="1482996783914">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="133" column="6" />
+        <mark key="]" line="133" column="12" />
+        <mark key="." line="133" column="12" />
+        <mark key="^" line="133" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/if/If.js" timestamp="1463132542075">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/layout/Responsive.js" timestamp="1471415150859">
+        <mark key="[" line="83" column="31" />
+        <mark key="]" line="83" column="35" />
+        <mark key="^" line="83" column="35" />
+        <mark key="." line="83" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/unsplash/unsplash.plist" timestamp="1484679292112">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/interfaces.ts" timestamp="1481091584046">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/episodeyang.github.io/webpack.config.js" timestamp="1461460738378">
+        <mark key="[" line="15" column="72" />
+        <mark key="]" line="15" column="72" />
+        <mark key="." line="15" column="72" />
+        <mark key="^" line="15" column="72" />
+      </file>
+      <file name="$USER_HOME$/projects/react-layout-components/.babelrc" timestamp="1467296653400">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/index.html" timestamp="1487385182835">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="9" column="75" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/posts/PostsContainer.js" timestamp="1481059899369">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="55" />
+        <mark key="^" line="33" column="38" />
+        <mark key="." line="33" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/notices.js" timestamp="1483416731213">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="30" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editor-view/configs/themeList.js" timestamp="1462753592520">
+        <mark key="[" line="51" column="2" />
+        <mark key="]" line="51" column="2" />
+        <mark key="^" line="51" column="2" />
+        <mark key="." line="51" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/lib/dropbox/dropbox-api.spec.js" timestamp="1465454026736">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/list-view/PostListView.js" timestamp="1486926089385">
+        <mark key="[" line="28" column="51" />
+        <mark key="]" line="28" column="69" />
+        <mark key="." line="28" column="69" />
+        <mark key="^" line="28" column="69" />
+      </file>
+      <file name="$USER_HOME$/projects/golang-book-notes/002_variables.go" timestamp="1469949811990">
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="43" />
+        <mark key="." line="28" column="43" />
+        <mark key="^" line="28" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/react-vis-link-graph/src/utils/get-width-up-to.js" timestamp="1472105341896">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/styling/ShadowText.js" timestamp="1464596581330">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/go-chat-server/.editorconfig" timestamp="1470808220308">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/lib/data-homogenizer-for-backend-services/dropbox.js" timestamp="1482987340524">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="46" />
+        <mark key="^" line="3" column="46" />
+        <mark key="." line="3" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/viewMode.js" timestamp="1483416794460">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/TitleBar.js" timestamp="1483034681880">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="40" />
+        <mark key="." line="97" column="26" />
+        <mark key="^" line="97" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/AccountListView.js" timestamp="1481567527799">
+        <mark key="'" line="7" column="16" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/go-chat-server/src/main_extend.go" timestamp="1470158306145">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/modals/save-to-backend/save-to-back-end-modal.js" timestamp="1483418745900">
+        <mark key="[" line="8" column="56" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/luna/package.json" timestamp="1482862734134">
+        <mark key="[" line="33" column="94" />
+        <mark key="]" line="33" column="97" />
+        <mark key="." line="33" column="97" />
+        <mark key="^" line="33" column="97" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/util/generatorToPromise.ts" timestamp="1482726812612">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/lib/immutables/collaborativeString.js" timestamp="1484461565181">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/if/If.js" timestamp="1463285603360">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/posts/posts.js" timestamp="1488605371681">
+        <mark key="'" line="230" column="11" />
+        <mark key="[" line="241" column="53" />
+        <mark key="]" line="241" column="53" />
+        <mark key="." line="241" column="53" />
+        <mark key="^" line="241" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editor-view/save-to-backend-badge.scss" timestamp="1463091946178">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/notes/saving flow design spec.md" timestamp="1464749552516">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/AccountListItem.js" timestamp="1481074483794">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="32" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+      </file>
+      <file name="$USER_HOME$/test-kik-bot/test-config" timestamp="1473291694024">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/react-highlight.js/src/Highlight.js" timestamp="1467186104931">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/marvin/marvin.safariextension/startScript.js" timestamp="1480903379264">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/dropbox/rpcRequest.js" timestamp="1488610389200">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/layout/Flex.js" timestamp="1464603731873">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+        <mark key="^" line="6" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/extensions/Eraser.js" timestamp="1484798978509">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="3" column="53" />
+        <mark key="." line="3" column="53" />
+        <mark key="^" line="3" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/golang-book-notes/002_main.go" timestamp="1469949406281">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/rust-chat-server/src/main.rs" timestamp="1470612309144">
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="24" column="57" />
+        <mark key="." line="24" column="57" />
+        <mark key="^" line="24" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/luna/src/Store.spec.ts" timestamp="1482862709890">
+        <mark key="'" line="207" column="9" />
+        <mark key="[" line="202" column="43" />
+        <mark key="]" line="202" column="43" />
+        <mark key="." line="202" column="43" />
+        <mark key="^" line="202" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/notice.js" timestamp="1482885352301">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="58" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/browser-column-view.scss" timestamp="1481095136540">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/placeholder/Placeholder.js" timestamp="1462057601368">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/list-view/breadCrumBadges.js" timestamp="1483127396263">
+        <mark key="[" line="15" column="65" />
+        <mark key="]" line="15" column="69" />
+        <mark key="^" line="15" column="69" />
+        <mark key="." line="15" column="69" />
+      </file>
+      <file name="$USER_HOME$/projects/unsplash/get.js" timestamp="1484954398067">
+        <mark key="[" line="70" column="81" />
+        <mark key="]" line="74" column="63" />
+        <mark key="." line="74" column="63" />
+        <mark key="^" line="74" column="68" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/github-api.spec.js" timestamp="1487389385199">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="80" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/team-signup-client/src/example/index.js" timestamp="1467479488374">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="57" />
+        <mark key="." line="8" column="57" />
+        <mark key="^" line="8" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/github.test.js" timestamp="1487385053885">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/test.dropbox.config.js" timestamp="1487387063890">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/modals/EditorConfigModal.js" timestamp="1488576937110">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/AuthorizeNewServiceView.js" timestamp="1464996197907">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/modal/es-modal.scss" timestamp="1462636816829">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/views/MainEditorView.js" timestamp="1488582655002">
+        <mark key="[" line="83" column="37" />
+        <mark key="]" line="83" column="37" />
+        <mark key="." line="83" column="37" />
+        <mark key="^" line="83" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/c-bazel-example/main/gtest.BUILD" timestamp="1470722321958">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/react-layout-components/src/example/index.js" timestamp="1467357810794">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="13" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/oauth/DropboxRedirect.js" timestamp="1480909946625">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editor-view/modals/modal-form.scss" timestamp="1462853635168">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/golang-book-notes/.gitignore" timestamp="1469946741824">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/karma.conf.js" timestamp="1482863772981">
+        <mark key="'" line="25" column="21" />
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="32" column="64" />
+        <mark key="." line="32" column="64" />
+        <mark key="^" line="32" column="64" />
+      </file>
+      <file name="$USER_HOME$/projects/react-layout-components/src/Flex.js" timestamp="1467487411714">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+        <mark key="^" line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/layout-components/src/FlexSpacer.js" timestamp="1481504330351">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/ssl-setup-server/index.js" timestamp="1473298643893">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/episodeyang.github.io/_layouts/post.html" timestamp="1488442225196">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="22" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/github/jsonRequest.js" timestamp="1487434042579">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/list-view/postList.js" timestamp="1483000121352">
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/animations/fade.scss" timestamp="1462695437704">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editor-view/BackEndBadge.js" timestamp="1463263405026">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/two-column/TwoColumn.js" timestamp="1471416062879">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/react-canvas-paint/src/extensions/simplePen.js" timestamp="1480282416451">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="30" column="29" />
+        <mark key="." line="30" column="29" />
+        <mark key="^" line="30" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" timestamp="1488122022126">
+        <mark key="'" line="166" column="27" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
+        <mark key="^" line="152" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/Bristol.js" timestamp="1484850559912">
+        <mark key="'" line="310" column="7" />
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="277" column="0" />
+        <mark key="." line="277" column="0" />
+        <mark key="^" line="302" column="70" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/input/Input.js" timestamp="1481529650395">
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="24" column="47" />
+        <mark key="^" line="24" column="47" />
+        <mark key="." line="24" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/generator-promise.spec.ts" timestamp="1482824690511">
+        <mark key="'" line="18" column="33" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/sagaConnect.ts" timestamp="1482770078937">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/postList.js" timestamp="1488668635095">
+        <mark key="'" line="98" column="29" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/animations/Fade.js" timestamp="1462687481922">
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="16" column="64" />
+        <mark key="." line="16" column="64" />
+        <mark key="^" line="12" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/views/DropboxRedirectLanding.js" timestamp="1480907202137">
+        <mark key="'" line="2" column="17" />
+        <mark key="[" line="20" column="63" />
+        <mark key="]" line="20" column="63" />
+        <mark key="." line="20" column="63" />
+        <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/pdf-viewer/SimplePdfIframe.js" timestamp="1483170290653">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="32" column="23" />
+        <mark key="^" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/react-canvas-paint/src/extensions/stencilPen.js" timestamp="1480278886770">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="72" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/PostHeader.js" timestamp="1487633102065">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="53" column="42" />
+        <mark key="]" line="53" column="42" />
+        <mark key="." line="53" column="42" />
+        <mark key="^" line="53" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/modules/dropbox.js" timestamp="1488584697323">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="82" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/styling/Shadow.js" timestamp="1464596598977">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/react-layout-components/src/Flex.example.js" timestamp="1467359345447">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+        <mark key="^" line="28" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/dropdown/Dropdown.js" timestamp="1462479607145">
+        <mark key="[" line="160" column="2" />
+        <mark key="]" line="160" column="7" />
+        <mark key="^" line="160" column="7" />
+        <mark key="." line="160" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/form/Select.js" timestamp="1462855489399">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/c-bazel-example/googletest/BUILD" timestamp="1470721571682">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/list-view/BreadCrumBadges.js" timestamp="1488577377165">
+        <mark key="'" line="44" column="42" />
+        <mark key="[" line="53" column="31" />
+        <mark key="]" line="53" column="31" />
+        <mark key="." line="53" column="31" />
+        <mark key="^" line="53" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/dropbox-api.js" timestamp="1487381539988">
+        <mark key="'" line="45" column="24" />
+        <mark key="[" line="116" column="25" />
+        <mark key="]" line="116" column="36" />
+        <mark key="." line="116" column="36" />
+        <mark key="^" line="116" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/index.html" timestamp="1461410370371">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/react-highlight.js/.gitignore" timestamp="1467184364084">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="21" column="4" />
+        <mark key="^" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/animations/Slide.js" timestamp="1462695266058">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="69" />
+        <mark key="^" line="16" column="55" />
+        <mark key="." line="16" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/marvin/marvin.safariextension/global.js" timestamp="1480540349322">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+        <mark key="^" line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/layout/FlexItem.js" timestamp="1462748047249">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="41" column="46" />
+        <mark key="." line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/groot/src/Makefile" timestamp="1470809249712">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/effects/isEffect.ts" timestamp="1482868333605">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/team-signup-client/src/Create.js" timestamp="1467480269033">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/controls/StrokeWidthSelector.js" timestamp="1484802451056">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" timestamp="1488441654998">
+        <mark key="'" line="152" column="27" />
+        <mark key="[" line="147" column="8" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/util/isGenerator.ts" timestamp="1482827780725">
+        <mark key="[" line="4" column="75" />
+        <mark key="]" line="4" column="75" />
+        <mark key="." line="4" column="75" />
+        <mark key="^" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/list-view/order-by-dropdown.scss" timestamp="1462486117634">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="24" column="8" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown/mathdown-it-mathjax.js" timestamp="1487525322701">
+        <mark key="[" line="74" column="5" />
+        <mark key="]" line="74" column="5" />
+        <mark key="^" line="74" column="5" />
+        <mark key="." line="74" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/app/rootStore.js" timestamp="1461030491059">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/messenger-platform-samples/node/config/default.json" timestamp="1472376328962">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="3" column="42" />
+        <mark key="^" line="3" column="42" />
+        <mark key="." line="3" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/messenger-platform-samples/.gitignore" timestamp="1472377917290">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/react-markdownit/src/react-markdownit.example.js" timestamp="1467219647913">
+        <mark key="[" line="16" column="75" />
+        <mark key="]" line="16" column="77" />
+        <mark key="." line="16" column="77" />
+        <mark key="^" line="16" column="77" />
+      </file>
+      <file name="$USER_HOME$/projects/react-layout-components/src/FlexItem.js" timestamp="1467358509823">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/badge/SmallBlueBadge.js" timestamp="1483416781755">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/mouseover/MouseOver.js" timestamp="1461913729308">
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+        <mark key="^" line="33" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/react-canvas-paint/.gitignore" timestamp="1473562113265">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/util/isIterator.ts" timestamp="1482827791602">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/lib/isDefined.js" timestamp="1483289436671">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/ssl-setup-server/README.md" timestamp="1473299178857">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/lib/immutables/immutableArray.js" timestamp="1484458538843">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="24" column="9" />
+        <mark key="." line="24" column="9" />
+        <mark key="^" line="24" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/posts/posts.js" timestamp="1462864479884">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/markdown-editor/getAceCursorPosition.js" timestamp="1461557477074">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/extensions/Erasor.js" timestamp="1481831364796">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/services/dropboxApi.js" timestamp="1480908251180">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="65" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/react-layout-components/package.json" timestamp="1471414905000">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/.gitignore" timestamp="1488581860296">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/react-vis-link-graph/src/utils/get-anchor-from-rectangle-nodes.js" timestamp="1472083965759">
+        <mark key="[" line="32" column="7" />
+        <mark key="]" line="32" column="7" />
+        <mark key="." line="32" column="7" />
+        <mark key="^" line="28" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/list-view/post-item.scss" timestamp="1461709486825">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/react-layout-components/src/Flex-column.example.js" timestamp="1467360222968">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/util/lodash.isplainobject.d.ts" timestamp="1481090813432">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/editor.js" timestamp="1483544353294">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editable/inline-editable.scss" timestamp="1462920091010">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/accountBrowser.js" timestamp="1488600876656">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="21" />
+        <mark key="]" line="54" column="21" />
+        <mark key="." line="54" column="21" />
+        <mark key="^" line="54" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/team-signup-client/src/components/Background.js" timestamp="1467485732761">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/list-view/PostsPanel.js" timestamp="1461029895496">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/styling/TextShadow.js" timestamp="1464597619658">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="9" column="43" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/modal/Modal.js" timestamp="1462756043080">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/app/style globals.js" timestamp="1461022711803">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/layout-components/src/Responsive.js" timestamp="1484204314331">
+        <mark key="'" line="68" column="2" />
+        <mark key="[" line="53" column="38" />
+        <mark key="]" line="53" column="48" />
+        <mark key="^" line="53" column="48" />
+        <mark key="." line="53" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/File.js" timestamp="1481095883884">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+        <mark key="^" line="6" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/team-signup-client/src/create/Welcome.js" timestamp="1467498937790">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="39" />
+        <mark key="^" line="32" column="13" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/karma.config.js" timestamp="1487430797229">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/lib/eywa-dropbox/src/dropbox/dropbox-api.js" timestamp="1488584012330">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/react-canvas-paint/src/extensions/dotTest.js" timestamp="1473755521138">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/form/Range.js" timestamp="1484802812445">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="61" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/util/isFunction.ts" timestamp="1482827739866">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/github/contentRequest.js" timestamp="1487481786760">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="54" />
+        <mark key="." line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/modals/components/TwoColumn.js" timestamp="1465009093904">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="51" />
+        <mark key="^" line="6" column="49" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/button/Button.js" timestamp="1461649785858">
+        <mark key="[" line="68" column="12" />
+        <mark key="]" line="68" column="16" />
+        <mark key="." line="68" column="16" />
+        <mark key="^" line="68" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/react-vis-graph-components/src/example/link-graph-simple.example.js" timestamp="1472620567785">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/layout/Flex.js" timestamp="1462748037857">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="14" column="6" />
+        <mark key="." line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/cellulose/src/jian.js" timestamp="1469676749485">
+        <mark key="[" line="85" column="13" />
+        <mark key="]" line="85" column="9" />
+        <mark key="^" line="85" column="9" />
+        <mark key="." line="85" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/lib/ModalReducer.js" timestamp="1483416785507">
+        <mark key="'" line="2" column="37" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor-server/actionHandle.js" timestamp="1467531493493">
+        <mark key="[" line="26" column="49" />
+        <mark key="]" line="26" column="49" />
+        <mark key="." line="26" column="49" />
+        <mark key="^" line="26" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/test.config.js" timestamp="1487434218092">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/escher/webpack.config.js" timestamp="1466012863826">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/react-component-props-table/src/react-component-props-table.js" timestamp="1467268699423">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="19" />
+        <mark key="^" line="38" column="19" />
+        <mark key="." line="38" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/lib/Selector.js" timestamp="1483416792011">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/episodeyang.github.io/_includes/mixpanel.html" timestamp="1488564790968">
+        <mark key="[" line="3" column="66" />
+        <mark key="]" line="3" column="74" />
+        <mark key="." line="3" column="74" />
+        <mark key="^" line="3" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/list-view/postList.js" timestamp="1462140868420">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/celine/hello.go" timestamp="1469946154433">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/.gitignore" timestamp="1482989738163">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown/GitHubMath.js" timestamp="1488050415339">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/posts/PostContainer.js" timestamp="1481060101560">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="46" />
+        <mark key="^" line="37" column="9" />
+        <mark key="." line="37" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/demoInitialState.js" timestamp="1463283820820">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/oauth/Dropbox/AccountList.js" timestamp="1463265761910">
+        <mark key="[" line="20" column="76" />
+        <mark key="]" line="20" column="82" />
+        <mark key="." line="20" column="82" />
+        <mark key="^" line="20" column="82" />
+      </file>
+      <file name="$USER_HOME$/projects/react-canvas-paint/src/HappySandwichMaker.example.js" timestamp="1473711863030">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/accounts/AccountsListContainer.js" timestamp="1481062788822">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="30" column="43" />
+        <mark key="." line="30" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-mathjax.js" timestamp="1487609364150">
+        <mark key="'" line="70" column="42" />
+        <mark key="[" line="98" column="29" />
+        <mark key="]" line="98" column="38" />
+        <mark key="." line="98" column="38" />
+        <mark key="^" line="98" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/test.config.js.example" timestamp="1487434230907">
+        <mark key="[" line="2" column="54" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/react-layout-components/README.md" timestamp="1471414997208">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown/mathjax markdown-it react support.md" timestamp="1486017350113">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/two-column/two-column.scss" timestamp="1465010422287">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/rust-chat-server/.gitignore" timestamp="1470562381475">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/golang-book-notes/numeric constantc.go" timestamp="1469951144098">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="16" />
+      </file>
+      <file name="$USER_HOME$/test-kik-bot/public/.well-know/acme-challenge/iIg4Wmmsh3yjvvh7oZU0AgJulyikco5XBOriPTr7g0Y" timestamp="1473293977961">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="86" />
+        <mark key="^" line="0" column="86" />
+        <mark key="." line="0" column="86" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/webpack.config.js" timestamp="1461437621030">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/contentRequest.js" timestamp="1465705633040">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
+        <mark key="^" line="25" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/escher/README.md" timestamp="1466660944955">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="19" column="3" />
+        <mark key="." line="9" column="70" />
+        <mark key="^" line="9" column="70" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/lib/isMobileSafari.js" timestamp="1484861420789">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="3" column="57" />
+        <mark key="^" line="3" column="57" />
+        <mark key="." line="3" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/test.config.example.js" timestamp="1465627643001">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/webpack.develop.config.js" timestamp="1488757590656">
+        <mark key="'" line="46" column="50" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="58" column="7" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/notifications/notifications.scss" timestamp="1482890178586">
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="42" column="27" />
+        <mark key="." line="42" column="27" />
+        <mark key="^" line="42" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/PostMetaDataView.js" timestamp="1465011207400">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/webpack.config.js" timestamp="1487483643146">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/react-highlightjs/package.json" timestamp="1467182455024">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/notifications.js" timestamp="1482886476573">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/placeholder/Placeholder.js" timestamp="1471413122055">
+        <mark key="[" line="17" column="45" />
+        <mark key="]" line="17" column="49" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="17" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/EditorView.js" timestamp="1484849693384">
+        <mark key="'" line="10" column="10" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="55" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+      </file>
+      <file name="$USER_HOME$/test-kik-bot/.gitignore" timestamp="1473295601982">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor-server/README.md" timestamp="1466654137502">
+        <mark key="[" line="8" column="59" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/test-kik-bot/index.js" timestamp="1473295006618">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="14" />
+        <mark key="." line="33" column="14" />
+        <mark key="^" line="33" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/modal/modal-transitions.scss" timestamp="1462695789858">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
+        <mark key="^" line="28" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/modal/modal-backdrop.scss" timestamp="1462686447393">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/react-canvas-paint/src/scratch/pan and zoom.js" timestamp="1473537666359">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/react-canvas-paint/src/touchHelpers/isTouch.js" timestamp="1473655927614">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/react-vis-link-graph/src/utils/linkKey.js" timestamp="1472104818896">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/.babelrc" timestamp="1481523137568">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-math.js" timestamp="1488396315871">
+        <mark key="'" line="37" column="28" />
+        <mark key="[" line="110" column="31" />
+        <mark key="]" line="110" column="26" />
+        <mark key="^" line="110" column="26" />
+        <mark key="." line="110" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/rust-chat-server/openssl_fix" timestamp="1470719262759">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="56" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/README.md" timestamp="1480995551015">
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="61" />
+        <mark key="." line="26" column="61" />
+        <mark key="^" line="26" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/episodeyang.github.io/package.json" timestamp="1461460262908">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="39" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/FullScreenToggleButton.js" timestamp="1484866436509">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="47" column="86" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/groot/src/chat-server/main.go" timestamp="1470812332248">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/go-chat-server/glide.yaml" timestamp="1470544585476">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editor-view/editor.js" timestamp="1462893553255">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/input/search-input.scss" timestamp="1481526964039">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/form/Input.js" timestamp="1462859360537">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/layout/Row.js" timestamp="1464651314631">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/react-es6-template/package.json" timestamp="1467360900297">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="88" column="34" />
+        <mark key="." line="20" column="68" />
+        <mark key="^" line="75" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/episodeyang.github.io/posts/index.scss" timestamp="1488444939814">
+        <mark key="[" line="57" column="31" />
+        <mark key="]" line="57" column="32" />
+        <mark key="." line="57" column="32" />
+        <mark key="^" line="57" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/badge/Badge.js" timestamp="1486947494835">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+        <mark key="^" line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown/Markdown.js" timestamp="1487734538469">
+        <mark key="'" line="117" column="67" />
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="16" />
+        <mark key="." line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/webpack.production.config.js" timestamp="1465787288018">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="87" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/webpack.config.js" timestamp="1482823883280">
+        <mark key="'" line="19" column="54" />
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/lib/dropbox/dropbox-api.js" timestamp="1465453534817">
+        <mark key="[" line="89" column="19" />
+        <mark key="]" line="89" column="23" />
+        <mark key="^" line="89" column="23" />
+        <mark key="." line="89" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/store/currentFolder.js" timestamp="1482945850190">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/github.page.js" timestamp="1487385701336">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/Saga.spec.ts" timestamp="1482866376147">
+        <mark key="'" line="44" column="18" />
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/github/github-api.js" timestamp="1487484685894">
+        <mark key="'" line="55" column="33" />
+        <mark key="[" line="99" column="34" />
+        <mark key="]" line="99" column="40" />
+        <mark key="." line="99" column="40" />
+        <mark key="^" line="99" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/notes/amsmath.js" timestamp="1487905667649">
+        <mark key="'" line="507" column="22" />
+        <mark key="[" line="505" column="0" />
+        <mark key="]" line="508" column="4" />
+        <mark key="^" line="19" column="13034" />
+        <mark key="." line="19" column="13034" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/modals/SaveToBackendModal/ChooseAService.js" timestamp="1481070105103">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/react-es6-template/.babelrc" timestamp="1467355693672">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/modal/ModalBackdrop.js" timestamp="1462664993361">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/episodeyang.github.io/blog/index.html" timestamp="1488442277482">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/operational-transform-reducers/src/array/insert.js" timestamp="1469900914133">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/notes/editor_config_modal_design_spec.md" timestamp="1462744672808">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" timestamp="1488641415156">
+        <mark key="'" line="83" column="9" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="124" column="58" />
+        <mark key="." line="129" column="23" />
+        <mark key="^" line="129" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/input/Input.js" timestamp="1462126605445">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+        <mark key="^" line="5" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/react-canvas-paint/src/touchHelpers/stabilizer.js" timestamp="1473735166500">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="17" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/dropbox-api.spec.js" timestamp="1487387918943">
+        <mark key="'" line="74" column="9" />
+        <mark key="[" line="95" column="24" />
+        <mark key="]" line="95" column="27" />
+        <mark key="." line="95" column="27" />
+        <mark key="^" line="95" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/go-chat-server/src/main.go" timestamp="1470808109881">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="13" column="57" />
+        <mark key="." line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/layout-components/README.md" timestamp="1481503004387">
+        <mark key="[" line="4" column="92" />
+        <mark key="]" line="4" column="94" />
+        <mark key="." line="4" column="94" />
+        <mark key="^" line="4" column="94" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/node_modules/luna/dist/interfaces.d.ts" timestamp="1482774303992">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/util/isUndefined.ts" timestamp="1482827826865">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/BackEndBadge.js" timestamp="1471497480338">
+        <mark key="[" line="32" column="54" />
+        <mark key="]" line="32" column="54" />
+        <mark key="^" line="46" column="2" />
+        <mark key="." line="32" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/luna/src/interfaces.ts" timestamp="1482878082819">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/layout/style-globals.js" timestamp="1461557061958">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="52" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/SizeContainer.js" timestamp="1483382477261">
+        <mark key="'" line="6" column="32" />
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="56" />
+        <mark key="." line="46" column="56" />
+        <mark key="^" line="46" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editor-view/OpenEditorConfig.js" timestamp="1462588894071">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="99" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/groot/.gitignore" timestamp="1470813162834">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/unsplash/install.sh" timestamp="1484688124140">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/demo/.gitignore" timestamp="1487386182969">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/react-layout-components/src/Flex-row.example.js" timestamp="1467360239632">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/index.scss" timestamp="1480896227626">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/notes/dropbox folder post view.md" timestamp="1481519637952">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="11" column="67" />
+        <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown-preview/dom/findNodeWithText.js" timestamp="1487609738166">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/list-view/OrderBySelection.js" timestamp="1483162869163">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
+        <mark key="^" line="8" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown-preview/MarkdownPreview.js" timestamp="1487610200406">
+        <mark key="[" line="176" column="70" />
+        <mark key="]" line="177" column="43" />
+        <mark key="." line="177" column="43" />
+        <mark key="^" line="177" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/groot/Makefile" timestamp="1470809027313">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/modals/SaveToBackendModal/SaveToBackendModal.js" timestamp="1481572792144">
+        <mark key="'" line="62" column="2" />
+        <mark key="[" line="68" column="21" />
+        <mark key="]" line="68" column="21" />
+        <mark key="^" line="68" column="21" />
+        <mark key="." line="68" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/lib/immutables/charInt.js" timestamp="1484457667675">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/oauth/Dropbox/dropbox-api.js" timestamp="1463268403170">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="95" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/lib/dropbox/karma.config.js" timestamp="1465453722088">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/extensions/SimplePen.js" timestamp="1484871410420">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/react-vis-graph-components/src/index.js" timestamp="1472620077901">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/index.js" timestamp="1483422911571">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/github-api.js" timestamp="1487389598999">
+        <mark key="[" line="97" column="2" />
+        <mark key="]" line="97" column="7" />
+        <mark key="." line="97" column="7" />
+        <mark key="^" line="97" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/oauth/Dropbox/dropbox.js" timestamp="1463259912653">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="39" column="3" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/editor-view/modals/SaveToBackEndModal.js" timestamp="1464999230296">
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="40" column="35" />
+        <mark key="^" line="40" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/list-view/PostListItem.js" timestamp="1462355182206">
+        <mark key="[" line="42" column="40" />
+        <mark key="]" line="42" column="51" />
+        <mark key="." line="42" column="51" />
+        <mark key="^" line="42" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/demo/index.html" timestamp="1487480575568">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/index.spec.ts" timestamp="1482881280156">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/luna/src/Store.ts" timestamp="1488958264967">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="11" column="44" />
+        <mark key="." line="11" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/modal/CloseButton.js" timestamp="1462642867140">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/escher.im/c-bazel-example/lib/BUILD" timestamp="1470722383947">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/styling/Size.js" timestamp="1464597197685">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/episodeyang.github.io/index.html" timestamp="1461396270481">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/oauth/DropboxRedirectLanding.js" timestamp="1487475613632">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="42" column="41" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/modal/close-button.scss" timestamp="1462748682488">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/TwoColumn.js" timestamp="1465009606347">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/saga.simple.spec.ts" timestamp="1482868915666">
+        <mark key="'" line="45" column="12" />
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/package.json" timestamp="1482882947059">
+        <mark key="'" line="52" column="17" />
+        <mark key="[" line="34" column="55" />
+        <mark key="]" line="34" column="58" />
+        <mark key="." line="34" column="58" />
+        <mark key="^" line="34" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/layout/FlexRow.js" timestamp="1461526601080">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/markdown-preview/dom/cursorHelpers.js" timestamp="1462325924379">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/github/rpcRequest.js" timestamp="1487428975770">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/src/github/github-api.spec.js" timestamp="1487469263261">
+        <mark key="'" line="72" column="6" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/modal/ModalContainer.js" timestamp="1462750715432">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="47" />
+        <mark key="." line="13" column="47" />
+        <mark key="^" line="13" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/editor-view/modals/EditorConfigModal.js" timestamp="1463101527719">
+        <mark key="[" line="49" column="75" />
+        <mark key="]" line="49" column="75" />
+        <mark key="." line="49" column="75" />
+        <mark key="^" line="49" column="96" />
+      </file>
+      <file name="$USER_HOME$/projects/luna-saga/src/util/isArray.ts" timestamp="1482827713223">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/gittor/src/list-view/PostListView.js" timestamp="1462664280278">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="72" />
+        <mark key="." line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/eywa-dropbox/package.json" timestamp="1488755848800">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="34" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="37" column="28" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-math.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
+      <jump line="17" column="9" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
+      <jump line="154" column="2" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
+      <jump line="194" column="34" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
+      <jump line="153" column="2" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
+      <jump line="166" column="27" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
+      <jump line="51" column="20" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
+      <jump line="357" column="2" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
+      <jump line="354" column="2" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
+      <jump line="18" column="3" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
+      <jump line="242" column="0" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
+      <jump line="117" column="7" filename="$USER_HOME$/projects/episodeyang.github.io/_sass/article.scss" />
+      <jump line="153" column="15" filename="$USER_HOME$/projects/episodeyang.github.io/_sass/article.scss" />
+      <jump line="18" column="26" filename="$USER_HOME$/projects/episodeyang.github.io/_sass/article.scss" />
+      <jump line="139" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="33" column="22" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="74" column="12" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="76" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="77" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="78" column="5" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="2" column="12" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="95" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="47" column="18" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="34" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="141" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="104" column="65" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="62" column="11" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="18" column="66" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="101" column="35" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="63" column="58" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="82" column="59" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="134" column="58" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="118" column="24" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="42" column="9" filename="$USER_HOME$/projects/gittor/src/components/markdown/mathjax-config.js" />
+      <jump line="175" column="83" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="17" column="64" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="148" column="27" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-entropy-boltzmann-kl-divergence.md" />
+      <jump line="60" column="10" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="192" column="29" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="198" column="2" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="210" column="14" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="236" column="17" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="1" column="18" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="11" column="57" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="72" column="10" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="63" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="61" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="51" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="40" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="25" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="17" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="5" column="19" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="46" column="10" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="81" column="21" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="95" column="16" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="96" column="20" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="103" column="39" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="115" column="50" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
+      <jump line="37" column="8" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
+      <jump line="367" column="9" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
+      <jump line="7" column="17" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
+      <jump line="261" column="45" filename="$USER_HOME$/projects/gittor/src/store/posts/posts.js" />
+      <jump line="119" column="79" filename="$USER_HOME$/projects/gittor/src/store/posts/posts.js" />
+      <jump line="123" column="16" filename="$USER_HOME$/projects/gittor/src/store/posts/posts.js" />
+      <jump line="152" column="54" filename="$USER_HOME$/projects/gittor/node_modules/eywa-dropbox/src/dropbox-api.js" />
+      <jump line="159" column="0" filename="$USER_HOME$/projects/gittor/node_modules/eywa-dropbox/src/dropbox-api.js" />
+      <jump line="162" column="30" filename="$USER_HOME$/projects/gittor/node_modules/eywa-dropbox/src/dropbox-api.js" />
+      <jump line="163" column="26" filename="$USER_HOME$/projects/gittor/node_modules/eywa-dropbox/src/dropbox-api.js" />
+      <jump line="103" column="19" filename="$USER_HOME$/projects/gittor/node_modules/eywa-dropbox/src/dropbox-api.js" />
+      <jump line="5" column="41" filename="$USER_HOME$/projects/gittor/src/store/posts/posts.js" />
+      <jump line="42" column="38" filename="$USER_HOME$/projects/eywa-dropbox/package.json" />
+      <jump line="72" column="34" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="88" column="46" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="89" column="30" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="93" column="25" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="102" column="25" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="60" column="2" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/projects/gittor/lib/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="175" column="73" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="51" column="2" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="107" column="5" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="134" column="55" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="135" column="52" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="49" column="9" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="115" column="0" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="230" column="11" filename="$USER_HOME$/projects/gittor/src/store/posts/posts.js" />
+      <jump line="96" column="29" filename="$USER_HOME$/projects/gittor/src/store/postList.js" />
+      <jump line="8" column="266" filename="$USER_HOME$/projects/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
+      <jump line="83" column="9" filename="$USER_HOME$/projects/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
+      <jump line="123" column="2" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
+      <jump line="13" column="44" filename="$USER_HOME$/projects/gittor/src/store/RootStore.js" />
+      <jump line="46" column="50" filename="$USER_HOME$/projects/gittor/webpack.develop.config.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>:</text>
+      </register>
+      <register name="-" type="4">
+        <text>:</text>
+      </register>
+      <register name="/" type="4">
+        <text>babel</text>
+      </register>
+      <register name="0" type="4">
+        <text>action: Action|Thunk</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIHRvZG86IGF1dG9iaW5kIHRoaXMK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLmVudGl0aWVzLmZvckVhY2goKHBvc3QpPT57Cg==</text>
+      </register>
+      <register name="u" type="4">
+        <keys>
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHlpZWxkIGRpc3BhdGNoKHt0eXBlOiAiU0VMRUNUX1BPU1QiLCBwb3N0SWQ6IGVkaXRvci5wb3N0SWR9KTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjY291bnQpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBvc3RMaXN0KTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>babel</last-search>
+      <last-offset />
+      <last-pattern>babel</last-pattern>
+      <last-replace />
+      <last-substitute>/React.PropTypes.//gc</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>The ratio</entry>
+        <entry>path</entry>
+        <entry>Path</entry>
+        <entry>brace</entry>
+        <entry>pdf</entry>
+        <entry>preview</entry>
+        <entry>blob</entry>
+        <entry>dapi</entry>
+        <entry>main</entry>
+        <entry>\/file</entry>
+        <entry>Preview</entry>
+        <entry>Blob</entry>
+        <entry>long</entry>
+        <entry>list</entry>
+        <entry>search</entry>
+        <entry>folder</entry>
+        <entry>luna-saga</entry>
+        <entry>longPoll</entry>
+        <entry>watchFolder</entry>
+        <entry>babel</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/isPreblock/dom.isPreblock/g</entry>
+        <entry>%s/isList/dom.isList/g</entry>
+        <entry>%s/isBlock/dom.isBlock/g</entry>
+        <entry>%s/isVoid/dom.isVoid/g</entry>
+        <entry>%s/isTaEditorContainer/dom.isTaEditorContainer/g</entry>
+        <entry>%s/all/opacity/g</entry>
+        <entry>%s/keyLeft/keyArrowLeft/g</entry>
+        <entry>%s/keyDown/keyArrowDown/g</entry>
+        <entry>%s/keyRight/keyArrowRight/g</entry>
+        <entry>%s/keyUp/keyArrowUp/g</entry>
+        <entry>%s/NoteModel/HashStoreModel/g</entry>
+        <entry>%s/,/\n/gc</entry>
+        <entry>%s/$/                           /g</entry>
+        <entry>%s/$/                           ./g</entry>
+        <entry>%s/$/                                                                                                                                          ./g</entry>
+        <entry>%s/data/authData/gc</entry>
+        <entry>%s/PropTypes\.//gc</entry>
+        <entry>%s:/React.PropTypes.//gc</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

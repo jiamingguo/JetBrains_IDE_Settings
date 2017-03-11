@@ -1,0 +1,10 @@
+<application>
+  <component name="PathMacrosImpl">
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
+    <ignoredMacro name="node_modules" />
+    <ignoredMacro name="bower_components" />
+  </component>
+</application>
