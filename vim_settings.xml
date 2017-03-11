@@ -2009,8 +2009,8 @@
         <mark key="." line="20" column="68" />
         <mark key="^" line="75" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" timestamp="1489252428171">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" timestamp="1489254269232">
+        <mark key="'" line="12" column="15" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
@@ -2400,7 +2400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="2" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
       <jump line="166" column="27" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
       <jump line="51" column="20" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
       <jump line="357" column="2" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
@@ -2500,6 +2499,7 @@
       <jump line="73" column="11" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
       <jump line="38" column="3" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
+      <jump line="12" column="15" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2509,7 +2509,7 @@
         <text>, pos: props.selection.head</text>
       </register>
       <register name="/" type="4">
-        <text>Input</text>
+        <text>ENTER</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsZXQgbGVmdCA9IE1hdGgubWluKGFjdGlvbi5zZWxlY3Rpb24uYW5jaG9yLCBhY3Rpb24uc2VsZWN0aW9uLmhlYWQpOwo=</text>
@@ -2594,9 +2594,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Input</last-search>
+      <last-search>ENTER</last-search>
       <last-offset />
-      <last-pattern>Input</last-pattern>
+      <last-pattern>ENTER</last-pattern>
       <last-replace />
       <last-substitute>/React.PropTypes.//gc</last-substitute>
       <last-dir>1</last-dir>
@@ -2609,6 +2609,7 @@
         <entry>console</entry>
         <entry>Caret</entry>
         <entry>Input</entry>
+        <entry>ENTER</entry>
       </history-search>
       <history-cmd />
       <history-expr />
