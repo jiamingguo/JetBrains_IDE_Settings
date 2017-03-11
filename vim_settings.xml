@@ -481,11 +481,10 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/source.js" timestamp="1489223038401">
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/source.js" timestamp="1489233486587">
         <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="2" />
-        <mark key="." line="5" column="36" />
-        <mark key="^" line="5" column="36" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/editor-view/modals/themeList.js" timestamp="1462753340719">
         <mark key="[" line="0" column="31" />
@@ -1208,11 +1207,11 @@
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/rootStore.js" timestamp="1489223161044">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="18" column="8" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/rootStore.js" timestamp="1489233386126">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/animations/Fade.js" timestamp="1462687481922">
         <mark key="[" line="16" column="64" />
@@ -1740,11 +1739,11 @@
         <mark key="." line="20" column="82" />
         <mark key="^" line="20" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/DemoComponent.js" timestamp="1489223436388">
-        <mark key="[" line="37" column="55" />
-        <mark key="]" line="37" column="60" />
-        <mark key="." line="37" column="60" />
-        <mark key="^" line="37" column="60" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/DemoComponent.js" timestamp="1489231559405">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="33" column="51" />
       </file>
       <file name="$USER_HOME$/projects/react-canvas-paint/src/HappySandwichMaker.example.js" timestamp="1473711863030">
         <mark key="[" line="1" column="25" />
@@ -1895,11 +1894,11 @@
         <mark key="." line="33" column="14" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/selection.js" timestamp="1489223450278">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="28" />
-        <mark key="^" line="7" column="28" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/selection.js" timestamp="1489230447907">
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+        <mark key="^" line="24" column="7" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/modal/modal-transitions.scss" timestamp="1462695789858">
         <mark key="[" line="25" column="26" />
@@ -2009,11 +2008,12 @@
         <mark key="." line="20" column="68" />
         <mark key="^" line="75" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" timestamp="1489214459403">
-        <mark key="[" line="4" column="63" />
-        <mark key="]" line="4" column="77" />
-        <mark key="." line="4" column="77" />
-        <mark key="^" line="4" column="77" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" timestamp="1489232913047">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="42" />
       </file>
       <file name="$USER_HOME$/projects/episodeyang.github.io/posts/index.scss" timestamp="1488444939814">
         <mark key="[" line="57" column="31" />
@@ -2399,11 +2399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="28" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-math.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
-      <jump line="17" column="9" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
-      <jump line="154" column="2" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
-      <jump line="194" column="34" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
       <jump line="153" column="2" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
       <jump line="166" column="27" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
       <jump line="51" column="20" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
@@ -2499,34 +2494,39 @@
       <jump line="123" column="2" filename="$USER_HOME$/projects/eywa-dropbox/src/dropbox/dropbox-api.js" />
       <jump line="13" column="44" filename="$USER_HOME$/projects/gittor/src/store/RootStore.js" />
       <jump line="46" column="50" filename="$USER_HOME$/projects/gittor/webpack.develop.config.js" />
+      <jump line="8" column="38" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
+      <jump line="62" column="5" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
+      <jump line="73" column="11" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
+      <jump line="38" column="3" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CARET</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>CARET</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>babel</text>
+        <text>Input</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICA8bGFiZWwgaHRtbEZvcj0iYW5jaG9yIj48Y29kZT5zZWxlY3Rpb24uYW5jaG9yPC9jb2RlPjwvbGFiZWw+CiAgICAgICAgPGlucHV0IG5hbWU9ImFuY2hvciIgdHlwZT0ibnVtYmVyIgogICAgICAgICAgICAgICB2YWx1ZT17cHJvcHMuc2VsZWN0aW9uLmFuY2hvcn0KICAgICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBwcm9wcy5kaXNwYXRjaCh7dHlwZTogIkFOQ0hPUiIsIHZhbHVlOiBOdW1iZXIoZS50YXJnZXQudmFsdWUpfSl9Lz4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBsZXQgbGVmdCA9IE1hdGgubWluKGFjdGlvbi5zZWxlY3Rpb24uYW5jaG9yLCBhY3Rpb24uc2VsZWN0aW9uLmhlYWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9IGVsc2UgaWYgKGFjdGlvbi50eXBlID09PSAiSU5QVVQiKSB7CiAgICByZXR1cm4gdHJhbnNmb3JtQ3Vyc29yKHN0YXRlLCB7Li4uYWN0aW9uLCB0eXBlOiAiaW5zIn0pOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHR5cGUgPT09ICJCQUNLU1BBQ0UiCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAoYWN0aW9uLnR5cGUgPT09ICJJTlBVVCIpIHsKICAgIHJldHVybiBhcHBseU9wKHN0YXRlLCB7Li4uYWN0aW9uLCB0eXBlOiAiaW5zIn0pCiAgfSBlbHNlIGlmIChhY3Rpb24udHlwZSA9PT0gIkJBQ0tTUEFDRSIpIHsKICAgIHJldHVybiBhcHBseU9wKHN0YXRlLCB7dHlwZTogImRlbCIsIHBvczogYWN0aW9uLnBvcyAtIDEsIGxlbmd0aDogMX0pOwogIH0gZWxzZSBpZiAoYWN0aW9uLnR5cGUgPT09ICJNT1ZFIikgewogICAgLy8gbm90aWNlOiBDdXJzb3IgbWlnaHQgbG9zZSBmb2N1cy4K</text>
+        <text encoding="base64">ICByZXR1cm4gb3BzLm1hcCgob3ApID0+ICh7Li4uYWN0aW9uLCBvcH0pKS5yZWR1Y2Uocm9vdFJlZHVjZXIsIGRvYyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoYWN0aW9uLnR5cGUgPT09ICJJTlBVVCIpIHsKICAgIHJldHVybiBhcHBseU9wKHN0YXRlLCB7Li4uYWN0aW9uLCB0eXBlOiAiaW5zIn0pCiAgfSBlbHNlIGlmIChhY3Rpb24udHlwZSA9PT0gIkJBQ0tTUEFDRSIpIHsKICAgIHJldHVybiBhcHBseU9wKHN0YXRlLCB7dHlwZTogImRlbCIsIHBvczogYWN0aW9uLnBvcyAtIDEsIGxlbmd0aDogMX0pOwogIH0gZWxzZSBpZiAoYWN0aW9uLnR5cGUgPT09ICJNT1ZFIikgewogICAgLy8gbm90aWNlOiBDdXJzb3IgbWlnaHQgbG9zZSBmb2N1cy4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgTUVUQV9LRVlTID0gWydTSElGVCcsICdDVFJMJywgJ0FMVCddOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2576,26 +2576,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">dCAKdCA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgb3A7Cg==</text>
+      <register name="7" type="8">
+        <text>let 
+let 
+cons
+cons</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAob3ApIHJldHVybiB7c291cmNlOiBhcHBseU9wKCl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgbGVmdCA9IE1hdGgubWluKGFjdGlvbi5zZWxlY3Rpb24uYW5jaG9yLCBhY3Rpb24uc2VsZWN0aW9uLmhlYWQpOwogIGxldCByaWdodCA9IE1hdGgubWF4KGFjdGlvbi5zZWxlY3Rpb24uYW5jaG9yLCBhY3Rpb24uc2VsZWN0aW9uLmhlYWQpOwogIGNvbnN0IGRlbF9vcCA9IHt0eXBlOiAiZGVsIiwgcG9zOiBsZWZ0LCBsOiByaWdodCAtIGxlZnR9OwogIGNvbnN0IG9wcyA9IGRlbF9vcC5sID49IDAgPyBbZGVsX29wXTpbXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>babel</last-search>
+      <last-search>Input</last-search>
       <last-offset />
-      <last-pattern>babel</last-pattern>
+      <last-pattern>Input</last-pattern>
       <last-replace />
       <last-substitute>/React.PropTypes.//gc</last-substitute>
       <last-dir>1</last-dir>
@@ -2607,6 +2610,7 @@
         <entry>watch</entry>
         <entry>console</entry>
         <entry>Caret</entry>
+        <entry>Input</entry>
       </history-search>
       <history-cmd />
       <history-expr />
