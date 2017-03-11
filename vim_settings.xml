@@ -21,7 +21,7 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1488958060618">
+      <file name="/a.dummy" timestamp="1489218464935">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -44,11 +44,11 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/package.json" timestamp="1489207354445">
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="8" column="44" />
-        <mark key="." line="8" column="44" />
-        <mark key="^" line="7" column="68" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/package.json" timestamp="1489217952545">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/list-view/list-panel.scss" timestamp="1461741787339">
         <mark key="[" line="27" column="22" />
@@ -481,11 +481,11 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/source.js" timestamp="1489216971796">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="23" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/source.js" timestamp="1489219063236">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="35" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/editor-view/modals/themeList.js" timestamp="1462753340719">
         <mark key="[" line="0" column="31" />
@@ -1071,6 +1071,12 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="8" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/src/string-ops.js" timestamp="1489218992565">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/gittor/src/modal/es-modal.scss" timestamp="1462636816829">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -1178,6 +1184,12 @@
         <mark key="." line="30" column="29" />
         <mark key="^" line="30" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/string-transform.js" timestamp="1489217885673">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/.gitignore" timestamp="1489214803179">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="4" column="0" />
@@ -1280,6 +1292,12 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/src/string-transform.js" timestamp="1489219946396">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="38" />
+        <mark key="." line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/gittor/index.html" timestamp="1461410370371">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="21" />
@@ -1315,6 +1333,12 @@
         <mark key="]" line="8" column="66" />
         <mark key="." line="8" column="66" />
         <mark key="^" line="8" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/transform-cursor.js" timestamp="1489217825932">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/groot/src/Makefile" timestamp="1470809249712">
         <mark key="[" line="6" column="9" />
@@ -1716,11 +1740,11 @@
         <mark key="." line="20" column="82" />
         <mark key="^" line="20" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/DemoComponent.js" timestamp="1489217100883">
-        <mark key="[" line="58" column="7" />
-        <mark key="]" line="58" column="100" />
-        <mark key="." line="58" column="100" />
-        <mark key="^" line="58" column="100" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/DemoComponent.js" timestamp="1489219059891">
+        <mark key="[" line="58" column="88" />
+        <mark key="]" line="58" column="88" />
+        <mark key="." line="58" column="88" />
+        <mark key="^" line="58" column="91" />
       </file>
       <file name="$USER_HOME$/projects/react-canvas-paint/src/HappySandwichMaker.example.js" timestamp="1473711863030">
         <mark key="[" line="1" column="25" />
@@ -1871,11 +1895,11 @@
         <mark key="." line="33" column="14" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/selection.js" timestamp="1489217143087">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="34" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/model/selection.js" timestamp="1489219794273">
+        <mark key="[" line="16" column="63" />
+        <mark key="]" line="16" column="64" />
+        <mark key="." line="16" column="64" />
+        <mark key="^" line="16" column="64" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/modal/modal-transitions.scss" timestamp="1462695789858">
         <mark key="[" line="25" column="26" />
@@ -2472,31 +2496,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>anchor</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>anchor</text>
       </register>
       <register name="/" type="4">
         <text>babel</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHx8IGUudGFyZ2V0LnZhbHVlID0gJyc=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB9IGVsc2UgaWYgKGFjdGlvbi50eXBlID09PSAiSEVBRCIpIHsKICAgIHJldHVybiB7Li4uc3RhdGUsIGhlYWQ6IGFjdGlvbi52YWx1ZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdmFsdWU9IiIK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgKChvcC5wb3MgKyBvcC5sZW5ndGggPCBpbmQpID8KICAgICAgICBpbmQgLSBvcC52YWx1ZS5sZW5ndGgKICAgICAgICA6IG9wLnBvcykKICAgICAgOiBpbmQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhbmNob3IsIGhlYWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG86IGF1dG9iaW5kIHRoaXMK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdXJzb3IsIG9wKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA6IG9wLnBvcykKICAgICAgOiBpbmQpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2547,16 +2571,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLmVudGl0aWVzLmZvckVhY2goKHBvc3QpPT57Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdXJzb3IsIG9wKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHlpZWxkIGRpc3BhdGNoKHt0eXBlOiAiU0VMRUNUX1BPU1QiLCBwb3N0SWQ6IGVkaXRvci5wb3N0SWR9KTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhbmNob3IsIGhlYWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
