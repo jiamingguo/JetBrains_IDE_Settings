@@ -44,11 +44,11 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/package.json" timestamp="1489217952545">
-        <mark key="[" line="8" column="40" />
-        <mark key="]" line="8" column="40" />
-        <mark key="." line="8" column="40" />
-        <mark key="^" line="8" column="40" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/package.json" timestamp="1489717211632">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/list-view/list-panel.scss" timestamp="1461741787339">
         <mark key="[" line="27" column="22" />
@@ -1805,11 +1805,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/README.md" timestamp="1489207714263">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="21" />
-        <mark key="." line="11" column="21" />
-        <mark key="^" line="11" column="21" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/README.md" timestamp="1489717305498">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="17" column="12" />
+        <mark key="^" line="17" column="12" />
       </file>
       <file name="$USER_HOME$/projects/eywa-dropbox/src/contentRequest.js" timestamp="1465705633040">
         <mark key="[" line="25" column="35" />
@@ -2501,17 +2501,17 @@
       <jump line="12" column="15" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtoaWdobGlnaHRCbG9ja30gZnJvbSAnaGlnaGxpZ2h0anMnOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC0td2F0Y2g=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IC0td2F0Y2g=</text>
       </register>
       <register name="/" type="4">
         <text>ENTER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmlzQ29tcG9zaW5nKSByZXR1cm47CiAgICB0aGlzLl9kaXNwYXRjaCgiSU5QVVQiLCB0aGlzLm5hdGl2ZUVsZW1lbnQuaW5uZXJIVE1MKTsK</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImplc3QgLS13YXRjaCIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHtoaWdobGlnaHRCbG9ja30gZnJvbSAnaGlnaGxpZ2h0anMnOwo=</text>
