@@ -1811,11 +1811,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/README.md" timestamp="1489717305498">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="12" />
-        <mark key="." line="17" column="12" />
-        <mark key="^" line="17" column="12" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/README.md" timestamp="1489730106371">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="38" />
       </file>
       <file name="$USER_HOME$/projects/eywa-dropbox/src/contentRequest.js" timestamp="1465705633040">
         <mark key="[" line="25" column="35" />
@@ -2508,16 +2508,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.not</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>.not</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>ENTER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWwoIjAxMjM0IiwgMCkuc2hvdWxkLmJlLmVxdWFsKCIxMjM0Iik7Cg==</text>
+        <text encoding="base64">YXBwbHkoJ01hcnkgaGFzIGEgbGl0dGxlIGxhbWIuJywgWzAsIHtkOiA0fV0pOy8vICdoYXMgYSBsaXR0bGUgbGFtYic7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkZWwoIjAxMjM0IiwgMCkuc2hvdWxkLmJlLmVxdWFsKCIxMjM0Iik7CiAgZGVsKCIwMTIzNCIsIDApLnNob3VsZC5iZS5lcXVhbCgiMTIzNCIpOwo=</text>
