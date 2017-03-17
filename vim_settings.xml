@@ -44,11 +44,11 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/package.json" timestamp="1489717211632">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="^" line="7" column="14" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/package.json" timestamp="1489728746140">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/list-view/list-panel.scss" timestamp="1461741787339">
         <mark key="[" line="27" column="22" />
@@ -1071,11 +1071,11 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/src/string-ops.js" timestamp="1489221877185">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="1" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/src/string-ops.js" timestamp="1489728794090">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/modal/es-modal.scss" timestamp="1462636816829">
         <mark key="[" line="14" column="0" />
@@ -1768,6 +1768,12 @@
         <mark key="]" line="18" column="45" />
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/src/string-ops.spec.js" timestamp="1489728680545">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="15" column="31" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/markdown/mathjax markdown-it react support.md" timestamp="1486017350113">
         <mark key="[" line="0" column="0" />
@@ -2502,31 +2508,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0td2F0Y2g=</text>
+        <text>.not</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0td2F0Y2g=</text>
+        <text>.not</text>
       </register>
       <register name="/" type="4">
         <text>ENTER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImplc3QgLS13YXRjaCIsCg==</text>
+        <text encoding="base64">ICBkZWwoIjAxMjM0IiwgMCkuc2hvdWxkLmJlLmVxdWFsKCIxMjM0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtoaWdobGlnaHRCbG9ja30gZnJvbSAnaGlnaGxpZ2h0anMnOwo=</text>
+        <text encoding="base64">ICBkZWwoIjAxMjM0IiwgMCkuc2hvdWxkLmJlLmVxdWFsKCIxMjM0Iik7CiAgZGVsKCIwMTIzNCIsIDApLnNob3VsZC5iZS5lcXVhbCgiMTIzNCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtoaWdobGlnaHRCbG9ja30gZnJvbSAnaGlnaGxpZ2h0anMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRVcGRhdGUoKSB7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJlQmxvY2spOwogICAgc2V0VGltZW91dCgoKT0+ewogICAgICBoaWdobGlnaHRCbG9jayh0aGlzLnByZUJsb2NrKTsKICAgIH0sIDEwMDApCg==</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRVcGRhdGUoKSB7CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJlQmxvY2spOwogICAgc2V0VGltZW91dCgoKT0+ewogICAgICBoaWdobGlnaHRCbG9jayh0aGlzLnByZUJsb2NrKTsKICAgIH0sIDEwMDApCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2577,16 +2583,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhpZ2hsaWdodEJsb2NrKHRoaXMucHJlQmxvY2spOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhpZ2hsaWdodEJsb2NrKHRoaXMucHJlQmxvY2spOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coaGlnaGxpZ2h0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coaGlnaGxpZ2h0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
