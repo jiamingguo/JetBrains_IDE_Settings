@@ -248,6 +248,11 @@
         <mark key="." line="0" column="65" />
         <mark key="^" line="0" column="69" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1483404647516">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/gittor/src/app/demoPost.js" timestamp="1462333081436">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="15" />
@@ -725,11 +730,6 @@
         <mark key="]" line="75" column="12" />
         <mark key="." line="75" column="12" />
         <mark key="^" line="75" column="12" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1483404647516">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/react-canvas-paint/src/extensions/calligraphyPen.js" timestamp="1473704866619">
         <mark key="[" line="40" column="0" />
@@ -1942,6 +1942,12 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-math.js" timestamp="1490166109392">
+        <mark key="[" line="107" column="21" />
+        <mark key="]" line="107" column="21" />
+        <mark key="^" line="107" column="21" />
+        <mark key="." line="107" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/README.md" timestamp="1488949752101">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="3" column="0" />
@@ -2508,16 +2514,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.not</text>
+        <text>^</text>
       </register>
       <register name="-" type="4">
-        <text>.not</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text>ENTER</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkZWwoIjAxMjM0IiwgMCkuc2hvdWxkLmJlLmVxdWFsKCIxMjM0Iik7Cg==</text>
+      <register name="0" type="4">
+        <text>(^\s*)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkZWwoIjAxMjM0IiwgMCkuc2hvdWxkLmJlLmVxdWFsKCIxMjM0Iik7CiAgZGVsKCIwMTIzNCIsIDApLnNob3VsZC5iZS5lcXVhbCgiMTIzNCIpOwo=</text>
