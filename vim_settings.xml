@@ -757,6 +757,17 @@
         <mark key="^" line="20" column="1" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-client/package.json" timestamp="1490935794570">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="24" column="59" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/client-test/electron-starter.js" timestamp="1490937763651">
+        <mark key="'" line="55" column="64" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="19" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/gittor/src/popover/Popover.js" timestamp="1462664011825">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="38" />
@@ -1209,6 +1220,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/client-test/package.json" timestamp="1490937989519">
+        <mark key="[" line="4" column="59" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/.gitignore" timestamp="1489214803179">
         <mark key="[" line="3" column="13" />
@@ -2068,6 +2085,13 @@
         <mark key="." line="20" column="68" />
         <mark key="^" line="75" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" timestamp="1489259122885">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="48" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/episodeyang.github.io/posts/index.scss" timestamp="1488444939814">
         <mark key="[" line="57" column="31" />
         <mark key="]" line="57" column="32" />
@@ -2252,6 +2276,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/client-test/Procfile" timestamp="1490937254836">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/markdown-preview/dom/findNodeWithText.js" timestamp="1487609738166">
         <mark key="[" line="3" column="2" />
@@ -2452,9 +2482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="27" filename="$USER_HOME$/projects/gittor/src/components/markdown/markdown-it-react-renderer.js" />
-      <jump line="51" column="20" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
-      <jump line="357" column="2" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
       <jump line="354" column="2" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
       <jump line="18" column="3" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
       <jump line="242" column="0" filename="$USER_HOME$/projects/gittor/src/components/ace-editor/AceEditor.js" />
@@ -2552,34 +2579,37 @@
       <jump line="38" column="3" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
       <jump line="12" column="15" filename="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/components/InputBlock.js" />
+      <jump line="21" column="2" filename="$USER_HOME$/projects/escherpad/client-test/package.json" />
+      <jump line="8" column="24" filename="$USER_HOME$/projects/escherpad/client-test/electron-starter.js" />
+      <jump line="53" column="64" filename="$USER_HOME$/projects/escherpad/client-test/electron-starter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHdpbi5sb2FkVVJMKHVybC5mb3JtYXQoewogICAgLy8gICAgIHBhdGhuYW1lOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnaW5kZXguaHRtbCcpLAogICAgLy8gICAgIHByb3RvY29sOiAnZmlsZTonLAogICAgLy8gICAgIHNsYXNoZXM6IHRydWUKICAgIC8vIH0pKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Hello World!</text>
+        <text>mainWindow</text>
       </register>
       <register name="/" type="4">
-        <text>ENTER</text>
+        <text>main</text>
       </register>
-      <register name="0" type="4">
-        <text>0, 'haha'], [1, 0], [2, {d:1}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAibmFtZSI6ICJlc2NoZXJwYWQiLAogICJ2ZXJzaW9uIjogIjAuMC4xIiwKICAiZGVzY3JpcHRpb24iOiAiZXNjaGVycGFkIGRlc2t0b3AgY2xpZW50IiwKICAibWFpbiI6ICJtYWluLmpzIiwKICAic2NyaXB0cyI6IHsKICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCiAgfSwKICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vZWNoZXJwYWQvZXNjaGVycGFkLmdpdCIKICB9LAogICJrZXl3b3JkcyI6IFsKICAgICJlc2NoZXJwYWQiLAogICAgImp1cHl0ZXIiLAogICAgIm1hdGhlbWF0aWNhIiwKICAgICJldmVybm90ZSIsCiAgICAiZWxlY3Ryb24iCiAgXSwKICAiYXV0aG9yIjogIkdlIFlhbmciLAogICJsaWNlbnNlIjogIlNFRSBMSUNFTlNFIElOIExJQ0VOU0UubWQiLAogICJidWdzIjogewogICAgInVybCI6ICJodHRwczovL2dpdGh1Yi5jb20vZWNoZXJwYWQvZXNjaGVycGFkL2lzc3VlcyIKICB9LAogICJob21lcGFnZSI6ICJodHRwczovL2dpdGh1Yi5jb20vZWNoZXJwYWQvZXNjaGVycGFkI3JlYWRtZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHdpbi5sb2FkVVJMKHVybC5mb3JtYXQoewogICAgLy8gICAgIHBhdGhuYW1lOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnaW5kZXguaHRtbCcpLAogICAgLy8gICAgIHByb3RvY29sOiAnZmlsZTonLAogICAgLy8gICAgIHNsYXNoZXM6IHRydWUKICAgIC8vIH0pKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHRpdGxlPjwvdGl0bGU+Cg==</text>
+        <text encoding="base64">Ly8gZnJvbSBodHRwczovL21lZGl1bS5mcmVlY29kZWNhbXAuY29tL2J1aWxkaW5nLWFuLWVsZWN0cm9uLWFwcGxpY2F0aW9uLXdpdGgtY3JlYXRlLXJlYWN0LWFwcC05Nzk0NTg2MTY0N2MKY29uc3Qgc3RhcnRVcmwgPSBwcm9jZXNzLmVudi5FTEVDVFJPTl9TVEFSVF9VUkwgfHwgdXJsLmZvcm1hdCh7CiAgICAgICAgcGF0aG5hbWU6IHBhdGguam9pbihfX2Rpcm5hbWUsICcvLi4vYnVpbGQvaW5kZXguaHRtbCcpLAogICAgICAgIHByb3RvY29sOiAnZmlsZTonLAogICAgICAgIHNsYXNoZXM6IHRydWUKICAgIH0pOwptYWluV2luZG93LmxvYWRVUkwoc3RhcnRVcmwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGgxPkhlbGxvIFdvcmxkITwvaDE+CldlIGFyZSB1c2luZyBub2RlIDxzY3JpcHQ+ZG9jdW1lbnQud3JpdGUocHJvY2Vzcy52ZXJzaW9ucy5ub2RlKTwvc2NyaXB0PiwKQ2hyb21lIDxzY3JpcHQ+ZG9jdW1lbnQud3JpdGUocHJvY2Vzcy52ZXJzaW9ucy5jaHJvbWUpPC9zY3JpcHQ+LAphbmQgRWxlY3Ryb24gPHNjcmlwdD5kb2N1bWVudC53cml0ZShwcm9jZXNzLnZlcnNpb25zLmVsZWN0cm9uKTwvc2NyaXB0Pi4K</text>
+        <text encoding="base64">Y29uc3Qgc3RhcnRVcmwgPSBwcm9jZXNzLmVudi5FTEVDVFJPTl9TVEFSVF9VUkwgfHwgdXJsLmZvcm1hdCh7CiAgICAgICAgcGF0aG5hbWU6IHBhdGguam9pbihfX2Rpcm5hbWUsICcvLi4vYnVpbGQvaW5kZXguaHRtbCcpLAogICAgICAgIHByb3RvY29sOiAnZmlsZTonLAogICAgICAgIHNsYXNoZXM6IHRydWUKICAgIH0pOwptYWluV2luZG93LmxvYWRVUkwoc3RhcnRVcmwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiaG9tZXBhZ2UiOiAiLi8iLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqIENyZWF0ZWQgYnkgZ2Ugb24gMy8zMC8xNy4gKi8K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2630,25 +2660,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtpbnMsIGRlbCwgbW92fSBmcm9tICIuL29wcyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtPcFNldH0gZnJvbSAiLi4vdXRpbHMiOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ENTER</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>ENTER</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace />
       <last-substitute>/React.PropTypes.//gc</last-substitute>
       <last-dir>1</last-dir>
@@ -2662,6 +2692,9 @@
         <entry>Caret</entry>
         <entry>Input</entry>
         <entry>ENTER</entry>
+        <entry>home</entry>
+        <entry>mainWindow</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd />
       <history-expr />

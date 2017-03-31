@@ -7,26 +7,27 @@
       <mapping pattern="ipythonHelpers" type="JavaScript" />
       <removed_mapping ext="js" type="JavaScript" />
       <mapping pattern="WORKSPACE" type="PLAIN_TEXT" />
-      <mapping pattern="simpleLatexDoc.tex" type="PLAIN_TEXT" />
       <mapping pattern="jadeify-ts" type="PLAIN_TEXT" />
       <mapping pattern="make" type="PLAIN_TEXT" />
       <mapping pattern=".scss-lint.yml.swp" type="PLAIN_TEXT" />
       <mapping pattern="chat-server" type="PLAIN_TEXT" />
       <mapping pattern="0a1c6cc1-140f-44e3-adf2-158379f5d0a7" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="iIg4Wmmsh3yjvvh7oZU0AgJulyikco5XBOriPTr7g0Y" type="PLAIN_TEXT" />
       <mapping pattern="400db924-efeb-44b5-b1ed-1c672ef86e48" type="PLAIN_TEXT" />
       <mapping pattern="activate" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="simpleLatexDoc.tex" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="test-config" type="PLAIN_TEXT" />
       <mapping pattern="hello-test" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="init" type="PLAIN_TEXT" />
-      <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="build" type="PLAIN_TEXT" />
       <mapping pattern="interfaces" type="TypeScript" />
       <mapping ext="plist" type="XML" />
     </extensionMap>
