@@ -385,9 +385,9 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/TODO List.md" timestamp="1490950187952">
-        <mark key="[" line="18" column="3" />
-        <mark key="]" line="18" column="3" />
+      <file name="$USER_HOME$/projects/escherpad/TODO List.md" timestamp="1490950229247">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
@@ -604,9 +604,6 @@
         <mark key="]" line="16" column="26" />
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="26" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1490932394314">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/luna-saga/src/Saga$.ts" timestamp="1482733133288">
         <mark key="[" line="1" column="26" />
@@ -1062,6 +1059,12 @@
         <mark key="]" line="8" column="22" />
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/web-app/README.md" timestamp="1490950268431">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="2" column="44" />
+        <mark key="." line="2" column="44" />
+        <mark key="^" line="2" column="44" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/placeholder/Placeholder.js" timestamp="1462057601368">
         <mark key="[" line="5" column="14" />
@@ -2628,16 +2631,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>TODO List</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>TODO List</text>
       </register>
       <register name="/" type="4">
         <text>electron</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSBbYnJvd3Nlci1wbHVnaW5dKGJyb3dzZXItcGx1Z2luKTogcmVwbyBjb250YWlucyBjb2RlIGZvciBicm93c2VyIHBsdWdpbnMK</text>
+        <text encoding="base64">IyBFc2NoZXJwYWQgVE9ETyBMaXN0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
