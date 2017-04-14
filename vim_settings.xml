@@ -1841,11 +1841,11 @@
         <mark key="^" line="37" column="9" />
         <mark key="." line="37" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/README.md" timestamp="1490948751025">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="40" />
-        <mark key="." line="6" column="40" />
-        <mark key="^" line="6" column="40" />
+      <file name="$USER_HOME$/projects/escherpad/README.md" timestamp="1492137844815">
+        <mark key="[" line="15" column="79" />
+        <mark key="]" line="15" column="98" />
+        <mark key="." line="15" column="98" />
+        <mark key="^" line="15" column="98" />
       </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/ops/js.operation.helloworld.html" timestamp="1488756133278">
         <mark key="[" line="8" column="0" />
@@ -2660,10 +2660,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>C</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>electron</text>
