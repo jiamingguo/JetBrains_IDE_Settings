@@ -384,11 +384,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/TODO List.md" timestamp="1490950229247">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="18" column="3" />
+      <file name="$USER_HOME$/projects/escherpad/TODO List.md" timestamp="1492144137431">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="16" column="41" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/bristol-board/react-bristol/src/extensions/utils.js" timestamp="1483416747749">
         <mark key="[" line="16" column="0" />
@@ -995,11 +995,11 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/README.md" timestamp="1492139153360">
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="3" column="44" />
-        <mark key="^" line="3" column="44" />
-        <mark key="." line="3" column="44" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/README.md" timestamp="1492143550011">
+        <mark key="[" line="10" column="106" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="49" />
+        <mark key="^" line="11" column="49" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/AccountListItem.js" timestamp="1481074483794">
         <mark key="[" line="21" column="32" />
@@ -1850,11 +1850,11 @@
         <mark key="^" line="37" column="9" />
         <mark key="." line="37" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/README.md" timestamp="1492137844815">
-        <mark key="[" line="15" column="79" />
-        <mark key="]" line="15" column="98" />
-        <mark key="." line="15" column="98" />
-        <mark key="^" line="15" column="98" />
+      <file name="$USER_HOME$/projects/escherpad/README.md" timestamp="1492141127552">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/ops/js.operation.helloworld.html" timestamp="1488756133278">
         <mark key="[" line="8" column="0" />
@@ -2481,10 +2481,11 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/App.js" timestamp="1492138694226">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/App.js" timestamp="1492144324618">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/ops/array-ops.es6" timestamp="1488945594308">
         <mark key="[" line="1" column="21" />
@@ -2668,32 +2669,32 @@
       <jump line="2" column="0" filename="$USER_HOME$/projects/escherpad/web-app/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIDwvcD4K</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>visual design doc (layout)</text>
       </register>
       <register name="/" type="4">
         <text>electron</text>
       </register>
-      <register name="0" type="4">
-        <text>$(CLIENT_COMMON)</text>
+      <register name="0" type="2">
+        <text encoding="base64">LSBbIF0gdmlzdWFsIGRlc2lnbiBkb2MgKGxheW91dCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIDwvcD4K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iQXBwLWhlYWRlciI+CiAgICAgICAgICA8aW1nIHNyYz17bG9nb30gY2xhc3NOYW1lPSJBcHAtbG9nbyIgYWx0PSJsb2dvIiAvPgogICAgICAgICAgPGgyPldlbGNvbWUgdG8gUmVhY3Q8L2gyPgogICAgICAgIDwvZGl2PgogICAgICAgIDxwIGNsYXNzTmFtZT0iQXBwLWludHJvIj4KICAgICAgICAgIFRvIGdldCBzdGFydGVkLCBlZGl0IDxjb2RlPnNyYy9BcHAuanM8L2NvZGU+IGFuZCBzYXZlIHRvIHJlbG9hZC4KIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0ICcuL0FwcC5jc3MnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmV0Y2g6CglnbGlkZSBpbnN0YWxsCglnbGlkZSB1cApnZXQ6CglnbGlkZSBnZXQgJChnaXQpCmluc3RhbGw6CglnbyBpbnN0YWxsICQobmFtZSkKYnVpbGQ6CglnbyBidWlsZCAuCnJ1bjoKCSQoR09QQVRIKS9iaW4vJChuYW1lKQp0ZXN0OgoJZ28gdGVzdCAtaW50ZWdyYXRpb24K</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWdsaWRlIGluaXQK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iQXBwLWhlYWRlciI+CiAgICAgICAgICA8aW1nIHNyYz17bG9nb30gY2xhc3NOYW1lPSJBcHAtbG9nbyIgYWx0PSJsb2dvIiAvPgogICAgICAgICAgPGgyPldlbGNvbWUgdG8gUmVhY3Q8L2gyPgogICAgICAgIDwvZGl2PgogICAgICAgIDxwIGNsYXNzTmFtZT0iQXBwLWludHJvIj4KICAgICAgICAgIFRvIGdldCBzdGFydGVkLCBlZGl0IDxjb2RlPnNyYy9BcHAuanM8L2NvZGU+IGFuZCBzYXZlIHRvIHJlbG9hZC4KICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2744,16 +2745,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CW1ha2UgcnVuCg==</text>
+        <text encoding="base64">VGhpcyByZXBvIGlzIHVzZWQgdG8gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CW1ha2UgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmFtZT0kKHNoZWxsIGdsaWRlIG5hbWUpCnBhcmVudD0kKHNoZWxsIHB3ZCkKZ3JhbmRfZ3JhbmRfcGFyZW50PSQoc2hlbGwgZGlybmFtZSAkKHNoZWxsIGRpcm5hbWUgJChzaGVsbCBwd2QpKSkKR09QQVRIPSQoZ3JhbmRfZ3JhbmRfcGFyZW50KQpHT0JJTj0kKGdyYW5kX2dyYW5kX3BhcmVudCkvYmluCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
