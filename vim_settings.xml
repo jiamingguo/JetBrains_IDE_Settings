@@ -511,9 +511,9 @@
         <mark key="^" line="0" column="61" />
         <mark key="." line="0" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/escher.im/groot/src/chat-server/Makefile" timestamp="1470812487772">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
+      <file name="$USER_HOME$/projects/escher.im/groot/src/chat-server/Makefile" timestamp="1492140292137">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="64" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="10" column="9" />
       </file>
@@ -1018,7 +1018,6 @@
         <mark key="]" line="79" column="4" />
         <mark key="." line="79" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/scala_spark_ot/workspace/src/ot-string/apply.spec.js" timestamp="1489816351482" />
       <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/browser-column-view.scss" timestamp="1481095136540">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="22" />
@@ -2538,7 +2537,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtpbnMsIGRlbCwgbW92fSBmcm9tICIuL29wcyI7Cg==</text>
+        <text encoding="base64">Z3JhbmRfZ3JhbmRfcGFyZW50PSQoc2hlbGwgZGlybmFtZSAkKHNoZWxsIGRpcm5hbWUgJChzaGVsbCBwd2QpKSkK</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -2546,8 +2545,8 @@
       <register name="/" type="4">
         <text>ENTER</text>
       </register>
-      <register name="0" type="4">
-        <text>0, 'haha'], [1, 0], [2, {d:1}</text>
+      <register name="0" type="2">
+        <text encoding="base64">Z3JhbmRfZ3JhbmRfcGFyZW50PSQoc2hlbGwgZGlybmFtZSAkKHNoZWxsIGRpcm5hbWUgJChzaGVsbCBwd2QpKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHtpbnMsIGRlbCwgbW92fSBmcm9tICIuL29wcyI7Cg==</text>
