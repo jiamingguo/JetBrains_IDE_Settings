@@ -1482,12 +1482,12 @@
         <mark key="." line="4" column="75" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" timestamp="1492289127039">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="18" column="49" />
-        <mark key="]" line="18" column="40" />
-        <mark key="." line="18" column="40" />
-        <mark key="^" line="18" column="40" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" timestamp="1492289863563">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="37" column="59" />
+        <mark key="]" line="37" column="68" />
+        <mark key="." line="37" column="68" />
+        <mark key="^" line="37" column="68" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/.gitignore" timestamp="1473495684188">
         <mark key="[" line="3" column="6" />
@@ -2709,16 +2709,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text encoding="base64">IGNvbXBvbmVudHM=</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">IGNvbXBvbmVudHM=</text>
       </register>
       <register name="/" type="4">
         <text>configs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9jb21tYW5kc1tuYW1lc3BhY2VdID0gY29tbWFuZHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9jb21tYW5kcyA9IHt9Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFwcE1vZHVsZSBmcm9tICcuL2NsaWVudC1jb21tb24vY29yZS9hcHAnOwo=</text>
