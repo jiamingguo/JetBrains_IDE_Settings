@@ -1482,11 +1482,12 @@
         <mark key="." line="4" column="75" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" timestamp="1492277367267">
-        <mark key="[" line="37" column="44" />
-        <mark key="]" line="37" column="44" />
-        <mark key="^" line="37" column="44" />
-        <mark key="." line="37" column="44" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" timestamp="1492279399820">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="58" column="15" />
+        <mark key="]" line="58" column="23" />
+        <mark key="." line="58" column="23" />
+        <mark key="^" line="58" column="23" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/.gitignore" timestamp="1473495684188">
         <mark key="[" line="3" column="6" />
@@ -2605,7 +2606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="10" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
       <jump line="192" column="29" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
       <jump line="198" column="2" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
       <jump line="210" column="14" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
@@ -2705,34 +2705,35 @@
       <jump line="40" column="17" filename="$USER_HOME$/projects/escherpad/desktop-app/package.json" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/escherpad/web-app/README.md" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/escherpad/web-app/README.md" />
+      <jump line="51" column="0" filename="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFwcE1vZHVsZSBmcm9tICcuL2NsaWVudC1jb21tb24vY29yZS9hcHAnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>electron</text>
+        <text>configs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtTdG9yZSwgY29tYmluZVJlZHVjZXJzfSBmcm9tICJsdW5hIjsKaW1wb3J0IFNhZ2EsIHtzYWdhQ29ubmVjdH0gZnJvbSAibHVuYS1zYWdhIjsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9jb21tYW5kc1tuYW1lc3BhY2VdID0gY29tbWFuZHM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0b3JlJCA9IFN0b3JlKHRoaXMuX3JlZHVjZXIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFwcE1vZHVsZSBmcm9tICcuL2NsaWVudC1jb21tb24vY29yZS9hcHAnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0b3JlJCA9IFN0b3JlKHRoaXMuX3JlZHVjZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9jb25maWdzW25hbWVzcGFjZV0gPSBjb25maWc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuL0FwcCc7Cg==</text>
+        <text encoding="base64">ICAgIHJlbmRlcihlbGVtZW50KSB7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0b3JlJCA9IFN0b3JlKHRoaXMuX3JlZHVjZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2783,25 +2784,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtTdG9yZX0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbmZpZ3MgPSB7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0b3JlJCA9IFN0b3JlKHRoaXMuX3JlZHVjZXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0b3JlJCA9IFN0b3JlKHRoaXMuX3JlZHVjZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvCg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>electron</last-search>
+      <last-search>configs</last-search>
       <last-offset />
-      <last-pattern>electron</last-pattern>
+      <last-pattern>configs</last-pattern>
       <last-replace />
       <last-substitute>/React.PropTypes.//gc</last-substitute>
       <last-dir>1</last-dir>
@@ -2819,6 +2820,7 @@
         <entry>mainWindow</entry>
         <entry>main</entry>
         <entry>electron</entry>
+        <entry>configs</entry>
       </history-search>
       <history-cmd />
       <history-expr />
