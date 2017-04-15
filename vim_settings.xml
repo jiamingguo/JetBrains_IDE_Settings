@@ -1482,12 +1482,12 @@
         <mark key="." line="4" column="75" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" timestamp="1492279399820">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="58" column="15" />
-        <mark key="]" line="58" column="23" />
-        <mark key="." line="58" column="23" />
-        <mark key="^" line="58" column="23" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" timestamp="1492289127039">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/.gitignore" timestamp="1473495684188">
         <mark key="[" line="3" column="6" />
@@ -2708,11 +2708,11 @@
       <jump line="51" column="0" filename="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFwcE1vZHVsZSBmcm9tICcuL2NsaWVudC1jb21tb24vY29yZS9hcHAnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>configs</text>
