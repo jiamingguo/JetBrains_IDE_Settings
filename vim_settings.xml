@@ -1276,9 +1276,6 @@
         <mark key="." line="2" column="77" />
         <mark key="^" line="2" column="77" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/MakeFile" timestamp="1492139483157">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/string-transform.js" timestamp="1489217885673">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="11" column="0" />
@@ -2407,11 +2404,11 @@
         <mark key="." line="177" column="43" />
         <mark key="^" line="177" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/README.md" timestamp="1490947906794">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/README.md" timestamp="1492293676592">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/groot/Makefile" timestamp="1470809027313">
         <mark key="[" line="1" column="16" />
@@ -2708,8 +2705,8 @@
       <jump line="51" column="0" filename="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGNvbXBvbmVudHM=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVza3RvcCBhcHAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGNvbXBvbmVudHM=</text>
@@ -2721,19 +2718,19 @@
         <text encoding="base64">ICAgICAgICB0aGlzLl9jb21tYW5kcyA9IHt9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFwcE1vZHVsZSBmcm9tICcuL2NsaWVudC1jb21tb24vY29yZS9hcHAnOwo=</text>
+        <text encoding="base64">ZGVza3RvcCBhcHAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9jb25maWdzW25hbWVzcGFjZV0gPSBjb25maWc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlbmRlcihlbGVtZW50KSB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGFwcE1vZHVsZSBmcm9tICcuL2NsaWVudC1jb21tb24vY29yZS9hcHAnOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2784,16 +2781,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbmZpZ3MgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9jb25maWdzW25hbWVzcGFjZV0gPSBjb25maWc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0b3JlJCA9IFN0b3JlKHRoaXMuX3JlZHVjZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0b3JlJCA9IFN0b3JlKHRoaXMuX3JlZHVjZXIpOwo=</text>
+        <text encoding="base64">ICAgIHJlbmRlcihlbGVtZW50KSB7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
