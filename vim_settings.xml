@@ -2404,11 +2404,11 @@
         <mark key="." line="177" column="43" />
         <mark key="^" line="177" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/README.md" timestamp="1492293676592">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-        <mark key="^" line="7" column="33" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/README.md" timestamp="1492297513148">
+        <mark key="[" line="8" column="63" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="8" column="64" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/groot/Makefile" timestamp="1470809027313">
         <mark key="[" line="1" column="16" />
@@ -2705,11 +2705,11 @@
       <jump line="51" column="0" filename="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVza3RvcCBhcHAK</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbXBvbmVudHM=</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>configs</text>
