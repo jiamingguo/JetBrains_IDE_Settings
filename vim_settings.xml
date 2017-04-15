@@ -21,7 +21,7 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1490946820039">
+      <file name="/a.dummy" timestamp="1492227611114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -825,6 +825,13 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/modules/example-module/index.js" timestamp="1492228016632">
+        <mark key="j" line="11" column="13" />
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+        <mark key="^" line="16" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/luna-saga/src/interfaces.ts" timestamp="1481091584046">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="16" />
@@ -1125,10 +1132,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/example-module/index.js" timestamp="1492225057616">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="16" column="1" />
-        <mark key="." line="16" column="1" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/example-module/index.js" timestamp="1492227299194">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="8" column="44" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/editor-view/AuthorizeNewServiceView.js" timestamp="1464996197907">
         <mark key="[" line="8" column="1" />
@@ -2691,31 +2699,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>electron</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiZmllbGQtb2YtdGhlLXZhbHVlIjogKHMsIGEpPT5zLAo=</text>
+        <text encoding="base64">ICAgICAgICAiYW5vdGhlci1maWVsZC1vZi10aGUtdmFsdWUiOiAocywgYSkgPT4gcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiZmllbGQtb2YtdGhlLXZhbHVlIjogKHMsIGEpID0+IHMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlZHVjZXI6IHsKICAgICAgICAiZmllbGQtb2YtdGhlLXZhbHVlIjogKHMsIGEpPT5zLAogICAgICAgICJhbm90aGVyLWZpZWxkLW9mLXRoZS12YWx1ZSI6IChzLCBhKT0+cwogICAgfSwgLy8gb3IgYSBmdW5jdGlvbiAocywgYSk9PnMKICAgIHZpZXc6IHsKICAgICAgICAndmlldy1pbnNlcnRpb24tcG9pbnQnOiAocHJvcHMpPT48ZGl2PmhhaGE8L2Rpdj4sIC8vIENvbXBvbmVudAogICAgICAgICdAdmlldy1kZWNvcmF0b3InOiAoQ29tcG9uZW50KT0+PENvbXBvbmVudCBuZXdQcm9wPXtUcnVlfS8+IC8vIHdyYXAgYXJvdW5kIGV4aXN0aW5nIGNvbXBvbmVudAogICAgfSwKICAgIHNhZ2E6IHsKICAgICAgICAnYWN0aW9uOnR5cGUtYmxhaC1ibGFoJzogKHtzdGF0ZSwgdXBkYXRlfSk9Pnt9LCAvLyB0YWtlIHBhcnRpY3VsYXIgYWN0aW9uCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YApIb3cgdG8gaGFuZGxlIGNvbW1hbmRzOgpgCg==</text>
+        <text encoding="base64">LyoKIEhvdyB0byBoYW5kbGUgY29tbWFuZHM6CiBjb21tYW5kOgogQGNvbW1hbmQ6UGx1Z2luOnBsdWdpbi1jb21tYW5kLW5hbWUKICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SG93IHRvIGhhbmRsZSBjb21tYW5kczoK</text>
+        <text encoding="base64">aW1wb3J0IENvbXBvbmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2765,17 +2773,18 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZpZXcK</text>
+      <register name="6" type="4">
+        <text>function module({React}) {
+    return</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnQEBtb2RpZmllci1wb2ludCc6IChwcm9wcyk9PiwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJlZHVjZXI6IHsKICAgICAgICAiZmllbGQtb2YtdGhlLXZhbHVlIjogKHMsIGEpPT5zLAogICAgICAgICJhbm90aGVyLWZpZWxkLW9mLXRoZS12YWx1ZSI6IChzLCBhKT0+cwogICAgfSwgLy8gb3IgYSBmdW5jdGlvbiAocywgYSk9PnMKICAgIHZpZXc6IHsKICAgICAgICAndmlldy1pbnNlcnRpb24tcG9pbnQnOiAocHJvcHMpPT48ZGl2PmhhaGE8L2Rpdj4sIC8vIENvbXBvbmVudAogICAgICAgICdAdmlldy1kZWNvcmF0b3InOiAoQ29tcG9uZW50KT0+PENvbXBvbmVudCBuZXdQcm9wPXtUcnVlfS8+IC8vIHdyYXAgYXJvdW5kIGV4aXN0aW5nIGNvbXBvbmVudAogICAgfSwKICAgIHNhZ2E6IHsKICAgICAgICAnYWN0aW9uOnR5cGUtYmxhaC1ibGFoJzogKHtzdGF0ZSwgdXBkYXRlfSk9Pnt9LCAvLyB0YWtlIHBhcnRpY3VsYXIgYWN0aW9uCiAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3QgQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">YApIb3cgdG8gaGFuZGxlIGNvbW1hbmRzOgpgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
