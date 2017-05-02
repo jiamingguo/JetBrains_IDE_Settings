@@ -2642,13 +2642,13 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/index.js" timestamp="1493695565346">
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/index.js" timestamp="1493696089452">
         <mark key="a" line="17" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
+        <mark key="[" line="22" column="9" />
         <mark key="m" line="14" column="13" />
-        <mark key="^" line="21" column="7" />
-        <mark key="." line="21" column="0" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+        <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/modal/ModalContainer.js" timestamp="1462750715432">
         <mark key="[" line="13" column="38" />
@@ -2779,31 +2779,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>editor</text>
+        <text>bottom</text>
       </register>
       <register name="-" type="4">
-        <text>editor</text>
+        <text>bottom</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBWaWV3IENvZGUgKi8K</text>
+        <text encoding="base64">ICAgICAgICAnYm90dG9tLWd1dHRlcicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAnc2lkZS1iYXInLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiY29tcG9uZW50IHNob3VsZCB1cGRhdGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFZpZXcgQ29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIG1vZHVsZSBjb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2854,16 +2854,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiY29tcG9uZW50IHNob3VsZCB1cGRhdGUiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNhZ2FzOiB7fSwK</text>
+        <text encoding="base64">ICAgIC8vIFZpZXcgQ29kZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmVSZWxvYWQ6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgIC8vIG1vZHVsZSBjb2RlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNhZ2FzOiB7fSwK</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
