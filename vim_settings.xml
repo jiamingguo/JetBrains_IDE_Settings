@@ -21,7 +21,7 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1493703264722">
+      <file name="/a.dummy" timestamp="1493707203395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -119,6 +119,12 @@
         <mark key="]" line="47" column="15" />
         <mark key="^" line="47" column="15" />
         <mark key="." line="47" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/channel-view/index.js" timestamp="1493706265239">
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="10" column="56" />
+        <mark key="." line="10" column="56" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/form/Button.js" timestamp="1483416768668">
         <mark key="[" line="18" column="0" />
@@ -323,13 +329,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/package.json" timestamp="1493684366571">
-        <mark key="'" line="44" column="17" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="36" column="18" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/app/demoInitialState.js" timestamp="1462893607600">
         <mark key="[" line="6" column="10" />
@@ -646,6 +645,12 @@
         <mark key="." line="3" column="8" />
         <mark key="^" line="5" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/app-layout.css" timestamp="1493705689359">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/episodeyang.github.io/_layouts/default.html" timestamp="1488564153854">
         <mark key="[" line="22" column="14" />
         <mark key="]" line="22" column="22" />
@@ -681,6 +686,12 @@
         <mark key="]" line="2" column="32" />
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/channel-view/index.css" timestamp="1493705993047">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/badge/badge.scss" timestamp="1465024915025">
         <mark key="[" line="21" column="26" />
@@ -723,6 +734,12 @@
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/team-sidebar/index.css" timestamp="1493705971698">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/editor-view/modals/configs/themeList.js" timestamp="1462753443504">
         <mark key="[" line="41" column="0" />
@@ -789,13 +806,6 @@
         <mark key="]" line="6" column="33" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/client-test/electron-starter.js" timestamp="1490947500226">
-        <mark key="'" line="55" column="64" />
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="50" />
-        <mark key="." line="15" column="44" />
-        <mark key="^" line="15" column="50" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/src/popover/Popover.js" timestamp="1462664011825">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="38" />
@@ -814,11 +824,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/file-list-view/index.js" timestamp="1493694048693">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/file-list-view/index.js" timestamp="1493707125616">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="4" column="43" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/account-list-view/FolderEntry.js" timestamp="1481095644615">
         <mark key="[" line="6" column="72" />
@@ -930,6 +940,12 @@
         <mark key="]" line="28" column="69" />
         <mark key="." line="28" column="69" />
         <mark key="^" line="28" column="69" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/App.js" timestamp="1493707245008">
+        <mark key="[" line="29" column="59" />
+        <mark key="]" line="29" column="59" />
+        <mark key="^" line="29" column="57" />
+        <mark key="." line="29" column="59" />
       </file>
       <file name="$USER_HOME$/projects/golang-book-notes/002_variables.go" timestamp="1469949811990">
         <mark key="[" line="28" column="41" />
@@ -1100,13 +1116,6 @@
         <mark key="]" line="8" column="22" />
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/escherpad/web-app/README.md" timestamp="1491104611886">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="2" column="44" />
-        <mark key="." line="2" column="44" />
-        <mark key="^" line="2" column="44" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/placeholder/Placeholder.js" timestamp="1462057601368">
         <mark key="[" line="5" column="14" />
@@ -1352,6 +1361,12 @@
         <mark key="^" line="32" column="23" />
         <mark key="." line="32" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/file-list-view/file-list-view.js" timestamp="1493707187359">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="56" />
+        <mark key="." line="3" column="56" />
+        <mark key="^" line="3" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/demo-page/src/index.js" timestamp="1488949901872">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="55" />
@@ -1513,10 +1528,11 @@
         <mark key="." line="4" column="75" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" timestamp="1493703822620">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" timestamp="1493707072831">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+        <mark key="^" line="5" column="43" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/.gitignore" timestamp="1473495684188">
         <mark key="[" line="3" column="6" />
@@ -1667,11 +1683,11 @@
         <mark key="." line="22" column="30" />
         <mark key="^" line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/Ra_.js" timestamp="1493699193788">
-        <mark key="[" line="84" column="46" />
-        <mark key="]" line="84" column="46" />
-        <mark key="." line="84" column="46" />
-        <mark key="^" line="84" column="46" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/Ra_.js" timestamp="1493706317238">
+        <mark key="[" line="84" column="36" />
+        <mark key="]" line="84" column="36" />
+        <mark key="." line="84" column="36" />
+        <mark key="^" line="84" column="36" />
       </file>
       <file name="$USER_HOME$/projects/react-layout-components/src/Flex-column.example.js" timestamp="1467360222968">
         <mark key="[" line="5" column="28" />
@@ -1797,6 +1813,12 @@
         <mark key="]" line="14" column="54" />
         <mark key="." line="13" column="57" />
         <mark key="^" line="13" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/main-container/index.css" timestamp="1493706228040">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/editor-view/modals/components/TwoColumn.js" timestamp="1465009093904">
         <mark key="[" line="1" column="0" />
@@ -2012,6 +2034,12 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="16" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/context-view/index.js" timestamp="1493707162610">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/golang-book-notes/numeric constantc.go" timestamp="1469951144098">
         <mark key="[" line="19" column="16" />
         <mark key="]" line="19" column="16" />
@@ -2101,11 +2129,11 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/public/index.html" timestamp="1493691178646">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="21" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/public/index.html" timestamp="1493705659813">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="84" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="17" column="54" />
       </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/src/ot-string/transform.js" timestamp="1489817525997">
         <mark key="[" line="36" column="6" />
@@ -2184,6 +2212,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="2" column="24" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/context-view/context-view.js" timestamp="1493707511501">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/store/RootStore.js" timestamp="1492149212037">
         <mark key="[" line="0" column="0" />
@@ -2310,11 +2344,11 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/team-sidebar/index.js" timestamp="1493703832815">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/team-sidebar/index.js" timestamp="1493706272653">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="11" column="72" />
+        <mark key="." line="11" column="72" />
+        <mark key="^" line="11" column="72" />
       </file>
       <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/TeamSidebar/team-sidebar.js" timestamp="1493701382493">
         <mark key="[" line="1" column="35" />
@@ -2501,13 +2535,6 @@
         <mark key="." line="13" column="32" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/gittor/README.md" timestamp="1492896825014">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="57" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/gittor/src/oauth/Dropbox/dropbox-api.js" timestamp="1463268403170">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -2520,11 +2547,17 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/code-view/index.js" timestamp="1493697713699">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="27" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/code-view/index.js" timestamp="1493707130666">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
         <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/main-container/index.js" timestamp="1493706256654">
+        <mark key="[" line="11" column="63" />
+        <mark key="]" line="11" column="76" />
+        <mark key="." line="11" column="76" />
+        <mark key="^" line="11" column="76" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/lib/dropbox/karma.config.js" timestamp="1465453722088">
         <mark key="[" line="9" column="11" />
@@ -2578,13 +2611,6 @@
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/Ra_.js" timestamp="1493695759139">
-        <mark key="'" line="86" column="12" />
-        <mark key="[" line="42" column="54" />
-        <mark key="]" line="44" column="11" />
-        <mark key="." line="44" column="11" />
-        <mark key="^" line="44" column="11" />
       </file>
       <file name="$USER_HOME$/projects/luna-saga/src/index.spec.ts" timestamp="1482881280156">
         <mark key="[" line="0" column="0" />
@@ -2811,31 +2837,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Qm9vdHN0cmFwIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Qm9vdHN0cmFwIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>body</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmFfLmxvYWRNb2R1bGUoYXBwTW9kdWxlKTsK</text>
+        <text encoding="base64">cmFfLmxvYWRNb2R1bGUocmVxdWlyZSgnZmlsZS1saXN0LXZpZXcnKS5kZWZhdWx0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmFfLmxvYWRNb2R1bGUocmVxdWlyZSgnLi9jbGllbnQtY29tbW9uL2NvcmUvdGVhbS1zaWRlYmFyJykuZGVmYXVsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHB1Ymxpc2ggYSBsaXN0IG9mIHZpZXcgYW5jaG9ycwogICAgdmlld0FuY2hvcnM6IFtdLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHB1Ymxpc2ggYSBsaXN0IG9mIHZpZXcgYW5jaG9ycwogICAgdmlld0FuY2hvcnM6IFtdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPE1haW5Db250YWluZXIvPiovfQogICAgICAgICAgICB7Lyo8TGVmdEd1dHRlci8+Ki99CiAgICAgICAgICAgIHsvKjxCb3R0b21HdXR0ZXIvPiovfQogICAgICAgICAgICB7Lyo8UmlnaHRHdXR0ZXIvPiovfQogICAgICAgICAgICB7Lyo8Qm90dG9tU3RhdHVzQmFyLz4qL30K</text>
+        <text encoding="base64">ICAgIC8vIHB1Ymxpc2ggYSBsaXN0IG9mIHZpZXcgYW5jaG9ycwogICAgdmlld0FuY2hvcnM6IFtdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gTWFpbkNvbnRhaW5lciwKICAgICAgICAgICAgLy8gTGVmdEd1dHRlciwKICAgICAgICAgICAgLy8gQm90dG9tR3V0dGVyLAogICAgICAgICAgICAvLyBSaWdodEd1dHRlciwKICAgICAgICAgICAgLy8gQm90dG9tU3RhdHVzQmFyCg==</text>
+        <text encoding="base64">aW1wb3J0IGFwcE1vZHVsZSBmcm9tIDsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2886,25 +2912,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGVhbVNpZGViYXJCdXR0b24sCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gZXNjaGVycGFkIGhhcyBhbGwgdGhlc2UgaW5zZXJ0aW9uIHBvaW50cwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgTkFNRVNQQUNFID0gImNvbnRleHQtdmlldyI7CgppbXBvcnQgQ29udGV4dFZpZXcgZnJvbSAiY29udGV4dC12aWV3IjsKLy8gdGhpcyBpcyBhbG1vc3QgREkuCmV4cG9ydCBkZWZhdWx0IHsKICAgIC8qKiBNb2R1bGUgUGFyYW1ldGVycyovCiAgICBuYW1lc3BhY2U6IE5BTUVTUEFDRSwKICAgIHJlcXVpcmVSZWxvYWQ6IHRydWUsCgogICAgLyoqIE1vZGVsIGFuZCBDb250cm9sbGVyIENvZGUgKi8KICAgIGNvbW1hbmRzOiB7fSwKICAgIHJlZHVjZXJzOiB7fSwgLy8gb3IgYSBmdW5jdGlvbiAocywgYSk9PnMKICAgIHNhZ2FzOiB7fSwKCiAgICAvKiogVmlldyBDb2RlICovCiAgICAvLyBwdWJsaXNoIGEgbGlzdCBvZiB2aWV3IGFuY2hvcnMKICAgIHZpZXdBbmNob3JzOiBbXSwKICAgIHZpZXdzOiB7Q29udGV4dFZpZXd9LAogICAgY29uZmlnOiAoYykgPT4gYwp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>body</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>body</last-pattern>
       <last-replace />
       <last-substitute>/React.PropTypes.//gc</last-substitute>
       <last-dir>1</last-dir>
@@ -2925,6 +2951,7 @@
         <entry>export function</entry>
         <entry>appModule</entry>
         <entry>console</entry>
+        <entry>body</entry>
       </history-search>
       <history-cmd />
       <history-expr />
