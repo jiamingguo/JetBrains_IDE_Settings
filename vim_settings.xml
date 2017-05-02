@@ -1186,10 +1186,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/electron-starter.js" timestamp="1492127789268">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/electron-starter.js" timestamp="1493691561092">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/oauth/DropboxRedirect.js" timestamp="1480909946625">
         <mark key="[" line="7" column="35" />
@@ -1285,9 +1286,6 @@
         <mark key="]" line="2" column="77" />
         <mark key="." line="2" column="77" />
         <mark key="^" line="2" column="77" />
-      </file>
-      <file name="$USER_HOME$/projects/escherpad/MakeFile" timestamp="1492139483157">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/string-transform.js" timestamp="1489217885673">
         <mark key="[" line="10" column="1" />
@@ -1491,6 +1489,12 @@
         <mark key="]" line="4" column="75" />
         <mark key="." line="4" column="75" />
         <mark key="^" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" timestamp="1493691279479">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="57" />
+        <mark key="." line="6" column="57" />
+        <mark key="^" line="6" column="57" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/.gitignore" timestamp="1473495684188">
         <mark key="[" line="3" column="6" />
@@ -2051,6 +2055,12 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/public/index.html" timestamp="1493691178646">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/src/ot-string/transform.js" timestamp="1489817525997">
         <mark key="[" line="36" column="6" />
         <mark key="]" line="36" column="6" />
@@ -2499,6 +2509,12 @@
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/Ra_.js" timestamp="1493691653124">
+        <mark key="[" line="69" column="24" />
+        <mark key="]" line="69" column="24" />
+        <mark key="." line="69" column="24" />
+        <mark key="^" line="69" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/luna-saga/src/index.spec.ts" timestamp="1482881280156">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2529,10 +2545,12 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/App.js" timestamp="1493684886458">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/App.js" timestamp="1493689737403">
+        <mark key="'" line="26" column="26" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="45" column="31" />
       </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/ops/array-ops.es6" timestamp="1488945594308">
         <mark key="[" line="1" column="21" />
@@ -2593,11 +2611,11 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/index.js" timestamp="1493682609465">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="5" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/index.js" timestamp="1493691715388">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/modal/ModalContainer.js" timestamp="1462750715432">
         <mark key="[" line="13" column="38" />
@@ -2625,8 +2643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="18" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
-      <jump line="11" column="57" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
       <jump line="72" column="10" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
       <jump line="63" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
       <jump line="61" column="0" filename="$USER_HOME$/projects/episodeyang.github.io/_posts/2017-02-27-boltzmann-entropy-kl-divergence.md" />
@@ -2725,34 +2741,36 @@
       <jump line="4" column="0" filename="$USER_HOME$/projects/escherpad/gittor/README.md" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/escherpad/gittor/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/escherpad/gittor/README.md" />
+      <jump line="35" column="87" filename="$USER_HOME$/projects/escherpad/desktop-app/src/App.js" />
+      <jump line="26" column="26" filename="$USER_HOME$/projects/escherpad/desktop-app/src/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gQGZsb3cK</text>
+      <register name="&quot;" type="4">
+        <text>plugin</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>plugin</text>
       </register>
       <register name="/" type="4">
-        <text>export function</text>
+        <text>appModule</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bnBtIGluc3RhbGwgLWcgZWxlY3Ryb24K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2FwcCBtb2R1bGUgaXMgbG9hZGVkLicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gQGZsb3cK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDwhLS0KICAgICAgVGhpcyBIVE1MIGZpbGUgaXMgYSB0ZW1wbGF0ZS4KICAgICAgSWYgeW91IG9wZW4gaXQgZGlyZWN0bHkgaW4gdGhlIGJyb3dzZXIsIHlvdSB3aWxsIHNlZSBhbiBlbXB0eSBwYWdlLgoKICAgICAgWW91IGNhbiBhZGQgd2ViZm9udHMsIG1ldGEgdGFncywgb3IgYW5hbHl0aWNzIHRvIHRoaXMgZmlsZS4KICAgICAgVGhlIGJ1aWxkIHN0ZXAgd2lsbCBwbGFjZSB0aGUgYnVuZGxlZCBzY3JpcHRzIGludG8gdGhlIDxib2R5PiB0YWcuCgogICAgICBUbyBiZWdpbiB0aGUgZGV2ZWxvcG1lbnQsIHJ1biBgbnBtIHN0YXJ0YC4KICAgICAgVG8gY3JlYXRlIGEgcHJvZHVjdGlvbiBidW5kbGUsIHVzZSBgbnBtIHJ1biBidWlsZGAuCiAgICAtLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bnBtIGluc3RhbGwgLWcgZWxlY3Ryb24K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2luc2lkZSBpbmRleC5qcycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJmbG93LWJpbiI6ICJeMC40NS4wIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJmbG93LWJpbiI6ICJeMC40NS4wIiwK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3J1bm5pbmcgaW5kZXguanMnKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2803,25 +2821,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bm9kZV9tb2R1bGVzLyoqLioK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh2aWV3cykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgbW9kdWxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2l0dG9yLWZldGNoOgoJZ2l0IHN1YnRyZWUgZmV0Y2ggLS1wcmVmaXggZ2l0dG9yIGh0dHBzOi8vZ2l0aHViLmNvbS9lcGlzb2RleWFuZy9naXR0b3IuZ2l0IG1hc3Rlcgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2aWV3cyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2l0dG9yLWZldGNoOgoJZ2l0IHN1YnRyZWUgZmV0Y2ggLS1wcmVmaXggZ2l0dG9yIGh0dHBzOi8vZ2l0aHViLmNvbS9lcGlzb2RleWFuZy9naXR0b3IuZ2l0IG1hc3RlcgoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLl92aWV3cyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>export function</last-search>
+      <last-search>appModule</last-search>
       <last-offset />
-      <last-pattern>export function</last-pattern>
+      <last-pattern>appModule</last-pattern>
       <last-replace />
       <last-substitute>/React.PropTypes.//gc</last-substitute>
       <last-dir>1</last-dir>
@@ -2841,6 +2859,7 @@
         <entry>electron</entry>
         <entry>once</entry>
         <entry>export function</entry>
+        <entry>appModule</entry>
       </history-search>
       <history-cmd />
       <history-expr />
