@@ -21,7 +21,7 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1493682506149">
+      <file name="/a.dummy" timestamp="1493703264722">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1435,11 +1435,11 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/team-sidebar/team-sidebar.js" timestamp="1493700841390">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="10" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/team-sidebar/team-sidebar.js" timestamp="1493702139671">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="9" />
       </file>
       <file name="$USER_HOME$/projects/react-highlight.js/.gitignore" timestamp="1467184364084">
         <mark key="[" line="18" column="5" />
@@ -1513,11 +1513,10 @@
         <mark key="." line="4" column="75" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" timestamp="1493700954759">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="66" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/index.js" timestamp="1493703822620">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/escher.im/.gitignore" timestamp="1473495684188">
         <mark key="[" line="3" column="6" />
@@ -1829,11 +1828,11 @@
         <mark key="^" line="85" column="9" />
         <mark key="." line="85" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/bootstrap.js" timestamp="1493702075671">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="5" column="9" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/bootstrap.js" timestamp="1493703803574">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="30" />
       </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/src/utility.js" timestamp="1489815735553">
         <mark key="[" line="23" column="1" />
@@ -2311,10 +2310,11 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/team-sidebar/index.js" timestamp="1493702015208">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/team-sidebar/index.js" timestamp="1493703832815">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/TeamSidebar/team-sidebar.js" timestamp="1493701382493">
         <mark key="[" line="1" column="35" />
@@ -2616,13 +2616,6 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/App.js" timestamp="1493689737403">
-        <mark key="'" line="26" column="26" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="32" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="45" column="31" />
-      </file>
       <file name="$USER_HOME$/projects/scala_spark_ot/workspace/ops/array-ops.es6" timestamp="1488945594308">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="25" />
@@ -2682,11 +2675,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/index.js" timestamp="1493700512810">
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/projects/escherpad/desktop-app/src/client-common/core/app/index.js" timestamp="1493703891413">
+        <mark key="[" line="2" column="7" />
         <mark key="m" line="14" column="13" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/modal/ModalContainer.js" timestamp="1462750715432">
         <mark key="[" line="13" column="38" />
@@ -2817,10 +2811,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGZ1bmM=</text>
+        <text encoding="base64">Qm9vdHN0cmFwIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZ1bmM=</text>
+        <text encoding="base64">Qm9vdHN0cmFwIA==</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2829,19 +2823,19 @@
         <text encoding="base64">cmFfLmxvYWRNb2R1bGUoYXBwTW9kdWxlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmFfLmxvYWRNb2R1bGUocmVxdWlyZSgnLi9jbGllbnQtY29tbW9uL2NvcmUvdGVhbS1zaWRlYmFyJykuZGVmYXVsdCk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPE1haW5Db250YWluZXIvPiovfQogICAgICAgICAgICB7Lyo8TGVmdEd1dHRlci8+Ki99CiAgICAgICAgICAgIHsvKjxCb3R0b21HdXR0ZXIvPiovfQogICAgICAgICAgICB7Lyo8UmlnaHRHdXR0ZXIvPiovfQogICAgICAgICAgICB7Lyo8Qm90dG9tU3RhdHVzQmFyLz4qL30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gTWFpbkNvbnRhaW5lciwKICAgICAgICAgICAgLy8gTGVmdEd1dHRlciwKICAgICAgICAgICAgLy8gQm90dG9tR3V0dGVyLAogICAgICAgICAgICAvLyBSaWdodEd1dHRlciwKICAgICAgICAgICAgLy8gQm90dG9tU3RhdHVzQmFyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPE1haW5Db250YWluZXIvPiovfQogICAgICAgICAgICB7Lyo8TGVmdEd1dHRlci8+Ki99CiAgICAgICAgICAgIHsvKjxCb3R0b21HdXR0ZXIvPiovfQogICAgICAgICAgICB7Lyo8UmlnaHRHdXR0ZXIvPiovfQogICAgICAgICAgICB7Lyo8Qm90dG9tU3RhdHVzQmFyLz4qL30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGVhbVNpZGViYXJCdXR0b24sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gTWFpbkNvbnRhaW5lciwKICAgICAgICAgICAgLy8gTGVmdEd1dHRlciwKICAgICAgICAgICAgLy8gQm90dG9tR3V0dGVyLAogICAgICAgICAgICAvLyBSaWdodEd1dHRlciwKICAgICAgICAgICAgLy8gQm90dG9tU3RhdHVzQmFyCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -2892,16 +2886,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGVhbVNpZGViYXJCdXR0b24sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
