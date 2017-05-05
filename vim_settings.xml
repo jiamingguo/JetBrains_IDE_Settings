@@ -687,12 +687,12 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/episodeyang.github.io/_drafts/2017-05-05-variationa-autoencoder.md" timestamp="1494019426118">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="19" column="263" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="0" />
+      <file name="$USER_HOME$/projects/episodeyang.github.io/_drafts/2017-05-05-variationa-autoencoder.md" timestamp="1494020365980">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="65" />
+        <mark key="." line="15" column="65" />
+        <mark key="^" line="15" column="65" />
       </file>
       <file name="$USER_HOME$/projects/gittor/src/components/badge/small-blue-badge.scss" timestamp="1481506820366">
         <mark key="[" line="8" column="19" />
@@ -2878,10 +2878,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>is images</text>
