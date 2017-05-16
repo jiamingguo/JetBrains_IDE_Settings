@@ -692,12 +692,12 @@
         <mark key="." line="1" column="84" />
         <mark key="^" line="1" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" timestamp="1494963443575">
-        <mark key="'" line="133" column="19" />
-        <mark key="[" line="105" column="8" />
-        <mark key="]" line="105" column="51" />
-        <mark key="." line="105" column="8" />
-        <mark key="^" line="105" column="7" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" timestamp="1494964413991">
+        <mark key="'" line="174" column="21" />
+        <mark key="[" line="119" column="48" />
+        <mark key="]" line="119" column="48" />
+        <mark key="." line="119" column="48" />
+        <mark key="^" line="118" column="53" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/dijkstra/dijkstra.py" timestamp="1491719897023">
         <mark key="[" line="19" column="36" />
@@ -747,17 +747,18 @@
       <file name="/fragment.py" timestamp="1494084447868">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/seq2seq.py" timestamp="1494964345093" />
       <file name="$USER_HOME$/projects/python-interview-prep/longest_consecutive_-subsequence/longest_non_consequetive_subsequence.py" timestamp="1491809914962">
         <mark key="[" line="5" column="56" />
         <mark key="]" line="5" column="56" />
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/README.md" timestamp="1494953748476">
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="10" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/README.md" timestamp="1494964496758">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/dykstra/python_heap_demo.py" timestamp="1491697994236">
         <mark key="[" line="7" column="23" />
@@ -1140,9 +1141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="328" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="330" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="332" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="334" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="336" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="338" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
@@ -1240,55 +1238,58 @@
       <jump line="479" column="52" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="98" column="0" filename="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" />
       <jump line="133" column="19" filename="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" />
+      <jump line="157" column="44" filename="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" />
+      <jump line="122" column="58" filename="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" />
+      <jump line="173" column="21" filename="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IyBOT1RFOiBhY2NlcHQgYm90aCBbaypdIGFzIHdlbGwgYXMgazo8aW50Pg==</text>
+        <text>segmented</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyBOT1RFOiBhY2NlcHQgYm90aCBbaypdIGFzIHdlbGwgYXMgazo8aW50Pg==</text>
+        <text>segmented</text>
       </register>
       <register name="/" type="4">
-        <text>random</text>
+        <text>train</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sYXllcnMuYXBwZW5kKFBlcmZvcmF0ZWRSTk4oaGlkZGVuX3NpemUsIGhpZGRlbl9zaXplKSkK</text>
+      <register name="0" type="4">
+        <text>, *args, **kwrags</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLm5fbGF5ZXJzKToK</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBocyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBiYXRjaF9zaXplID0gaGlkZGVuLnNpemUoKVsxXQogICAgICAgIHRhcmdldF9zaXplID0gMCBpZiB0YXJnZXQgaXMgTm9uZSBlbHNlIHRhcmdldC5zaXplKClbMV0KICAgICAgICBlbmNvZGVyX291dHB1dCwgZW5jb2RlZCA9IHNlbGYuZW5jb2RlcihpbnB1dCwgaGlkZGVuKQogICAgICAgIHNsaWNlcyA9IFtdCiAgICAgICAgZW1iZWRlZF9vdXRwdXRzID0gW10KICAgICAgICBoaWRkZW4gPSBlbmNvZGVkCiAgICAgICAgb3V0cHV0X2NoYXJfYmF0Y2ggPSBzZWxmLmdldF9TT1NfdmVjKGJhdGNoX3NpemUpCiAgICAgICAgIyBUT0RPOiBtYWtlIGl0IHNvIGVuZCBvZiBzZW50ZW5jZSBmb3IgYWxsIGVsZW1lbnRzIGluIGJhdGNoIHRyaWdnZXIgZW5kIG9mIHdoaWxlIGxvb3AuCiAgICAgICAgZW9zX2ZsYWdzID0gbGlzdChyYW5nZShiYXRjaF9zaXplKSkKICAgICAgICB3aGlsZSBsZW4oc2xpY2VzKSA8IChtYXhfb3V0cHV0X2xlbmd0aCBvciBzZWxmLmFyZ3MuTUFYX09VVFBVVF9MRU4pIFwKICAgICAgICAgICAgICAgIGFuZCBsZW4oZW9zX2ZsYWdzKSAhPSAwOgogICAgICAgICAgICAjIGNoYXJfc2xpY2Ugc2l6ZShiX3NpemUsIDEpLCBpcyBjb3JyZWN0CiAgICAgICAgICAgICMjIFRoaXMgaXMgd2hlcmUgeW91IGFkZCB0ZWFjaGVyIGZvcmNpbmcKICAgICAgICAgICAgaW5kZXggPSBsZW4oc2xpY2VzKQogICAgICAgICAgICBpX3ZlYyA9IFZhcmlhYmxlKHRvcmNoLkxvbmdUZW5zb3IoW2luZGV4XSkpCiAgICAgICAgICAgICMgVE9ETzogdXNlIHRlbnNvciBjb21iaW5lL2FkZF93aXRoX21hc2sgb3BlcmF0b3IgaGVyZSBpbnN0ZWFkLgogICAgICAgICAgICBvdXRwdXRfc2xpY2VfZm9yY2VkID0gb3V0cHV0X2NoYXJfYmF0Y2ggXAogICAgICAgICAgICAgICAgaWYgcmFuZG9tLnJhbmRvbSgpID4gdGVhY2hlcl9yIG9yIGluZGV4ID49IHRhcmdldF9zaXplIFwKICAgICAgICAgICAgICAgIGVsc2UgdGFyZ2V0LmluZGV4X3NlbGVjdCgxLCBpX3ZlYykKICAgICAgICAgICAgb3V0cHV0X2VtYmVkZGVkLCBoaWRkZW4gPSBzZWxmLmRlY29kZXIoc2VsZi5kZWNvZGVyLmVtYmVkKG91dHB1dF9zbGljZV9mb3JjZWQpLCBoaWRkZW4pCiAgICAgICAgICAgICMgY29udmVydCBlbWJlZGRlZCB0byBjbGFzc19pbmRleCBoZXJlCiAgICAgICAgICAgIG91dHB1dF9jaGFyX2JhdGNoID0gc2VsZi5kZWNvZGVyLmV4dHJhY3Qob3V0cHV0X2VtYmVkZGVkKQoKICAgICAgICAgICAgIyBOb3cgYWRkIHRoZSBzbGljZXMgdG8gdGhlIG91dHB1dCBzdGFjay4gY2hhcl9zbGljZShiX3NpemUsIDEpIC0+IHNpemUoYl9zaXplKQogICAgICAgICAgICBzbGljZXMuYXBwZW5kKG91dHB1dF9jaGFyX2JhdGNoLnZpZXcoYmF0Y2hfc2l6ZSkpCiAgICAgICAgICAgIGVtYmVkZWRfb3V0cHV0cy5hcHBlbmQob3V0cHV0X2VtYmVkZGVkLnZpZXcoYmF0Y2hfc2l6ZSwgLTEpKQoKICAgICAgICAgICAgZm9yIGluZCwgcyBpbiBlbnVtZXJhdGUob3V0cHV0X2NoYXJfYmF0Y2gpOgogICAgICAgICAgICAgICAgc19pbmRleCA9IGludChzLmRhdGEubnVtcHkoKVswXSkKICAgICAgICAgICAgICAgIGlmIGluZCBpbiBlb3NfZmxhZ3M6CiAgICAgICAgICAgICAgICAgICAgaWYgc19pbmRleCA9PSBzZWxmLm91dHB1dF9sYW5nLkVPU19pbmQ6CiAgICAgICAgICAgICAgICAgICAgICAgIGVvc19mbGFncy5yZW1vdmUoaW5kKQoKICAgICAgICAjIFRPRE86IGZpeCBtaXNtYXRjaCBvdXRwdXQgYmV0d2VlbiBldmFsdWF0ZSBhbmQgZm9yd2FyZC4KICAgICAgICByZXR1cm4gdG9yY2guc3RhY2soc2xpY2VzLCBkaW09MSksIGhpZGRlbiwgdG9yY2guc3RhY2soZW1iZWRlZF9vdXRwdXRzLCBkaW09MSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfc2l6ZSA9IGhpZGRlbi5zaXplKClbMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sYXllcnMuYXBwZW5kKFBlcmZvcmF0ZWRSTk4oZmVhdHVyZV9uLCApKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaCA9IGhpZGRlbltpbmRdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sYXllcnMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBoaWRkZW4gPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLm5fbGF5ZXJzKToKICAgICAgICAgICAgc2VsZi5ocy5hcHBlbmQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>random</last-search>
+      <last-search>train</last-search>
       <last-offset />
-      <last-pattern>random</last-pattern>
+      <last-pattern>train</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -1296,8 +1297,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Encoder</entry>
-        <entry>conv1d</entry>
         <entry>con</entry>
         <entry>conv</entry>
         <entry>decoder</entry>
@@ -1316,6 +1315,8 @@
         <entry>None</entry>
         <entry>relu</entry>
         <entry>random</entry>
+        <entry>eval</entry>
+        <entry>train</entry>
       </history-search>
       <history-cmd>
         <entry>set linenumber</entry>
