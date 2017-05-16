@@ -114,6 +114,12 @@
         <mark key="^" line="116" column="58" />
         <mark key="." line="116" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/scratch/rnn_sample.py" timestamp="1494957747204">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/warpdrive/warp_cli/tests/test_repo.py" timestamp="1494030577854">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="9" />
@@ -729,7 +735,7 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1494957238900">
+      <file name="/Python Console" timestamp="1494957515665">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Automatically_Adding_Punctuations/Plan of attack_TODO.md" timestamp="1490907219232">
@@ -1233,10 +1239,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>relu</text>
@@ -1245,31 +1251,31 @@
         <text encoding="base64">ICAgICIiIlRoaXMgZnVuIGxpdHRsZSBtb2R1bGUgdXAtc2FtcGxlcyBpdHMgb3V0cHV0IGJ5IGBrYCBpbiBhIHdheSBzaW1pbGFyIHRvICpwZXJmb3JhdGVkKiB1cC1zYW1wbGluZyBkb25lIGluIENOTi4KICAgIHBhcmFtczoKICAgICAgICAtIGlucHV0X3NpemUKICAgICAgICAtIG91dHB1dF9zaXplIChvbmUtaG90KQogICAgICAgIC0ga3M6IGFuIGFycmF5IG9mIHVwLXNhbXBsaW5nCiAgICBpbnB1dDogCiAgICAgICAgLSAKICAgICIiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dC52aWV3KGJhdGNoX3NpemUsIC0xLCBzZWxmLmhpZGRlbl9zaXplKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbWJlZGVkID0gc2VsZi5lbWJlZGRpbmcoaW5wdXQpLnZpZXcoYmF0Y2hfc2l6ZSwgLTEsIHNlbGYuaGlkZGVuX3NpemUpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVtYmVkZGluZyA9IG5uLkVtYmVkZGluZyhuX2NoYXJzLCBlbWJlZGRpbmdfc2l6ZSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHV0aWxzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbnB1dC52aWV3KGJhdGNoX3NpemUsIC0xLCBzZWxmLmhpZGRlbl9zaXplKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlbWJlZGVkID0gc2VsZi5lbWJlZGRpbmcoaW5wdXQpLnZpZXcoYmF0Y2hfc2l6ZSwgLTEsIHNlbGYuaGlkZGVuX3NpemUpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmVtYmVkZGluZyA9IG5uLkVtYmVkZGluZyhuX2NoYXJzLCBlbWJlZGRpbmdfc2l6ZSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAxLiBbIF0gZ2V0IHRyYWluaW5nIGhvb2tlZCB1cAojICAgMS4gWyBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
