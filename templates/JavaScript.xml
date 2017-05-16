@@ -5,11 +5,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="literal" value="&quot;$var0$&quot;, $var0$" toReformat="true" toShortenFQNames="true">
+  <template name="literal" value="&quot;$var0$&quot;, $var0$" description="" toReformat="true" toShortenFQNames="true">
     <variable name="var0" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="functionalComponent" value="import React, {PropTypes} from &quot;react&quot;;&#10;var {number, string, bool, func, any, oneOf} = PropTypes;&#10;export default function $fileNameWithoutExtension()$ ({..._props}) {&#10;    return (&#10;    $END$&#10;    )&#10;}&#10;&#10;$fileNameWithoutExtension()$.prototype.propTypes = {&#10;    /** dispatch function of the store */&#10;    dispatch: any&#10;}" description="react functional component" toReformat="false" toShortenFQNames="true">

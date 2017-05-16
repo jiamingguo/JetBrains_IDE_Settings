@@ -30,7 +30,7 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1494956942156">
+      <file name="/a.dummy" timestamp="1494960331179">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/eight_queens/eight_queens.py" timestamp="1491929573650">
@@ -147,7 +147,6 @@
         <mark key="^" line="20" column="63" />
         <mark key="." line="20" column="63" />
       </file>
-      <file name="$USER_HOME$/anaconda/envs/deep-learning/lib/python3.6/site-packages/torch/nn/modules/activation.py" timestamp="1494955904296" />
       <file name="$USER_HOME$/projects/M018_Yggdrasil/mask/M018V6_L1_process_files/shunted-launcher.py" timestamp="1490986341323">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="4" column="48" />
@@ -457,7 +456,7 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494956796877">
+      <file name="/Dummy.txt" timestamp="1494958838248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/dave/README.md" timestamp="1494635389921">
@@ -693,11 +692,11 @@
         <mark key="." line="1" column="84" />
         <mark key="^" line="1" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" timestamp="1494955901663">
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="29" column="36" />
-        <mark key="^" line="29" column="36" />
-        <mark key="." line="29" column="36" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" timestamp="1494960316423">
+        <mark key="[" line="64" column="10" />
+        <mark key="]" line="64" column="15" />
+        <mark key="." line="64" column="15" />
+        <mark key="^" line="64" column="15" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/dijkstra/dijkstra.py" timestamp="1491719897023">
         <mark key="[" line="19" column="36" />
@@ -902,6 +901,10 @@
         <mark key="]" line="9" column="3" />
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/anaconda/envs/deep-learning/lib/python3.6/site-packages/torch/nn/modules/rnn.py" timestamp="1494959356865">
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="300" column="46" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/depth_first_search/compare_leaves_recursive.py" timestamp="1486962364200">
         <mark key="[" line="51" column="27" />
@@ -1239,43 +1242,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text encoding="base64">bl9sYXllcnM9MSwg</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">bl9sYXllcnM9MSwg</text>
       </register>
       <register name="/" type="4">
         <text>relu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICIiIlRoaXMgZnVuIGxpdHRsZSBtb2R1bGUgdXAtc2FtcGxlcyBpdHMgb3V0cHV0IGJ5IGBrYCBpbiBhIHdheSBzaW1pbGFyIHRvICpwZXJmb3JhdGVkKiB1cC1zYW1wbGluZyBkb25lIGluIENOTi4KICAgIHBhcmFtczoKICAgICAgICAtIGlucHV0X3NpemUKICAgICAgICAtIG91dHB1dF9zaXplIChvbmUtaG90KQogICAgICAgIC0ga3M6IGFuIGFycmF5IG9mIHVwLXNhbXBsaW5nCiAgICBpbnB1dDogCiAgICAgICAgLSAKICAgICIiIgo=</text>
+        <text encoding="base64">IyB0b2RvOiBhZGQgbXVsdGlwbGUgbGF5ZXJzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBudW1fbGF5ZXJzOiBOdW1iZXIgb2YgcmVjdXJyZW50IGxheWVycy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGRvbmU6IHVwLXNhbXBsaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgo=</text>
+        <text encoding="base64">ICAgICAgICAjIE5PVEU6IG5vIHN1cHBvcnQgZm9yIGBiYXRjaF9maXJzdGAgeWV0Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFBlcmZvcmF0ZWQgVXAtc2FtcGxpbmc6IGFkZCB6ZXJvcyBpbi1iZXR3ZWVuIHJlYWwgb3V0cHV0cy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFBlcmZvcmF0ZWQgVXAtc2FtcGxpbmc6IGFkZCB6ZXJvcyBpbi1iZXR3ZWVuIHJlYWwgb3V0cHV0cy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dC52aWV3KGJhdGNoX3NpemUsIC0xLCBzZWxmLmhpZGRlbl9zaXplKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGFkZCB1cC1zYW1wbGluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbWJlZGVkID0gc2VsZi5lbWJlZGRpbmcoaW5wdXQpLnZpZXcoYmF0Y2hfc2l6ZSwgLTEsIHNlbGYuaGlkZGVuX3NpemUpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHRvZG86IHNxdWVlemUgaW5wdXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVtYmVkZGluZyA9IG5uLkVtYmVkZGluZyhuX2NoYXJzLCBlbWJlZGRpbmdfc2l6ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXFfbGVuLCBiYXRjaF9zaXplLCBmZWF0dXJlX24gPSBvdXRwdXQuc2l6ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
