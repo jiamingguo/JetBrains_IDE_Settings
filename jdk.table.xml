@@ -1,0 +1,623 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.6 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/596071422" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (~/anaconda/envs/python3/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/anaconda/envs/python3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/python3/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/python3/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/python3/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/python3/lib/python3.5/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda/envs/python3/lib/python3.5/site-packages/setuptools-23.0.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-818634276" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/projects/M017_Yggdrasil/simulation/ipython-notebooks/lib" />
+            <root type="simple" url="file://$USER_HOME$/projects/M017_Yggdrasil/mask/lib" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/projects/M017_Yggdrasil/simulation/ipython-notebooks/lib" />
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/projects/M017_Yggdrasil/mask/lib" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (~/anaconda/envs/python35/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/anaconda/envs/python35/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/python35/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/python35/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/python35/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/python35/lib/python3.5/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda/envs/python35/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/461819029" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.4.3 (sftp://ubuntu@54.161.175.139:22/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="sftp://ubuntu@54.161.175.139:22/usr/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-681656118/167346014" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-681656118/201545289" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-681656118/-792384633" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-681656118/-102312246" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-681656118/-1171821208" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-681656118" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="3669a738-64c1-4846-809c-a5ad0708b869" WEB_SERVER_CONFIG_NAME="bitfusion" HOST="54.161.175.139" PORT="22" USERNAME="ubuntu" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/.ec2/escherpad.pem" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/python3" HELPERS_PATH="/home/ubuntu/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.4.3">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-681656118/167346014" remote-root="/usr/local/lib/python3.4/dist-packages/pip-8.1.2-py3.4.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-681656118/201545289" remote-root="/usr/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-681656118/-792384633" remote-root="/usr/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-681656118/-102312246" remote-root="/usr/local/lib/python3.4/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-681656118/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.2 (sftp://ge@192.168.14.15:22/home/ge/anaconda3/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="sftp://ge@192.168.14.15:22/home/ge/anaconda3/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/-1686117795" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/-1724427320" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/1133918337" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/1374698659" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/setuptools-27.2.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/-290830991" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/-1119722001" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/-662970263" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/336890206" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/242524153" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/-290830991" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="b898b50c-599b-4f66-bc70-1829470761fb" WEB_SERVER_CONFIG_NAME="Krypton (inside lab)" HOST="192.168.14.15" PORT="22" USERNAME="ge" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/ge/anaconda3/bin/python3" HELPERS_PATH="/home/ge/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.2">
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/-290830991" />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/-1686117795" remote-root="/home/ge/anaconda3/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/-1724427320" remote-root="/home/ge/anaconda3/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/1133918337" remote-root="/home/ge/anaconda3/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/1374698659" remote-root="/home/ge/anaconda3/lib/python3.5/site-packages/Sphinx-1.4.6-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/setuptools-27.2.0-py3.5.egg" remote-root="/home/ge/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/-290830991" remote-root="/home/ge/projects/koolstra-projects" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/-1119722001" remote-root="/home/ge/projects/koolstra-projects/BEM-Helper" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/-662970263" remote-root="/home/ge/projects/koolstra-projects/Common" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/242524153/336890206" remote-root="/home/ge/projects/koolstra-projects/Trap-Analysis" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (~/anaconda/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/anaconda/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/Sphinx-1.4.1-py3.5.egg" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/aeosa" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda/lib/python3.5/site-packages/setuptools-23.0.0-py3.5.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda/lib/python3.5/site-packages/torchvision-0.1.7-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/1737140301" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/348993582" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.2 (sftp://ge@slab-krypton.uchicago.edu:22/home/ge/anaconda3/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="sftp://ge@slab-krypton.uchicago.edu:22/home/ge/anaconda3/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/240416192/-1686117795" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/240416192/-1724427320" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/240416192/1133918337" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/240416192/1374698659" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/240416192/setuptools-27.2.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/240416192" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="0d853c27-8378-46d5-ac22-c1a0956d2ff7" WEB_SERVER_CONFIG_NAME="Copy of project-level server 'Krypton (outside lab)' (1)" HOST="slab-krypton.uchicago.edu" PORT="22" USERNAME="ge" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/ge/anaconda3/bin/python3" HELPERS_PATH="/home/ge/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.2">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/240416192/-1686117795" remote-root="/home/ge/anaconda3/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/240416192/-1724427320" remote-root="/home/ge/anaconda3/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/240416192/1133918337" remote-root="/home/ge/anaconda3/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/240416192/1374698659" remote-root="/home/ge/anaconda3/lib/python3.5/site-packages/Sphinx-1.4.6-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/240416192/setuptools-27.2.0-py3.5.egg" remote-root="/home/ge/anaconda3/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.4.3 (sftp://ge@slab-fermium.uchicago.edu:22/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="sftp://ge@slab-fermium.uchicago.edu:22/usr/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-115307425/201545289" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-115307425/-792384633" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-115307425/-1171821208" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-115307425/-2041270373" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-115307425/-102312246" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-115307425" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="fe14c4e3-cab6-4d02-8fe2-38582f8be5ae" WEB_SERVER_CONFIG_NAME="Fermium (outside lab)" HOST="slab-fermium.uchicago.edu" PORT="22" USERNAME="ge" PASSWORD="dfcbdfc6dfdadfc2dfcbdfc3dfd9df9bdf85df9bdf99df9d" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/python3" HELPERS_PATH="/home/ge/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.4.3">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-115307425/201545289" remote-root="/usr/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-115307425/-792384633" remote-root="/usr/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-115307425/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-115307425/-2041270373" remote-root="/usr/local/lib/python3.4/dist-packages/pip-7.1.0-py3.4.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-115307425/-102312246" remote-root="/usr/local/lib/python3.4/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.4.3 (sftp://ge@192.168.14.20:22/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="sftp://ge@192.168.14.20:22/usr/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-112427380/201545289" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-112427380/-792384633" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-112427380/-1171821208" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-112427380/-102312246" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-112427380" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="5c549cdb-df44-4757-8ca2-dac73d004407" WEB_SERVER_CONFIG_NAME="Fermium (inside lab)" HOST="192.168.14.20" PORT="22" USERNAME="ge" PASSWORD="dfcbdfc6dfdadfc2dfcbdfc3dfd9df9bdf85df9bdf99df9d" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/python3" HELPERS_PATH="/home/ge/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.4.3">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-112427380/201545289" remote-root="/usr/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-112427380/-792384633" remote-root="/usr/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-112427380/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-112427380/-102312246" remote-root="/usr/local/lib/python3.4/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 (~/anaconda/envs/experiment_python2/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/anaconda/envs/experiment_python2/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/experiment_python2/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/experiment_python2/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/experiment_python2/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/experiment_python2/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/experiment_python2/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/experiment_python2/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/experiment_python2/lib/python2.7/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda/envs/experiment_python2/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+            <root type="simple" url="file:///Volumes/slab/_Data/170221 - M018V4/lib" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-989750657" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file:///Volumes/slab/_Data/170221 - M018V4/lib" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.0 (sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/bin/python3.6)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/106188026/-1686117794" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/106188026/-1653497150" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/106188026/-1185121921" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/106188026/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/106188026/torchvision-0.1.7-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/106188026" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="fe14c4e3-cab6-4d02-8fe2-38582f8be5ae" WEB_SERVER_CONFIG_NAME="Fermium (outside lab)" HOST="slab-fermium.uchicago.edu" PORT="22" USERNAME="ge" PASSWORD="dfcbdfc6dfdadfc2dfcbdfc3dfd9df9bdf85df9bdf99df9d" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/ge/anaconda3/bin/python3.6" HELPERS_PATH="/home/ge/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.6.0">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/106188026/-1686117794" remote-root="/home/ge/anaconda3/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/106188026/-1653497150" remote-root="/home/ge/anaconda3/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/106188026/-1185121921" remote-root="/home/ge/anaconda3/lib/python3.6/site-packages/Sphinx-1.5.1-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/106188026/setuptools-27.2.0-py3.6.egg" remote-root="/home/ge/anaconda3/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/106188026/torchvision-0.1.7-py3.6.egg" remote-root="/home/ge/anaconda3/lib/python3.6/site-packages/torchvision-0.1.7-py3.6.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="fermium deep-learning python" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1527609029/-1417675245" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1527609029/1506319799" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1527609029/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1527609029/torchvision-0.1.7-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2049660767/-1686117794" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2049660767/-1653497150" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2049660767/-1185121921" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2049660767/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2049660767/torchvision-0.1.7-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-2049660767" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="fe14c4e3-cab6-4d02-8fe2-38582f8be5ae" WEB_SERVER_CONFIG_NAME="Fermium (outside lab)" HOST="slab-fermium.uchicago.edu" PORT="22" USERNAME="ge" PASSWORD="dfcbdfc6dfdadfc2dfcbdfc3dfd9df9bdf85df9bdf99df9d" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/ge/anaconda3/bin/python" HELPERS_PATH="/home/ge/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.6.0">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1527609029/-1417675245" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1527609029/1506319799" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1527609029/setuptools-27.2.0-py3.6.egg" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1527609029/torchvision-0.1.7-py3.6.egg" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6/site-packages/torchvision-0.1.7-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2049660767/-1686117794" remote-root="/home/ge/anaconda3/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2049660767/-1653497150" remote-root="/home/ge/anaconda3/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2049660767/-1185121921" remote-root="/home/ge/anaconda3/lib/python3.6/site-packages/Sphinx-1.5.1-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2049660767/setuptools-27.2.0-py3.6.egg" remote-root="/home/ge/anaconda3/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2049660767/torchvision-0.1.7-py3.6.egg" remote-root="/home/ge/anaconda3/lib/python3.6/site-packages/torchvision-0.1.7-py3.6.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.0 (sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/envs/deep-learning/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/envs/deep-learning/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1107606528/-1417675245" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1107606528/1506319799" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1107606528/1527135403" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1107606528/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1107606528/torchvision-0.1.7-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/1107606528" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="fe14c4e3-cab6-4d02-8fe2-38582f8be5ae" WEB_SERVER_CONFIG_NAME="Fermium (outside lab)" HOST="slab-fermium.uchicago.edu" PORT="22" USERNAME="ge" PASSWORD="dfcbdfc6dfdadfc2dfcbdfc3dfd9df9bdf85df9bdf99df9d" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/ge/anaconda3/envs/deep-learning/bin/python" HELPERS_PATH="/home/ge/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.6.0">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1107606528/-1417675245" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1107606528/1506319799" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1107606528/1527135403" remote-root="/home/ge/gym" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1107606528/setuptools-27.2.0-py3.6.egg" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1107606528/torchvision-0.1.7-py3.6.egg" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6/site-packages/torchvision-0.1.7-py3.6.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.0 (sftp://ge@192.168.14.15:22/home/ge/anaconda3/envs/deep-learning/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="sftp://ge@192.168.14.15:22/home/ge/anaconda3/envs/deep-learning/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1020595335/-1417675245" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1020595335/1506319799" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1020595335/-981228901" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1020595335/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1020595335/torchvision-0.1.7-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/1020595335" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="b898b50c-599b-4f66-bc70-1829470761fb" WEB_SERVER_CONFIG_NAME="Krypton (inside lab)" HOST="192.168.14.15" PORT="22" USERNAME="ge" PASSWORD="dfcedfd8dfcfdfcbdfc7dfc8dfc3dfcddfcbdfc4dfcedfdddfc5dfd8dfc1dfc2dfcbdfd8dfce" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/ge/anaconda3/envs/deep-learning/bin/python" HELPERS_PATH="/home/ge/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.6.0">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1020595335/-1417675245" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1020595335/1506319799" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1020595335/-981228901" remote-root="/home/ge/projects/deep_learning_notes/scratch/krypton-setup/gym" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1020595335/setuptools-27.2.0-py3.6.egg" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1020595335/torchvision-0.1.7-py3.6.egg" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6/site-packages/torchvision-0.1.7-py3.6.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.0 (sftp://ge@slab-krypton.uchicago.edu:22/home/ge/anaconda3/envs/deep-learning/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="sftp://ge@slab-krypton.uchicago.edu:22/home/ge/anaconda3/envs/deep-learning/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/-1417675245" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/-981228901" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/torchvision-0.1.7-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/1169923726" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="0d853c27-8378-46d5-ac22-c1a0956d2ff7" WEB_SERVER_CONFIG_NAME="Krypton (outside lab)" HOST="slab-krypton.uchicago.edu" PORT="22" USERNAME="ge" PASSWORD="dfcedfd8dfcfdfcbdfc7dfc8dfc3dfcddfcbdfc4dfcedfdddfc5dfd8dfc1dfc2dfcbdfd8dfce" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/ge/anaconda3/envs/deep-learning/bin/python" HELPERS_PATH="/home/ge/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.6.0">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/-1417675245" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/-981228901" remote-root="/home/ge/projects/deep_learning_notes/scratch/krypton-setup/gym" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/setuptools-27.2.0-py3.6.egg" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/torchvision-0.1.7-py3.6.egg" remote-root="/home/ge/anaconda3/envs/deep-learning/lib/python3.6/site-packages/torchvision-0.1.7-py3.6.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 (~/anaconda/envs/deep-learning/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="$USER_HOME$/anaconda/envs/deep-learning/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/deep-learning/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/deep-learning/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/deep-learning/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/projects/warpdrive/warpdrive" />
+            <root type="simple" url="file://$USER_HOME$/projects/warpdrive/warpcli" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda/envs/deep-learning/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda/envs/deep-learning/lib/python3.6/site-packages/torchvision-0.1.8-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/661939412" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 (~/anaconda/envs/neuronav/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/anaconda/envs/neuronav/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/neuronav/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/neuronav/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/envs/neuronav/lib/python3.6/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda/envs/neuronav/lib/python3.6/site-packages/cycler-0.10.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/projects/dave" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/349114283" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

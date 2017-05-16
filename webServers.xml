@@ -1,0 +1,54 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b898b50c-599b-4f66-bc70-1829470761fb" name="Krypton (inside lab)" url="http://192.168.14.15">
+        <fileTransfer host="192.168.14.15" port="22" rootFolder="/home/ge" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3669a738-64c1-4846-809c-a5ad0708b869" name="bitfusion" url="http://54.158.58.218">
+        <fileTransfer host="54.158.58.218" port="22" privateKey="$USER_HOME$/.ec2/escherpad.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0d853c27-8378-46d5-ac22-c1a0956d2ff7" name="Krypton (outside lab)" url="http://slab-krypton.uchicago.edu">
+        <fileTransfer host="slab-krypton.uchicago.edu" port="22" rootFolder="/home/ge" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" maxConnections="5" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="fe14c4e3-cab6-4d02-8fe2-38582f8be5ae" name="Fermium (outside lab)" url="http://slab-fermium.uchicago.edu">
+        <fileTransfer host="slab-fermium.uchicago.edu" port="22" rootFolder="/home/ge" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" maxConnections="1" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5c549cdb-df44-4757-8ca2-dac73d004407" name="Fermium (inside lab)" url="http://192.168.14.20">
+        <fileTransfer host="192.168.14.20" port="22" rootFolder="/home/ge" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b313139f-0772-4a9e-b4ec-1a5cdcd866c9" name="EonHe (inside lab)" url="http://192.168.14.15">
+        <fileTransfer host="192.168.14.15" port="22" rootFolder="/home/eonhe" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

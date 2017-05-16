@@ -1,0 +1,134 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda/envs/deep-learning/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda/envs/experiment_python2/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/envs/neuronav/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/envs/python3/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/envs/python35/bin/python" value="false" />
+        <entry key="/usr/bin/python" value="false" />
+        <entry key="sftp://ge@192.168.14.15:22/home/ge/anaconda3/bin/python3" value="true" />
+        <entry key="sftp://ge@192.168.14.15:22/home/ge/anaconda3/bin/python3 " value="false" />
+        <entry key="sftp://ge@192.168.14.15:22/home/ge/anaconda3/envs/deep-learning/bin/python" value="false" />
+        <entry key="sftp://ge@192.168.14.20:22/usr/bin/python3" value="false" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/bin/python" value="true" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/bin/python3.6" value="true" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/envs/deep-learning/bin/python" value="false" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/envs/deep-learning/bin/python3.6" value="false" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/usr/bin/python" value="true" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/usr/bin/python3" value="false" />
+        <entry key="sftp://ge@slab-krypton.uchicago.edu:22/home/ge/anaconda3/bin/python3" value="false" />
+        <entry key="sftp://ge@slab-krypton.uchicago.edu:22/home/ge/anaconda3/envs/deep-learning/bin/python" value="false" />
+        <entry key="sftp://ge@slab-krypton.uchicago.edu:22/usr/bin/python" value="false" />
+        <entry key="sftp://ubuntu@54.159.113.223:22/usr/bin/python3" value="false" />
+        <entry key="sftp://ubuntu@54.161.175.139:22/usr/bin/python3" value="false" />
+        <entry key="sftp://ubuntu@54.161.99.48:22/usr/bin/python" value="false" />
+        <entry key="sftp://ubuntu@54.161.99.48:22/usr/bin/python3" value="false" />
+        <entry key="sftp://ubuntu@54.234.154.37:22/usr/bin/python3" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda/envs/deep-learning/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/envs/experiment_python2/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/envs/neuronav/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/envs/python3/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/envs/python35/bin/python" value="false" />
+        <entry key="/usr/bin/python" value="false" />
+        <entry key="sftp://ge@192.168.14.15:22/home/ge/anaconda3/bin/python3" value="true" />
+        <entry key="sftp://ge@192.168.14.15:22/home/ge/anaconda3/bin/python3 " value="false" />
+        <entry key="sftp://ge@192.168.14.15:22/home/ge/anaconda3/envs/deep-learning/bin/python" value="false" />
+        <entry key="sftp://ge@192.168.14.20:22/usr/bin/python3" value="true" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/bin/python" value="true" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/bin/python3.6" value="true" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/envs/deep-learning/bin/python" value="false" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/envs/deep-learning/bin/python3.6" value="false" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/usr/bin/python" value="true" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/usr/bin/python3" value="true" />
+        <entry key="sftp://ge@slab-krypton.uchicago.edu:22/home/ge/anaconda3/bin/python3" value="false" />
+        <entry key="sftp://ge@slab-krypton.uchicago.edu:22/home/ge/anaconda3/envs/deep-learning/bin/python" value="false" />
+        <entry key="sftp://ge@slab-krypton.uchicago.edu:22/usr/bin/python" value="false" />
+        <entry key="sftp://ubuntu@54.159.113.223:22/usr/bin/python3" value="true" />
+        <entry key="sftp://ubuntu@54.161.175.139:22/usr/bin/python3" value="true" />
+        <entry key="sftp://ubuntu@54.161.99.48:22/usr/bin/python" value="true" />
+        <entry key="sftp://ubuntu@54.161.99.48:22/usr/bin/python3" value="true" />
+        <entry key="sftp://ubuntu@54.234.154.37:22/usr/bin/python3" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/envs/experiment_python2/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/envs/python3/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/envs/python35/bin/python" value="false" />
+        <entry key="/usr/bin/python" value="false" />
+        <entry key="sftp://ge@192.168.14.15:22/home/ge/anaconda3/bin/python3" value="false" />
+        <entry key="sftp://ge@192.168.14.15:22/home/ge/anaconda3/bin/python3 " value="false" />
+        <entry key="sftp://ge@192.168.14.20:22/usr/bin/python3" value="false" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/bin/python" value="false" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/bin/python3.6" value="false" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/home/ge/anaconda3/envs/deep-learning/bin/python3.6" value="false" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/usr/bin/python" value="false" />
+        <entry key="sftp://ge@slab-fermium.uchicago.edu:22/usr/bin/python3" value="false" />
+        <entry key="sftp://ge@slab-krypton.uchicago.edu:22/home/ge/anaconda3/bin/python3" value="false" />
+        <entry key="sftp://ge@slab-krypton.uchicago.edu:22/usr/bin/python" value="false" />
+        <entry key="sftp://ubuntu@54.159.113.223:22/usr/bin/python3" value="false" />
+        <entry key="sftp://ubuntu@54.161.175.139:22/usr/bin/python3" value="false" />
+        <entry key="sftp://ubuntu@54.161.99.48:22/usr/bin/python" value="false" />
+        <entry key="sftp://ubuntu@54.161.99.48:22/usr/bin/python3" value="false" />
+        <entry key="sftp://ubuntu@54.234.154.37:22/usr/bin/python3" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>

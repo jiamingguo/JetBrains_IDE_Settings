@@ -1,0 +1,22 @@
+<templateSet group="ledger">
+  <template name="debug" value="ledger.debug($SELECTION$$END$)" description="ledger.debug" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="sl" value="self.ledger.debug($SELECTION$$END$)" description="self.ledger.debug" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="ledger" value="ledger.debug($SELECTION$$END$)" description="ledger.debug" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="self.ledger.debug" value="self.ledger.debug($SELECTION$$END$)" description="self.ledger.debug" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

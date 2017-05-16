@@ -1,43 +1,32 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
-  <action id="ActivateRegexTesterToolWindow">
-    <keyboard-shortcut first-keystroke="shift alt enter" />
-  </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
-    <keyboard-shortcut first-keystroke="meta 4" second-keystroke="meta 4" />
   </action>
-  <action id="ActivatenpmToolWindow">
-    <keyboard-shortcut first-keystroke="meta 2" />
-  </action>
-  <action id="CompareDirs" />
-  <action id="CompareJars" />
   <action id="CompareTwoFiles" />
-  <action id="Diff.UpdatedFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToRight" />
-  <action id="EditSourceInNewWindow">
-    <keyboard-shortcut first-keystroke="shift f4" />
-    <keyboard-shortcut first-keystroke="meta n" />
-  </action>
   <action id="EditorDuplicate" />
+  <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
-  <action id="FileChooser.NewFolder" />
-  <action id="Generate">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
+  <action id="IpnbRunCellInplaceAction" />
   <action id="LocalHistory.ShowHistory">
-    <keyboard-shortcut first-keystroke="shift meta l" />
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
-  <action id="NewElement">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
@@ -58,6 +47,14 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="ViewSource" />
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
+    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
