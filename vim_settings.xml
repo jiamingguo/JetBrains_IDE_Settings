@@ -692,11 +692,12 @@
         <mark key="." line="1" column="84" />
         <mark key="^" line="1" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" timestamp="1494960445068">
-        <mark key="[" line="104" column="32" />
-        <mark key="]" line="104" column="31" />
-        <mark key="." line="104" column="31" />
-        <mark key="^" line="104" column="31" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" timestamp="1494962731687">
+        <mark key="'" line="133" column="19" />
+        <mark key="[" line="105" column="38" />
+        <mark key="]" line="105" column="37" />
+        <mark key="." line="105" column="37" />
+        <mark key="^" line="105" column="37" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/dijkstra/dijkstra.py" timestamp="1491719897023">
         <mark key="[" line="19" column="36" />
@@ -1139,8 +1140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="326" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="328" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="330" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="332" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
@@ -1239,6 +1238,8 @@
       <jump line="27" column="34" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="125" column="10" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="479" column="52" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
+      <jump line="98" column="0" filename="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" />
+      <jump line="133" column="19" filename="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1248,7 +1249,7 @@
         <text>hidden_size</text>
       </register>
       <register name="/" type="4">
-        <text>relu</text>
+        <text>random</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmhpZGRlbl9zaXplID0gaGlkZGVuX3NpemUK</text>
@@ -1285,9 +1286,9 @@
       </register>
     </registers>
     <search>
-      <last-search>relu</last-search>
+      <last-search>random</last-search>
       <last-offset />
-      <last-pattern>relu</last-pattern>
+      <last-pattern>random</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -1295,7 +1296,6 @@
     </search>
     <history>
       <history-search>
-        <entry>git</entry>
         <entry>Encoder</entry>
         <entry>conv1d</entry>
         <entry>con</entry>
@@ -1315,6 +1315,7 @@
         <entry>landmark</entry>
         <entry>None</entry>
         <entry>relu</entry>
+        <entry>random</entry>
       </history-search>
       <history-cmd>
         <entry>set linenumber</entry>
