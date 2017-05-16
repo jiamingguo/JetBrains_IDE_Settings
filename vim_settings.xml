@@ -692,12 +692,12 @@
         <mark key="." line="1" column="84" />
         <mark key="^" line="1" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" timestamp="1494962731687">
+      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" timestamp="1494963443575">
         <mark key="'" line="133" column="19" />
-        <mark key="[" line="105" column="38" />
-        <mark key="]" line="105" column="37" />
-        <mark key="." line="105" column="37" />
-        <mark key="^" line="105" column="37" />
+        <mark key="[" line="105" column="8" />
+        <mark key="]" line="105" column="51" />
+        <mark key="." line="105" column="8" />
+        <mark key="^" line="105" column="7" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/dijkstra/dijkstra.py" timestamp="1491719897023">
         <mark key="[" line="19" column="36" />
@@ -1243,43 +1243,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hidden_size</text>
+        <text encoding="base64">IyBOT1RFOiBhY2NlcHQgYm90aCBbaypdIGFzIHdlbGwgYXMgazo8aW50Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>hidden_size</text>
+        <text encoding="base64">IyBOT1RFOiBhY2NlcHQgYm90aCBbaypdIGFzIHdlbGwgYXMgazo8aW50Pg==</text>
       </register>
       <register name="/" type="4">
         <text>random</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGRlbl9zaXplID0gaGlkZGVuX3NpemUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sYXllcnMuYXBwZW5kKFBlcmZvcmF0ZWRSTk4oaGlkZGVuX3NpemUsIGhpZGRlbl9zaXplKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlucHV0X2xhbmcgPSBpbnB1dF9sYW5nCiAgICAgICAgc2VsZi5vdXRwdXRfbGFuZyA9IG91dHB1dF9sYW5nCiAgICAgICAgc2VsZi5lbmNvZGVyID0gRW5jb2RlclJOTihpbnB1dF9sYW5nLm5fY2hhcnMsIGhpZGRlbl9zaXplLCBuX2xheWVycywgYmlkaXJlY3Rpb25hbCkKICAgICAgICBzZWxmLmRlY29kZXIgPSBEZWNvZGVyUk5OKG91dHB1dF9sYW5nLm5fY2hhcnMsIGhpZGRlbl9zaXplLCBuX2xheWVycywgYmlkaXJlY3Rpb25hbCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBudW1fbGF5ZXJzOiBOdW1iZXIgb2YgcmVjdXJyZW50IGxheWVycy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRvbmU6IHVwLXNhbXBsaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLm5fbGF5ZXJzKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5PVEU6IG5vIHN1cHBvcnQgZm9yIGBiYXRjaF9maXJzdGAgeWV0Lgo=</text>
+        <text encoding="base64">ICAgICAgICBocyA9IFtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFBlcmZvcmF0ZWQgVXAtc2FtcGxpbmc6IGFkZCB6ZXJvcyBpbi1iZXR3ZWVuIHJlYWwgb3V0cHV0cy4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFBlcmZvcmF0ZWQgVXAtc2FtcGxpbmc6IGFkZCB6ZXJvcyBpbi1iZXR3ZWVuIHJlYWwgb3V0cHV0cy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sYXllcnMuYXBwZW5kKFBlcmZvcmF0ZWRSTk4oZmVhdHVyZV9uLCApKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkZCB1cC1zYW1wbGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sYXllcnMgPSBbXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRvZG86IHNxdWVlemUgaW5wdXQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhzID0gW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLm5fbGF5ZXJzKToKICAgICAgICAgICAgc2VsZi5ocy5hcHBlbmQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
