@@ -7,6 +7,7 @@
       <removed_mapping pattern="GNUmakefile" type="Makefile" />
       <removed_mapping pattern="Makefile" type="Makefile" />
       <removed_mapping pattern="makefile" type="Makefile" />
+      <mapping pattern="categories" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="MakeFile" type="PLAIN_TEXT" />
       <mapping pattern="make" type="PLAIN_TEXT" />

@@ -309,6 +309,12 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/author_graph/categories.py" timestamp="1495056892591">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/variational_autoencoder/visdom_helper/visdom_helper.py" timestamp="1493508669354">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="7" column="25" />
@@ -636,7 +642,6 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/-1417675245/urllib/request.py" timestamp="1495048730444" />
       <file name="$USER_HOME$/projects/python-interview-prep/depth_first_search/leave_walk.py" timestamp="1487008059722">
         <mark key="[" line="19" column="7" />
         <mark key="]" line="19" column="7" />
@@ -960,10 +965,6 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/anaconda/envs/deep-learning/lib/python3.6/site-packages/torch/nn/modules/rnn.py" timestamp="1494959356865">
-        <mark key="[" line="300" column="0" />
-        <mark key="]" line="300" column="46" />
-      </file>
       <file name="$USER_HOME$/projects/python-interview-prep/depth_first_search/compare_leaves_recursive.py" timestamp="1486962364200">
         <mark key="[" line="51" column="27" />
         <mark key="]" line="51" column="27" />
@@ -1078,7 +1079,6 @@
         <mark key="." line="589" column="35" />
         <mark key="^" line="589" column="35" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/-1417675245/threading.py" timestamp="1495050083255" />
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Automatically_Adding_Punctuations/train.py" timestamp="1490906582127">
         <mark key="[" line="94" column="91" />
         <mark key="]" line="94" column="94" />
@@ -1178,6 +1178,13 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/author_graph/categories" timestamp="1495056869496">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/python-interview-prep/tree_search/basic_tree_traversal/post_order.py" timestamp="1491885243875">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -1198,8 +1205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="406" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="408" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="410" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="412" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="414" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
@@ -1298,13 +1303,15 @@
       <jump line="10" column="55" filename="$USER_HOME$/projects/author_graph/arxiv_web.py" />
       <jump line="12" column="25" filename="$USER_HOME$/projects/author_graph/arxiv_web.py" />
       <jump line="11" column="19" filename="$USER_HOME$/projects/author_graph/arxiv_web.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/author_graph/categories" />
+      <jump line="127" column="0" filename="$USER_HOME$/projects/author_graph/categories" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
