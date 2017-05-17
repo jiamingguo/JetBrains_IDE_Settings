@@ -30,7 +30,7 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1494960331179">
+      <file name="/a.dummy" timestamp="1494999252401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/eight_queens/eight_queens.py" timestamp="1491929573650">
@@ -219,6 +219,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/Direction_Generator/instruction_generator/src/utility/street_view_meta_parser.py" timestamp="1494998922483" />
       <file name="$USER_HOME$/projects/python-interview-prep/dropbox/image_sharpness.py" timestamp="1492070084264">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="15" column="0" />
@@ -254,6 +255,12 @@
         <mark key="]" line="50" column="0" />
         <mark key="^" line="20" column="2" />
         <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Direction_Generator/instruction_generator/src/Sensei.py" timestamp="1494999763011">
+        <mark key="[" line="103" column="14" />
+        <mark key="]" line="103" column="23" />
+        <mark key="." line="103" column="23" />
+        <mark key="^" line="103" column="23" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/run_jupyter.sh" timestamp="1491434449657">
         <mark key="[" line="1" column="11" />
@@ -325,6 +332,12 @@
         <mark key="]" line="10" column="17" />
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/Direction_Generator/instruction_generator/src/PathGen.py" timestamp="1494999186135">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="30" column="64" />
+        <mark key="^" line="30" column="64" />
+        <mark key="." line="30" column="64" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/tree_search/leave_walk.py" timestamp="1491882064534">
         <mark key="[" line="0" column="0" />
@@ -446,13 +459,19 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/Direction_Generator/instruction_generator/src/MapReader.py" timestamp="1494998882744">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="93" />
+        <mark key="^" line="13" column="93" />
+        <mark key="." line="13" column="93" />
+      </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Neural_Programmer_Interpreter/plan of attack.md" timestamp="1490662480784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="39" />
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494969042762">
+      <file name="/Dummy.txt" timestamp="1494998910512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/dave/README.md" timestamp="1494635389921">
@@ -791,9 +810,12 @@
         <mark key="." line="36" column="11" />
         <mark key="^" line="36" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/Direction_Generator/instruction_generator/src/generate_instructions.py" timestamp="1494967249741">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="17" column="57" />
+      <file name="$USER_HOME$/projects/Direction_Generator/instruction_generator/src/generate_instructions.py" timestamp="1494999612915">
+        <mark key="'" line="19" column="57" />
+        <mark key="[" line="26" column="60" />
+        <mark key="]" line="26" column="69" />
+        <mark key="^" line="26" column="69" />
+        <mark key="." line="26" column="69" />
       </file>
       <file name="/PythonRegExp Fragment (mini_parser.py:2037).regexp" timestamp="1492114557219">
         <mark key="[" line="0" column="0" />
@@ -1146,7 +1168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="336" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="338" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="340" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
@@ -1246,55 +1267,56 @@
       <jump line="157" column="44" filename="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" />
       <jump line="122" column="58" filename="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" />
       <jump line="173" column="21" filename="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" />
+      <jump line="19" column="57" filename="$USER_HOME$/projects/Direction_Generator/instruction_generator/src/generate_instructions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>change word seq2seq to char seq2seq</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>train</text>
+        <text>blah</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyB0b2RvOiBjaGFuZ2Ugd29yZCBzZXEyc2VxIHRvIGNoYXIgc2VxMnNlcQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBfcCA9IHNlbGYucGF0aF9nZW4uZ2VuZXJhdGVfcmFuZG9tX3BhdGgoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3AgPSBzZWxmLnBhdGhfZ2VuLmdlbmVyYXRlX3JhbmRvbV9wYXRoKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAxLiBbIF0gZ2V0IHRyYWluaW5nIGhvb2tlZCB1cAojICAgMS4gWyBdCg==</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgIyB0ZXN0cwogICAgYXNzZXJ0IFNlbnNlaS5uZXh0X2hlYWRpbmcoKDEsIDApLCAoMSwgMSkpID09IDkwLCAiZWFzdCBoZWFkaW5nIGlzIDkwIgogICAgYXNzZXJ0IFNlbnNlaS5uZXh0X2hlYWRpbmcoKDEsIDEpLCAoMSwgMCkpID09IDI3MCwgIndlc3QgaGVhZGluZyBpcyAyNzAiCiAgICBhc3NlcnQgU2Vuc2VpLm5leHRfaGVhZGluZygoMSwgMCksICgwLCAwKSkgPT0gMTgwLCAic291dGggaGVhZGluZyBpcyAxODAiCiAgICBhc3NlcnQgU2Vuc2VpLm5leHRfaGVhZGluZygoMCwgMCksICgxLCAwKSkgPT0gMCwgIm5vcnRoIGhlYWRpbmcgaXMgMCIKCj09PT09PT0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA5MCAtIC05MAogICAgICAgICg5MCAtIDI3MCkKICAgICAgICAK</text>
+        <text encoding="base64">IyAxLiBbIF0gZ2V0IHRyYWluaW5nIGhvb2tlZCB1cAojICAgMS4gWyBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>train</last-search>
+      <last-search>blah</last-search>
       <last-offset />
-      <last-pattern>train</last-pattern>
+      <last-pattern>blah</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -1302,8 +1324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>con</entry>
-        <entry>conv</entry>
         <entry>decoder</entry>
         <entry>z_mean</entry>
         <entry>init_hidden</entry>
@@ -1322,6 +1342,8 @@
         <entry>random</entry>
         <entry>eval</entry>
         <entry>train</entry>
+        <entry>map_reader</entry>
+        <entry>blah</entry>
       </history-search>
       <history-cmd>
         <entry>set linenumber</entry>
