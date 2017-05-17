@@ -492,6 +492,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/author_graph/requirements.txt" timestamp="1495055021164">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/grammar_variational_autoencoder/data.py" timestamp="1494052517723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="29" />
@@ -1294,11 +1300,11 @@
       <jump line="11" column="19" filename="$USER_HOME$/projects/author_graph/arxiv_web.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gCiMgdmlzaXRlZCA9IHt9CiMgIyBxdWV1ZSA9IFsnaHR0cHM6Ly93d3cuYXJ4aXYub3JnJ10KIyAjIHF1ZXVlID0gWydodHRwczovL2FyeGl2Lm9yZy9hYnMvMTUwNi4wMjA3OCddCiMgIyBVUkxfTUFTSyA9ICdeKGh0dHBzPzovLyh3d3dcLik/YXJ4aXYub3JnKT8oL1teL10oLiopKT8kJwojIHF1ZXVlID0gWydodHRwOi8vZXhwb3J0LmFyeGl2Lm9yZy9hcGkvcXVlcnk/c2VhcmNoX3F1ZXJ5PWFsbDplbGVjdHJvbitBTkQrYWxsOnByb3RvbiddCiMgVVJMX01BU0sgPSAnXihodHRwcz86Ly9leHBvcnQuYXJ4aXYub3JnKT8oL1teL10oLiopKT8kJwojCiMgZ2xvYmFsX2xvY2sgPSB0aHJlYWRpbmcuTG9jaygpCiMgdGhyZWFkcyA9IFtdCiMgZm9yIGkgaW4gcmFuZ2UoMSk6CiMgICAgIHNwaWRlciA9IFNpbXBsZUNyYXdsZXIoZ2xvYmFsX2xvY2ssICdUaHJlYWQte30nLmZvcm1hdChpICsgMSksIHZpc2l0ZWQsIHF1ZXVlLAojICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVybF9tYXNrPVVSTF9NQVNLLAojICAgICAgICAgICAgICAgICAgICAgICAgICAgIGR1bXBfcGF0aD0nLi4vZHVtcCcsCiMgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXhfcGF0aD0nLi4vaW5kZXgueW1sJywKIyAgICAgICAgICAgICAgICAgICAgICAgICAgICBxdWVyeV9kZWxheT0xLjAKIyAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiMgICAgIHNwaWRlci5zdGFydCgpCiMgICAgIHRpbWUuc2xlZXAoNSkK</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
