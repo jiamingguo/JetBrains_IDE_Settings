@@ -941,6 +941,13 @@
         <mark key="." line="53" column="42" />
         <mark key="^" line="53" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/author_graph/karpathy.mq" timestamp="1495058780977">
+        <mark key="'" line="0" column="28" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/python-interview-prep/line_wrap/line_wrap" timestamp="1487098512255">
         <mark key="[" line="36" column="24" />
         <mark key="]" line="36" column="27" />
@@ -1205,7 +1212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="410" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="412" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="414" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="416" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
@@ -1305,13 +1311,14 @@
       <jump line="11" column="19" filename="$USER_HOME$/projects/author_graph/arxiv_web.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/author_graph/categories" />
       <jump line="127" column="0" filename="$USER_HOME$/projects/author_graph/categories" />
+      <jump line="0" column="28" filename="$USER_HOME$/projects/author_graph/karpathy.mq" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text encoding="base64">IHtuYW1lOiAiVmljdG9yeSBLcm9tZXIifQ==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">IHtuYW1lOiAiVmljdG9yeSBLcm9tZXIifQ==</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
