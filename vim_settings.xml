@@ -93,6 +93,13 @@
         <mark key="^" line="24" column="58" />
         <mark key="." line="24" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/author_graph/web_crawler/web_crawler.py" timestamp="1495047280775">
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="42" />
+        <mark key="^" line="20" column="42" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-318083199/-102312246/tensorflow/python/ops/gen_nn_ops.py" timestamp="1474004351604">
         <mark key="[" line="1222" column="15" />
       </file>
@@ -219,7 +226,6 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/Direction_Generator/instruction_generator/src/utility/street_view_meta_parser.py" timestamp="1494998922483" />
       <file name="$USER_HOME$/projects/python-interview-prep/dropbox/image_sharpness.py" timestamp="1492070084264">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="15" column="0" />
@@ -1168,7 +1174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="338" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="340" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="342" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
@@ -1268,43 +1273,44 @@
       <jump line="122" column="58" filename="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" />
       <jump line="173" column="21" filename="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" />
       <jump line="19" column="57" filename="$USER_HOME$/projects/Direction_Generator/instruction_generator/src/generate_instructions.py" />
+      <jump line="13" column="23" filename="$USER_HOME$/projects/author_graph/web_crawler/web_crawler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>None</text>
+        <text>self.get_path(self.url_mask, url)</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>self.get_path(self.url_mask, url)</text>
       </register>
       <register name="/" type="4">
-        <text>blah</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KCdcbicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbnNlaS5yZXNldF9oZWFkaW5nKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKionKQo=</text>
+        <text encoding="base64">ICAgIHNlbnNlaS5yZXNldF9oZWFkaW5nKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCc9PT09PT09PT09PT09PT0nKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKionKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbnNlaSA9IFNlbnNlaShwYXRoX2dlbiwgbWFwX3JlYWRlciwgZGVidWc9ZGVidWcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCc9PT09PT09PT09PT09PT0nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcGF0aCA9ICIuLi9tZXRhZGF0YS9sZXZlbDJfYWxsLnR4dCIK</text>
+        <text encoding="base64">ICAgIHNlbnNlaSA9IFNlbnNlaShwYXRoX2dlbiwgbWFwX3JlYWRlciwgZGVidWc9ZGVidWcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnVnID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgIGZpbGVfcGF0aCA9ICIuLi9tZXRhZGF0YS9sZXZlbDJfYWxsLnR4dCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcF9yZWFkZXIgPSBNYXBSZWFkZXIoZmlsZV9wYXRoLCBkZWJ1Zz1GYWxzZSkKICAgIHBhdGhfZ2VuID0gUGF0aEdlbihkZWJ1Zz1kZWJ1ZykK</text>
+        <text encoding="base64">ICAgIGRlYnVnID0gVHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNldF9oZWFkaW5nKCkK</text>
+        <text encoding="base64">ICAgIG1hcF9yZWFkZXIgPSBNYXBSZWFkZXIoZmlsZV9wYXRoLCBkZWJ1Zz1GYWxzZSkKICAgIHBhdGhfZ2VuID0gUGF0aEdlbihkZWJ1Zz1kZWJ1ZykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNldF9oZWFkaW5nKCkK</text>
@@ -1314,9 +1320,9 @@
       </register>
     </registers>
     <search>
-      <last-search>blah</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>blah</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -1324,7 +1330,6 @@
     </search>
     <history>
       <history-search>
-        <entry>decoder</entry>
         <entry>z_mean</entry>
         <entry>init_hidden</entry>
         <entry>hidden</entry>
@@ -1344,6 +1349,7 @@
         <entry>train</entry>
         <entry>map_reader</entry>
         <entry>blah</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>set linenumber</entry>
