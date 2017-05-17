@@ -255,11 +255,10 @@
         <mark key="^" line="20" column="2" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/Direction_Generator/instruction_generator/src/Sensei.py" timestamp="1494978546201">
-        <mark key="[" line="92" column="31" />
-        <mark key="]" line="92" column="36" />
-        <mark key="^" line="92" column="36" />
-        <mark key="." line="92" column="36" />
+      <file name="$USER_HOME$/projects/Direction_Generator/instruction_generator/src/Sensei.py" timestamp="1494980139720">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/run_jupyter.sh" timestamp="1491434449657">
         <mark key="[" line="1" column="11" />
@@ -452,7 +451,6 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/instructionGenerator/src/Sensei.py" timestamp="1494966262743" />
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Neural_Programmer_Interpreter/plan of attack.md" timestamp="1490662480784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="39" />
@@ -751,7 +749,6 @@
       <file name="/fragment.py" timestamp="1494084447868">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/seq2seq.py" timestamp="1494964345093" />
       <file name="$USER_HOME$/projects/python-interview-prep/longest_consecutive_-subsequence/longest_non_consequetive_subsequence.py" timestamp="1491809914962">
         <mark key="[" line="5" column="56" />
         <mark key="]" line="5" column="56" />
@@ -1099,7 +1096,6 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/anaconda/envs/neuronav/lib/python3.6/site-packages/geog/geog.py" timestamp="1494969956207" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1491436785086">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="107" />
@@ -1252,11 +1248,11 @@
       <jump line="173" column="21" filename="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>train</text>
@@ -1265,28 +1261,28 @@
         <text encoding="base64">ICAgIHRlc3QodGVzdF9wYXRoXzBfbG9uZ19maXJzdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgIyB0ZXN0cwogICAgYXNzZXJ0IFNlbnNlaS5uZXh0X2hlYWRpbmcoKDEsIDApLCAoMSwgMSkpID09IDkwLCAiZWFzdCBoZWFkaW5nIGlzIDkwIgogICAgYXNzZXJ0IFNlbnNlaS5uZXh0X2hlYWRpbmcoKDEsIDEpLCAoMSwgMCkpID09IDI3MCwgIndlc3QgaGVhZGluZyBpcyAyNzAiCiAgICBhc3NlcnQgU2Vuc2VpLm5leHRfaGVhZGluZygoMSwgMCksICgwLCAwKSkgPT0gMTgwLCAic291dGggaGVhZGluZyBpcyAxODAiCiAgICBhc3NlcnQgU2Vuc2VpLm5leHRfaGVhZGluZygoMCwgMCksICgxLCAwKSkgPT0gMCwgIm5vcnRoIGhlYWRpbmcgaXMgMCIKCj09PT09PT0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICA5MCAtIC05MAogICAgICAgICg5MCAtIDI3MCkKICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVGVzdCBuZXh0IG1ldGhvZC4KICAgIGZyb20gTWFwUmVhZGVyIGltcG9ydCBNYXBSZWFkZXIKICAgIGZyb20gUGF0aEdlbiBpbXBvcnQgUGF0aEdlbgoKICAgIHRlc3RfcGF0aF9sb25nX2ZpcnN0ID0gWwogICAgICAgIFstODcuNjI5MzE0OSwgNDEuODc4MTcxNV0sCiAgICAgICAgWy04Ny42MjkzNTYxLCA0MS44Nzk0MzM5XSwKICAgICAgICBbLTg3LjYzMDc3NjQsIDQxLjg3OTQxMzRdLAogICAgICAgIFstODcuNjMyMjYxNiwgNDEuODc5Mzk5XSwKICAgICAgICBbLTg3LjYzMzc1NzMsIDQxLjg3OTM4MzhdLAogICAgICAgIFstODcuNjMzNzI4MiwgNDEuODc4MTE1NF0sCiAgICAgICAgWy04Ny42MzM2OTMzLCA0MS44NzY4MzkyXSwgWy04Ny42MzM2NTg1LCA0MS44NzU2NzUyXQogICAgXQoKICAgIGxvbmdzLCBsYXRzID0gemlwKCp0ZXN0X3BhdGhfbG9uZ19maXJzdCkKICAgIHRlc3RfcGF0aCA9IGxpc3QoemlwKGxhdHMsIGxvbmdzKSkgKyBbTm9uZV0KICAgIGZpbGVfcGF0aCA9ICIuLi9tZXRhZGF0YS9sZXZlbDJfYWxsLnR4dCIKICAgIGRlYnVnID0gVHJ1ZQogICAgbWFwX3JlYWRlciA9IE1hcFJlYWRlcihmaWxlX3BhdGgsIGRlYnVnPUZhbHNlKQogICAgcGF0aF9nZW4gPSBQYXRoR2VuKGRlYnVnPWRlYnVnKQogICAgc2Vuc2VpID0gU2Vuc2VpKHBhdGhfZ2VuLCBtYXBfcmVhZGVyLCBkZWJ1Zz1kZWJ1ZykKICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXN0X3BhdGgpIC0gMSk6CiAgICAgICAgaW5zdHIgPSBzZW5zZWkubmV4dCh0ZXN0X3BhdGhbaV0sIHRlc3RfcGF0aFtpICsgMV0pCiAgICAgICAgcHJpbnQoaW5zdHIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgRW5kLXRvLUVuZCB0ZXN0cwogICAgZnJvbSBNYXBSZWFkZXIgaW1wb3J0IE1hcFJlYWRlcgogICAgZnJvbSBQYXRoR2VuIGltcG9ydCBQYXRoR2VuCgogICAgZmlsZV9wYXRoID0gIi4uL21ldGFkYXRhL2xldmVsMl9hbGwudHh0IgogICAgbWFwX3JlYWRlciA9IE1hcFJlYWRlcihmaWxlX3BhdGgpCiAgICBwYXRoX2dlbiA9IFBhdGhHZW4oKQogICAgc2Vuc2VpID0gU2Vuc2VpKHBhdGhfZ2VuLCBtYXBfcmVhZGVyKQogICAgIyBub3RlOiB0byBnZW5lcmF0ZQogICAgZm9yIGkgaW4gcmFuZ2UoMTAwKToKICAgICAgICBvbmVfaW5zdHJ1Y3Rpb24gPSBsaXN0KHNlbnNlaS5ibGFoKCkpCiAgICAgICAgcHJpbnQob25lX2luc3RydWN0aW9uKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
