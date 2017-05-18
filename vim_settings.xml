@@ -375,8 +375,8 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/author_graph/arxiv_api/arxiv_api.py" timestamp="1495062130461">
-        <mark key="'" line="91" column="33" />
+      <file name="$USER_HOME$/projects/author_graph/arxiv_api/arxiv_api.py" timestamp="1495068789588">
+        <mark key="'" line="26" column="60" />
         <mark key="[" line="39" column="8" />
         <mark key="]" line="39" column="8" />
         <mark key="." line="39" column="8" />
@@ -1224,8 +1224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="414" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="416" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="420" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="422" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="424" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
@@ -1324,6 +1322,8 @@
       <jump line="127" column="0" filename="$USER_HOME$/projects/author_graph/categories" />
       <jump line="0" column="28" filename="$USER_HOME$/projects/author_graph/karpathy.mq" />
       <jump line="69" column="33" filename="$USER_HOME$/projects/author_graph/arxiv_api/arxiv_api.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/author_graph/arxiv_api/arxiv_api.py" />
+      <jump line="26" column="60" filename="$USER_HOME$/projects/author_graph/arxiv_api/arxiv_api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1333,7 +1333,7 @@
         <text>ARXIV_</text>
       </register>
       <register name="/" type="4">
-        <text>all</text>
+        <text>hist-ph</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VVJMX01BU0sgPSAnXihodHRwcz86Ly8od3d3XC4pP2FyeGl2Lm9yZyk/KC9bXi9dKC4qKSk/JCcK</text>
@@ -1370,9 +1370,9 @@
       </register>
     </registers>
     <search>
-      <last-search>all</last-search>
+      <last-search>hist-ph</last-search>
       <last-offset />
-      <last-pattern>all</last-pattern>
+      <last-pattern>hist-ph</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -1380,8 +1380,6 @@
     </search>
     <history>
       <history-search>
-        <entry>train</entry>
-        <entry>map_reader</entry>
         <entry>blah</entry>
         <entry>dump</entry>
         <entry>get_dump_path</entry>
@@ -1400,6 +1398,8 @@
         <entry>time.sleep</entry>
         <entry>export</entry>
         <entry>all</entry>
+        <entry>hep-th</entry>
+        <entry>hist-ph</entry>
       </history-search>
       <history-cmd>
         <entry>set linenumber</entry>
