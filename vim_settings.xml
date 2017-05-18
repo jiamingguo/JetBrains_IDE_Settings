@@ -375,12 +375,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/author_graph/arxiv_api/arxiv_api.py" timestamp="1495148429437">
+      <file name="$USER_HOME$/projects/author_graph/arxiv_api/arxiv_api.py" timestamp="1495149361256">
         <mark key="'" line="26" column="60" />
-        <mark key="[" line="35" column="47" />
-        <mark key="]" line="36" column="30" />
-        <mark key="." line="36" column="30" />
-        <mark key="^" line="36" column="30" />
+        <mark key="[" line="50" column="77" />
+        <mark key="]" line="51" column="21" />
+        <mark key="." line="51" column="21" />
+        <mark key="^" line="51" column="21" />
       </file>
       <file name="$USER_HOME$/projects/M018_Yggdrasil/mask/M018V6_L1_process_files/test.py" timestamp="1490991193547">
         <mark key="[" line="0" column="32" />
@@ -1326,11 +1326,11 @@
       <jump line="26" column="60" filename="$USER_HOME$/projects/author_graph/arxiv_api/arxiv_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBUT0RPOiBEbyBJIHdhbnQgdG8gYWRkIHN1cHBvcnQgZm9yIHF1b3RlcyB0byBncm91cCB3b3Jkcy9vcmRlciBvZiBvcHM/Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgcXVvdGVfcGx1cyhzKSArICcmc3RhcnQ9JyArIHN0cihzdGFydCkgKyAnJm1heF9yZXN1bHRzPScgKyBzdHIo</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>hist-ph</text>
