@@ -109,11 +109,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/author_graph/.gitignore" timestamp="1495064829520">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="17" />
+      <file name="$USER_HOME$/projects/author_graph/.gitignore" timestamp="1495234399964">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="5" column="17" />
-        <mark key="." line="5" column="17" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/dave/setup.py" timestamp="1494631841555">
         <mark key="[" line="14" column="42" />
@@ -1313,8 +1313,8 @@
       <jump line="26" column="60" filename="$USER_HOME$/projects/author_graph/arxiv_api/arxiv_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly5pcHluYl9jaGVja3BvaW50cy8K</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -1326,31 +1326,31 @@
         <text encoding="base64">ICAgIGlmIHN0YXJ0IGlzIG5vdCBOb25lOgogICAgICAgIHF1ZXJ5X2xpc3QuYXBwZW5kKCJzdGFydD17fSIuZm9ybWF0KHN0YXJ0KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBUT0RPOiBEbyBJIHdhbnQgdG8gYWRkIHN1cHBvcnQgZm9yIHF1b3RlcyB0byBncm91cCB3b3Jkcy9vcmRlciBvZiBvcHM/Cg==</text>
+        <text encoding="base64">Ly5pcHluYl9jaGVja3BvaW50cy8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4X3Jlc3VsdHMpKQo=</text>
+        <text encoding="base64">IyBUT0RPOiBEbyBJIHdhbnQgdG8gYWRkIHN1cHBvcnQgZm9yIHF1b3RlcyB0byBncm91cCB3b3Jkcy9vcmRlciBvZiBvcHM/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4X3Jlc3VsdHMpKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIF0pCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">InN0YXJ0PXt9Ii5mb3JtYXQoc3RhcnQpKQogICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgcXVlcnlfbGlzdC5hcHBlbmQoInN0YXJ0PXt9Ii5mb3JtYXQoc3RhcnQpKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KHF1b3RlX3Jlc3VsdCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHF1b3RlX3Jlc3VsdCA9IHF1b3RlX3BsdXMocykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">YXJ4aXYK</text>
+        <text encoding="base64">ICAgIHF1b3RlX3Jlc3VsdCA9IHF1b3RlX3BsdXMocykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
