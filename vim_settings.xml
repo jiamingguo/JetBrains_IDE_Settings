@@ -190,11 +190,10 @@
         <mark key="^" line="44" column="18" />
         <mark key="." line="45" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/python-interview-prep/dropbox/id_generate_release.py" timestamp="1492108810699">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="10" />
-        <mark key="." line="25" column="10" />
-        <mark key="^" line="25" column="10" />
+      <file name="$USER_HOME$/projects/python-interview-prep/dropbox/id_generate_release.py" timestamp="1495416192229">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/grammar_variational_autoencoder/.gitignore" timestamp="1493996680196">
         <mark key="[" line="1" column="12" />
@@ -1314,7 +1313,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly5pcHluYl9jaGVja3BvaW50cy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -1326,31 +1325,31 @@
         <text encoding="base64">ICAgIGlmIHN0YXJ0IGlzIG5vdCBOb25lOgogICAgICAgIHF1ZXJ5X2xpc3QuYXBwZW5kKCJzdGFydD17fSIuZm9ybWF0KHN0YXJ0KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly5pcHluYl9jaGVja3BvaW50cy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUT0RPOiBEbyBJIHdhbnQgdG8gYWRkIHN1cHBvcnQgZm9yIHF1b3RlcyB0byBncm91cCB3b3Jkcy9vcmRlciBvZiBvcHM/Cg==</text>
+        <text encoding="base64">Ly5pcHluYl9jaGVja3BvaW50cy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4X3Jlc3VsdHMpKQo=</text>
+        <text encoding="base64">IyBUT0RPOiBEbyBJIHdhbnQgdG8gYWRkIHN1cHBvcnQgZm9yIHF1b3RlcyB0byBncm91cCB3b3Jkcy9vcmRlciBvZiBvcHM/Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4X3Jlc3VsdHMpKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIF0pCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">InN0YXJ0PXt9Ii5mb3JtYXQoc3RhcnQpKQogICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgcXVlcnlfbGlzdC5hcHBlbmQoInN0YXJ0PXt9Ii5mb3JtYXQoc3RhcnQpKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHF1b3RlX3Jlc3VsdCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHF1b3RlX3Jlc3VsdCA9IHF1b3RlX3BsdXMocykK</text>
+        <text encoding="base64">ICAgIHByaW50KHF1b3RlX3Jlc3VsdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
