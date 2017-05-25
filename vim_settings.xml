@@ -926,6 +926,12 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" timestamp="1495730047224">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="150" column="18" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/python-interview-prep/longest_consecutive_-subsequence/lcs.py" timestamp="1491806457133">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="1" column="0" />
@@ -1355,11 +1361,11 @@
       <jump line="1502" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PGE+PC9hPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIHByaW50KHNlbGYud29yZF9pbmRleF9wYWlycykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGE+PC9hPg==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>hist-ph</text>
@@ -1368,31 +1374,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEZsZXhJdGVtIGZsdWlkLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZnJhbWUK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KHNlbGYud29yZF9pbmRleF9wYWlycykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGbGV4SXRlbSBmbHVpZCBjbGFzc05hbWU9ImhlYWRlciIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmxlZGdlci5kZWJ1ZyhvdXRwdXRfZW1iZWRlZC5zaXplKCksIHRhcmdldF93aXRob3V0X1NPUy5zaXplKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ym9keSA+IGRpdiB7Cgp9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyB0YXJnZXRfdmVjLnQoKVsxOl0udCgpLnZpZXcoLTEpKQoKICAgICAgICAgICAgIyBmb3Igb3V0cHV0X3NvZnRtYXgsIHQgaW4gemlwKG91dHB1dF9zb2Z0bWF4ZXMsIHRhcmdldF9wYWRkZWQpOgogICAgICAgICAgICAjICAgICBsb3NzICs9IGNyaXRlcmlvbihvdXRwdXRfc29mdG1heCwgdCkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZnJhbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9odG1sPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGbGV4SXRlbSBmbHVpZCBjbGFzc05hbWU9ImhlYWRlciIvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8L2JvZHk+Cg==</text>
+        <text encoding="base64">Ym9keSA+IGRpdiB7Cgp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8Ym9keSBzdHlsZT0ibGVmdDogMDsgcmlnaHQ6IDA7IHRvcDogMDsgYm90dG9tOiAwOyBwb3NpdGlvbjogYWJzb2x1dGUiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8L2hlYWQ+Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
