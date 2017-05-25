@@ -219,6 +219,13 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1495731389296">
+        <mark key="'" line="158" column="44" />
+        <mark key="[" line="77" column="8" />
+        <mark key="]" line="77" column="71" />
+        <mark key="." line="77" column="71" />
+        <mark key="^" line="77" column="71" />
+      </file>
       <file name="$USER_HOME$/projects/python-interview-prep/two_sigma/power_of_4.py" timestamp="1492398427801">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="80" />
@@ -926,7 +933,8 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" timestamp="1495730047224">
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" timestamp="1495730914706">
+        <mark key="'" line="93" column="28" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="^" line="150" column="18" />
@@ -1259,9 +1267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="470" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="472" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="474" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="476" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="480" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="482" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
@@ -1359,55 +1364,58 @@
       <jump line="1161" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/README.md" />
       <jump line="1212" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/README.md" />
       <jump line="1502" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/README.md" />
+      <jump line="129" column="23" filename="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" />
+      <jump line="157" column="44" filename="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" />
+      <jump line="93" column="28" filename="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KHNlbGYud29yZF9pbmRleF9wYWlycykK</text>
+        <text encoding="base64">ICAgICAgICB0b2RvOiB1c2UgdGVtcGVyYXR1cmUgdG8gY29ycmVjdGx5IG91dHB1dCBhIGRyYXcgZnJvbSB0aGUgZGlzdHJpYnV0aW9uCg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>hist-ph</text>
+        <text>evaluate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEZsZXhJdGVtIGZsdWlkLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KHNlbGYud29yZF9pbmRleF9wYWlycykK</text>
+        <text encoding="base64">ICAgICAgICB0b2RvOiB1c2UgdGVtcGVyYXR1cmUgdG8gY29ycmVjdGx5IG91dHB1dCBhIGRyYXcgZnJvbSB0aGUgZGlzdHJpYnV0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmxlZGdlci5kZWJ1ZyhvdXRwdXRfZW1iZWRlZC5zaXplKCksIHRhcmdldF93aXRob3V0X1NPUy5zaXplKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KHNlbGYud29yZF9pbmRleF9wYWlycykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmxlZGdlci5kZWJ1ZyhvdXRwdXRfZW1iZWRlZC5zaXplKCksIHRhcmdldF93aXRob3V0X1NPUy5zaXplKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0YXJnZXRfdmVjLnQoKVsxOl0udCgpLnZpZXcoLTEpKQoKICAgICAgICAgICAgIyBmb3Igb3V0cHV0X3NvZnRtYXgsIHQgaW4gemlwKG91dHB1dF9zb2Z0bWF4ZXMsIHRhcmdldF9wYWRkZWQpOgogICAgICAgICAgICAjICAgICBsb3NzICs9IGNyaXRlcmlvbihvdXRwdXRfc29mdG1heCwgdCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZnJhbWUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGbGV4SXRlbSBmbHVpZCBjbGFzc05hbWU9ImhlYWRlciIvPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ym9keSA+IGRpdiB7Cgp9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyB0YXJnZXRfdmVjLnQoKVsxOl0udCgpLnZpZXcoLTEpKQoKICAgICAgICAgICAgIyBmb3Igb3V0cHV0X3NvZnRtYXgsIHQgaW4gemlwKG91dHB1dF9zb2Z0bWF4ZXMsIHRhcmdldF9wYWRkZWQpOgogICAgICAgICAgICAjICAgICBsb3NzICs9IGNyaXRlcmlvbihvdXRwdXRfc29mdG1heCwgdCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZnJhbWUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGbGV4SXRlbSBmbHVpZCBjbGFzc05hbWU9ImhlYWRlciIvPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ym9keSA+IGRpdiB7Cgp9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hist-ph</last-search>
+      <last-search>evaluate</last-search>
       <last-offset />
-      <last-pattern>hist-ph</last-pattern>
+      <last-pattern>evaluate</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -1415,7 +1423,6 @@
     </search>
     <history>
       <history-search>
-        <entry>blah</entry>
         <entry>dump</entry>
         <entry>get_dump_path</entry>
         <entry>lock</entry>
@@ -1435,6 +1442,7 @@
         <entry>all</entry>
         <entry>hep-th</entry>
         <entry>hist-ph</entry>
+        <entry>evaluate</entry>
       </history-search>
       <history-cmd>
         <entry>set linenumber</entry>
