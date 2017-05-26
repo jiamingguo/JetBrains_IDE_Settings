@@ -93,6 +93,12 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="35" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/InstructionItem.js" timestamp="1495838484955">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Neural_Programmer_Interpreter/env_setup.md" timestamp="1488919399788">
         <mark key="[" line="20" column="3" />
         <mark key="]" line="24" column="58" />
@@ -552,6 +558,12 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/data_stub.js" timestamp="1495837369931">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/attention-networks/model_eval.spec.py" timestamp="1491632486176">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="4" />
@@ -648,11 +660,11 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/App.js" timestamp="1495696210836">
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="14" column="38" />
-        <mark key="." line="14" column="38" />
-        <mark key="^" line="14" column="38" />
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/App.js" timestamp="1495838369952">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="23" column="24" />
       </file>
       <file name="/Volumes/slab-2/_Data/170221 - M018V4/experiment/setup_instruments.py" timestamp="1487724550521">
         <mark key="[" line="3" column="0" />
@@ -876,6 +888,12 @@
         <mark key="." line="36" column="11" />
         <mark key="^" line="36" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/InstructionPanel.js" timestamp="1495838456245">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="20" />
+        <mark key="^" line="21" column="72" />
+        <mark key="." line="22" column="20" />
+      </file>
       <file name="/PythonRegExp Fragment (mini_parser.py:2037).regexp" timestamp="1492114557219">
         <mark key="[" line="0" column="0" />
       </file>
@@ -946,7 +964,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/Direction_Generator/instruction_generator/README.md" timestamp="1494782440033">
+      <file name="$USER_HOME$/projects/Direction_Generator/instruction_generator/README.md" timestamp="1495837184485">
         <mark key="[" line="20" column="5" />
         <mark key="]" line="20" column="3" />
         <mark key="." line="20" column="3" />
@@ -1381,41 +1399,41 @@
       <jump line="93" column="28" filename="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihFbmNvZGVyUk5OLCBzZWxmKS5fX2luaXRfXygpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW5kZXggKyAnLiAnICsg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aW5kZXggKyAnLiAnICsg</text>
       </register>
       <register name="/" type="4">
-        <text>evaluate</text>
+        <text>prop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihFbmNvZGVyUk5OLCBzZWxmKS5fX2luaXRfXygpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0cnVjdGlvbnM6IFByb3BUeXBlcy5hbnksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvRmxleEl0ZW0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RydWN0aW9ucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAxLiBbIF0gZ2V0IHRyYWluaW5nIGhvb2tlZCB1cAojICAgMS4gWyBdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RvOiB1c2UgdGVtcGVyYXR1cmUgdG8gY29ycmVjdGx5IG91dHB1dCBhIGRyYXcgZnJvbSB0aGUgZGlzdHJpYnV0aW9uCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gSW5zdHJ1Y3Rpb24oe2NoaWxkcmVuID0gbnVsbH0pIHsKICAgIHJldHVybiAoPGRpdiBjbGFzc05hbWU9Imluc3RydWN0aW9uLWl0ZW0iPntjaGlsZHJlbn08L2Rpdj4pCn0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KHNlbGYud29yZF9pbmRleF9wYWlycykK</text>
+        <text encoding="base64">aW1wb3J0IEluc3RydWN0aW9uSXRlbSBmcm9tICIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmxlZGdlci5kZWJ1ZyhvdXRwdXRfZW1iZWRlZC5zaXplKCksIHRhcmdldF93aXRob3V0X1NPUy5zaXplKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RydWN0aW9uSXRlbT17fQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1425,9 +1443,9 @@
       </register>
     </registers>
     <search>
-      <last-search>evaluate</last-search>
+      <last-search>prop</last-search>
       <last-offset />
-      <last-pattern>evaluate</last-pattern>
+      <last-pattern>prop</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -1435,7 +1453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dump</entry>
         <entry>get_dump_path</entry>
         <entry>lock</entry>
         <entry>engadget</entry>
@@ -1455,6 +1472,7 @@
         <entry>hep-th</entry>
         <entry>hist-ph</entry>
         <entry>evaluate</entry>
+        <entry>prop</entry>
       </history-search>
       <history-cmd>
         <entry>set linenumber</entry>
