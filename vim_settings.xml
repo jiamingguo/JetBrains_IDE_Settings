@@ -660,11 +660,11 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/App.js" timestamp="1495838369952">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="24" />
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/App.js" timestamp="1495838576342">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="22" column="24" />
       </file>
       <file name="/Volumes/slab-2/_Data/170221 - M018V4/experiment/setup_instruments.py" timestamp="1487724550521">
         <mark key="[" line="3" column="0" />
@@ -1399,8 +1399,8 @@
       <jump line="93" column="28" filename="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW5kZXggKyAnLiAnICsg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gc3R5bGU9e3t9fQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW5kZXggKyAnLiAnICsg</text>
@@ -1412,31 +1412,31 @@
         <text encoding="base64">ICAgICAgICBpbnN0cnVjdGlvbnM6IFByb3BUeXBlcy5hbnksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvRmxleEl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gc3R5bGU9e3t9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RydWN0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvRmxleEl0ZW0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RydWN0aW9ucwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gSW5zdHJ1Y3Rpb24oe2NoaWxkcmVuID0gbnVsbH0pIHsKICAgIHJldHVybiAoPGRpdiBjbGFzc05hbWU9Imluc3RydWN0aW9uLWl0ZW0iPntjaGlsZHJlbn08L2Rpdj4pCn0KCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEluc3RydWN0aW9uSXRlbSBmcm9tICIiCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gSW5zdHJ1Y3Rpb24oe2NoaWxkcmVuID0gbnVsbH0pIHsKICAgIHJldHVybiAoPGRpdiBjbGFzc05hbWU9Imluc3RydWN0aW9uLWl0ZW0iPntjaGlsZHJlbn08L2Rpdj4pCn0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RydWN0aW9uSXRlbT17fQo=</text>
+        <text encoding="base64">aW1wb3J0IEluc3RydWN0aW9uSXRlbSBmcm9tICIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RydWN0aW9uSXRlbT17fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
