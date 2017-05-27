@@ -75,11 +75,11 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/AgentLegend.js" timestamp="1495857873762">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="5" column="51" />
-        <mark key="." line="5" column="51" />
-        <mark key="^" line="5" column="51" />
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/AgentLegend.js" timestamp="1495858950632">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
       </file>
       <file name="$USER_HOME$/projects/warpdrive/warpcli/Makefile" timestamp="1494033165840">
         <mark key="[" line="6" column="4" />
@@ -214,11 +214,6 @@
         <mark key="^" line="44" column="18" />
         <mark key="." line="45" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/python-interview-prep/dropbox/id_generate_release.py" timestamp="1495416192229">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/grammar_variational_autoencoder/.gitignore" timestamp="1493996680196">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="3" column="0" />
@@ -328,11 +323,6 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/tacotron_pytorch/modules/cbhg.py" timestamp="1494956181156">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Centroid_Loss_LeNet/README.md" timestamp="1486459001022">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="17" />
@@ -344,6 +334,12 @@
         <mark key="]" line="4" column="8" />
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/Direction_Generator/.gitignore" timestamp="1495859048552">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="1" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/author_graph/categories.py" timestamp="1495056892591">
         <mark key="[" line="0" column="0" />
@@ -546,11 +542,6 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/author_graph/requirements.txt" timestamp="1495070867478">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/grammar_variational_autoencoder/data.py" timestamp="1494052517723">
         <mark key="[" line="0" column="0" />
@@ -806,11 +797,6 @@
         <mark key="^" line="60" column="25" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/Direction_Generator/demo/.eslintrc" timestamp="1495692788826">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/author_graph/web_crawler/api_crawler.py" timestamp="1495052794385">
         <mark key="[" line="107" column="16" />
         <mark key="]" line="107" column="16" />
@@ -852,11 +838,6 @@
       </file>
       <file name="/fragment.py" timestamp="1494084447868">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/seq2seq.py" timestamp="1494994834012">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/longest_consecutive_-subsequence/longest_non_consequetive_subsequence.py" timestamp="1491809914962">
         <mark key="[" line="5" column="56" />
@@ -918,12 +899,12 @@
       <file name="$USER_HOME$/projects/Direction_Generator/demo/src/index.js" timestamp="1495695560507">
         <mark key="[" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" timestamp="1495857728079">
-        <mark key="'" line="37" column="5" />
-        <mark key="[" line="29" column="30" />
-        <mark key="]" line="29" column="32" />
-        <mark key="." line="29" column="32" />
-        <mark key="^" line="29" column="32" />
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" timestamp="1495858847506">
+        <mark key="'" line="38" column="5" />
+        <mark key="[" line="30" column="52" />
+        <mark key="]" line="30" column="52" />
+        <mark key="." line="30" column="52" />
+        <mark key="^" line="30" column="52" />
       </file>
       <file name="/Volumes/slab/_Data/170221 - M018V4/README.md" timestamp="1487706135172">
         <mark key="[" line="0" column="0" />
@@ -1273,11 +1254,6 @@
         <mark key="." line="0" column="101" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/Direction_Generator/demo/README.md" timestamp="1495693331020">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/dave/dave_cli/dave.py" timestamp="1494633044529">
         <mark key="[" line="35" column="23" />
         <mark key="]" line="35" column="23" />
@@ -1425,17 +1401,17 @@
       <jump line="35" column="5" filename="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICJwcm9wLXR5cGVzIjsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWFpblZpZXcg</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>lng</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uOiB7bGF0OiA0MS44NzgxLCBsbmc6IC04Ny42Mjk4fSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB3aWR0aD17MjB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICJwcm9wLXR5cGVzIjsK</text>
