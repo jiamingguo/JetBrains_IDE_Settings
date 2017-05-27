@@ -660,11 +660,11 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/App.js" timestamp="1495838576342">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="22" column="24" />
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/App.js" timestamp="1495852451583">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="56" />
+        <mark key="." line="18" column="56" />
+        <mark key="^" line="18" column="56" />
       </file>
       <file name="/Volumes/slab-2/_Data/170221 - M018V4/experiment/setup_instruments.py" timestamp="1487724550521">
         <mark key="[" line="3" column="0" />
@@ -829,7 +829,7 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1495053396239">
+      <file name="/Python Console" timestamp="1495852255650">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Automatically_Adding_Punctuations/Plan of attack_TODO.md" timestamp="1490907219232">
@@ -905,6 +905,12 @@
       </file>
       <file name="$USER_HOME$/projects/Direction_Generator/demo/src/index.js" timestamp="1495695560507">
         <mark key="[" line="6" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" timestamp="1495852694928">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
       </file>
       <file name="/Volumes/slab/_Data/170221 - M018V4/README.md" timestamp="1487706135172">
         <mark key="[" line="0" column="0" />
@@ -1400,43 +1406,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>height=&quot;60px&quot;</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>height=&quot;60px&quot;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>prop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0cnVjdGlvbnM6IFByb3BUeXBlcy5hbnksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8RmxleEl0ZW0gZmx1aWQgY29tcG9uZW50PXtHb29nbGVNYXB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRDZW50ZXI9e3tsYXQ6IDU5Ljk1LCBsbmc6IDMwLjMzfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFpvb209ezExfT4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj5zb21lIGNvbXBvbmVudDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvRmxleEl0ZW0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjaHQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiB7Li4uX3Byb3BzfT4KICAgICAgICAgICAgICAgIDxjaHQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>navbar: this is where
+                    your menu items go.</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2PnNvbWUgY29tcG9uZW50PC9kaXY+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj5zb21lIGNvbXBvbmVudDwvZGl2Pgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRab29tPXsxMX0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gc3R5bGU9e3t9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdENlbnRlcj17e2xhdDogNTkuOTUsIGxuZzogMzAuMzN9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvRmxleEl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGbGV4SXRlbSBmbHVpZCBjbGFzc05hbWU9ImhlYWRlciI+CiAgICAgICAgICAgICAgICA8L0ZsZXhJdGVtPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RydWN0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8RmxleEl0ZW0gZmx1aWQgY29tcG9uZW50PXtHb29nbGVNYXB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRDZW50ZXI9e3tsYXQ6IDU5Ljk1LCBsbmc6IDMwLjMzfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFpvb209ezExfT4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj5zb21lIGNvbXBvbmVudDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvRmxleEl0ZW0+CiAgICAgICAgICAgICAgICAgICAgPEZsZXhJdGVtIGZpeGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoPSI0MDBweCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtJbnN0cnVjdGlvblBhbmVsfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnN0cnVjdGlvbnM9e0lOU1RSVUNUSU9OU30KICAgICAgICAgICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHtJTlNUUlVDVElPTlN9IGZyb20gIi4vZGF0YV9zdHViIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
