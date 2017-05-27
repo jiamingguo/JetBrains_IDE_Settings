@@ -75,6 +75,12 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/AgentLegend.js" timestamp="1495857873762">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="51" />
+        <mark key="." line="5" column="51" />
+        <mark key="^" line="5" column="51" />
+      </file>
       <file name="$USER_HOME$/projects/warpdrive/warpcli/Makefile" timestamp="1494033165840">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="4" />
@@ -351,6 +357,12 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/model/index.js" timestamp="1495857632850">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="43" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/M018_Yggdrasil/mask/M018V6_L1_process_files/M018 Yggdrasil V6.py" timestamp="1491010780941">
         <mark key="[" line="268" column="38" />
         <mark key="]" line="268" column="38" />
@@ -520,7 +532,7 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495670533148">
+      <file name="/Dummy.txt" timestamp="1495855656425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/dave/README.md" timestamp="1494635389921">
@@ -660,11 +672,11 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/App.js" timestamp="1495852451583">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="56" />
-        <mark key="." line="18" column="56" />
-        <mark key="^" line="18" column="56" />
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/App.js" timestamp="1495855975378">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="/Volumes/slab-2/_Data/170221 - M018V4/experiment/setup_instruments.py" timestamp="1487724550521">
         <mark key="[" line="3" column="0" />
@@ -906,11 +918,12 @@
       <file name="$USER_HOME$/projects/Direction_Generator/demo/src/index.js" timestamp="1495695560507">
         <mark key="[" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" timestamp="1495852694928">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" timestamp="1495857728079">
+        <mark key="'" line="37" column="5" />
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="29" column="32" />
       </file>
       <file name="/Volumes/slab/_Data/170221 - M018V4/README.md" timestamp="1487706135172">
         <mark key="[" line="0" column="0" />
@@ -1081,6 +1094,13 @@
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
         <mark key="^" line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/Direction_Generator/demo/src/lib/Selector.js" timestamp="1495855871811">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="22" column="8" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/PythonRegExp Fragment (fun_parser.py:252).regexp" timestamp="1492112163936">
         <mark key="[" line="0" column="0" />
@@ -1303,18 +1323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="476" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="480" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="482" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="484" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="486" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="488" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="490" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="492" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="494" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="496" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="498" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="500" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="502" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="504" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="506" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
@@ -1403,56 +1411,67 @@
       <jump line="129" column="23" filename="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" />
       <jump line="157" column="44" filename="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" />
       <jump line="93" column="28" filename="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/projects/Direction_Generator/demo/src/lib/Selector.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/src/lib/Selector.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/src/lib/Selector.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/src/lib/Selector.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/src/lib/Selector.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/src/lib/Selector.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/src/lib/Selector.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/src/lib/Selector.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/src/lib/Selector.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/src/lib/Selector.js" />
+      <jump line="8" column="15" filename="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" />
+      <jump line="35" column="5" filename="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICJwcm9wLXR5cGVzIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">TWFpblZpZXcg</text>
       </register>
       <register name="/" type="4">
-        <text>prop</text>
+        <text>lng</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8RmxleEl0ZW0gZmx1aWQgY29tcG9uZW50PXtHb29nbGVNYXB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRDZW50ZXI9e3tsYXQ6IDU5Ljk1LCBsbmc6IDMwLjMzfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFpvb209ezExfT4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj5zb21lIGNvbXBvbmVudDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvRmxleEl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uOiB7bGF0OiA0MS44NzgxLCBsbmc6IC04Ny42Mjk4fSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICJwcm9wLXR5cGVzIjsK</text>
       </register>
-      <register name="2" type="4">
-        <text>navbar: this is where
-                    your menu items go.</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHtGbGV4LCBGbGV4SXRlbX0gZnJvbSAibGF5b3V0LWNvbXBvbmVudHMiOwoKaW1wb3J0IEdvb2dsZU1hcCBmcm9tICJnb29nbGUtbWFwLXJlYWN0IjsKaW1wb3J0IHtzdG9yZSR9IGZyb20gIi4vbW9kZWwiOwppbXBvcnQgU2VsZWN0b3IgZnJvbSAiLi9saWIvU2VsZWN0b3IiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2PnNvbWUgY29tcG9uZW50PC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj5zb21lIGNvbXBvbmVudDwvZGl2Pgo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICJwcm9wLXR5cGVzIjsKaW1wb3J0IHtGbGV4LCBGbGV4SXRlbX0gZnJvbSAibGF5b3V0LWNvbXBvbmVudHMiOwoKaW1wb3J0IEdvb2dsZU1hcCBmcm9tICJnb29nbGUtbWFwLXJlYWN0IjsKaW1wb3J0IHtzdG9yZSR9IGZyb20gIi4vbW9kZWwiOwppbXBvcnQgU2VsZWN0b3IgZnJvbSAiLi9saWIvU2VsZWN0b3IiOwoK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRab29tPXsxMX0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgU2VsZWN0b3IoKHN0YXRlKSA9PiAoewp9KSwgTWFpblZpZXcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdENlbnRlcj17e2xhdDogNTkuOTUsIGxuZzogMzAuMzN9fQo=</text>
+        <text encoding="base64">ICAgIGxhdDogc3RhdGUubG9jYXRpb24ubGF0LAogICAgbG5nOiBzdGF0ZS5sb2NhdGlvbi5sbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGbGV4SXRlbSBmbHVpZCBjbGFzc05hbWU9ImhlYWRlciI+CiAgICAgICAgICAgICAgICA8L0ZsZXhJdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEZsZXggY29sdW1uIHN0eWxlPXtzdHlsZX0gey4uLl9wcm9wc30+CiAgICAgICAgICAgICAgICA8RmxleEl0ZW0gZml4ZWQKICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImhlYWRlciIKICAgICAgICAgICAgICAgICAgICAgICAgICBoZWlnaHQ9IjUwcHgiCiAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3tiYWNrZ3JvdW5kQ29sb3I6ICJncmF5In19CiAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PSJpbnB1dCIKICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICB7Lyo8ZGl2PmxhdDoge2xhdH0sIGxvbmc6IHtsbmd9PC9kaXY+Ki99CiAgICAgICAgICAgICAgICA8RmxleEl0ZW0gZmx1aWQgY29tcG9uZW50PXtHb29nbGVNYXB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdENlbnRlcj17e2xhdCwgbG5nfX0KICAgICAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0Wm9vbT17MTF9PgogICAgICAgICAgICAgICAgICAgIDxkaXYgbGF0PXtsYXR9IGxuZz17bG5nfT5IRVJFPC9kaXY+CiAgICAgICAgICAgICAgICA8L0ZsZXhJdGVtPgogICAgICAgICAgICA8L0ZsZXg+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8RmxleEl0ZW0gZmx1aWQgY29tcG9uZW50PXtHb29nbGVNYXB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRDZW50ZXI9e3tsYXQ6IDU5Ljk1LCBsbmc6IDMwLjMzfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFpvb209ezExfT4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj5zb21lIGNvbXBvbmVudDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvRmxleEl0ZW0+CiAgICAgICAgICAgICAgICAgICAgPEZsZXhJdGVtIGZpeGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoPSI0MDBweCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtJbnN0cnVjdGlvblBhbmVsfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnN0cnVjdGlvbnM9e0lOU1RSVUNUSU9OU30KICAgICAgICAgICAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7bGF0LCBsbmcsIHN0eWxlLCAuLi5fcHJvcHN9ID0gdGhpcy5wcm9wczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtJTlNUUlVDVElPTlN9IGZyb20gIi4vZGF0YV9zdHViIjsK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBwcm9wVHlwZXMgPSB7CiAgICAgICAgbG5nOiBQcm9wVHlwZXMubnVtYmVyLmlzUmVxdXJlZCwKICAgICAgICBsYXQ6IFByb3BUeXBlcy5udW1iZXIuaXNSZXF1aXJlZAogICAgfTsKCiAgICBzdGF0aWMgZGVmYXVsdFByb3BzID0ge307Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>prop</last-search>
+      <last-search>lng</last-search>
       <last-offset />
-      <last-pattern>prop</last-pattern>
+      <last-pattern>lng</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -1460,8 +1479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_dump_path</entry>
-        <entry>lock</entry>
         <entry>engadget</entry>
         <entry>request</entry>
         <entry>url</entry>
@@ -1480,6 +1497,8 @@
         <entry>hist-ph</entry>
         <entry>evaluate</entry>
         <entry>prop</entry>
+        <entry>MainView</entry>
+        <entry>lng</entry>
       </history-search>
       <history-cmd>
         <entry>set linenumber</entry>
