@@ -1,0 +1,37 @@
+<templateSet group="Python">
+  <template name="&quot;" value="&quot;$SELECTION$&quot;" description="Double Quote surrounding" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="'" value="'$SELECTION$'" description="Single Quote surrounding" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="(" value="($SELECTION$)" description="Parenthesis surrounding" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="{" value="[{$SELECTION$}" description="Curlly Bracket surrounding" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="&quot;f" value="&quot;$SELECTION$$END$&quot;.format()" description="Double Quote surrounding with format call" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="'f" value="&quot;$SELECTION$$END$&quot;.format()" description="Single Quote surrounding with format call" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="[" value="[$SELECTION$]" description="Square Bracket" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

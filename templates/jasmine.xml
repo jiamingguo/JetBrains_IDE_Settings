@@ -1,26 +1,26 @@
 <templateSet group="jasmine">
-  <template name="describe(" value="describe(&quot;$moduleName$&quot;, function(){&#10;});" toReformat="true" toShortenFQNames="true">
+  <template name="describe(" value="describe(&quot;$moduleName$&quot;, function(){&#10;});" description="" toReformat="true" toShortenFQNames="true">
     <variable name="moduleName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="TypeScript" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="CoffeeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="it(" value="it(&quot;$testString$&quot;, function(done){&#10;});" toReformat="false" toShortenFQNames="true">
+  <template name="it(" value="it(&quot;$testString$&quot;, function(done){&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="testString" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="TypeScript" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="CoffeeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="expect(" value="expect($input$);" toReformat="false" toShortenFQNames="true">
+  <template name="expect(" value="expect($input$);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="input" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="TypeScript" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="CoffeeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
