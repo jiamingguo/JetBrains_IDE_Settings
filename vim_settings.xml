@@ -226,12 +226,12 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" timestamp="1496093566409">
-        <mark key="'" line="88" column="8" />
-        <mark key="[" line="57" column="46" />
-        <mark key="]" line="57" column="49" />
-        <mark key="." line="57" column="49" />
-        <mark key="^" line="57" column="49" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" timestamp="1496096077525">
+        <mark key="'" line="98" column="8" />
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="26" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1495733401777">
         <mark key="'" line="155" column="44" />
@@ -535,7 +535,7 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496092668296">
+      <file name="/Dummy.txt" timestamp="1496094408316">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/dave/README.md" timestamp="1494635389921">
@@ -999,9 +999,9 @@
         <mark key="." line="32" column="66" />
         <mark key="^" line="32" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/model.py" timestamp="1495731997782">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/model.py" timestamp="1496096193821">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="51" />
         <mark key="." line="76" column="0" />
         <mark key="^" line="75" column="100" />
       </file>
@@ -1415,44 +1415,44 @@
       <jump line="88" column="8" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>hidden_n_1=400, hidden_n_2=20</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvYWQgPSBsb2FkCg==</text>
+      <register name="0" type="4">
+        <text>hidden_n_1=400, hidden_n_2=20</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG9zcy5kYXRhLm51bXB5KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5lcG9jaF9udW1iZXIgKz0gMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubGVkZ2VyLmRlYnVnKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBlcG9jaF9udW1iZXIgaXMgTm9uZToKICAgICAgICAgICAgc2VsZi5lcG9jaF9udW1iZXIgKz0gMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuZXBvY2hfbnVtYmVyID0gZXBvY2hfbnVtYmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvYWRfY2hlY2twb2ludCA9IGNoZWNrcG9pbnRfcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBlcG9jaF9udW1iZXIgaXMgTm9uZToKICAgICAgICAgICAgc2VsZi5lcG9jaF9udW1iZXIgKz0gMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuZXBvY2hfbnVtYmVyID0gZXBvY2hfbnVtYmVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbG9zc19kYXRhWzBdID4gNTAwOgogICAgICAgICAgICAgICAgIyBzYXZlIGRhdGEgaWYgdGhlIGZpcnN0IGVudHJ5IG9mIGxvc3NfZGF0YSBpcwogICAgICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9zcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
