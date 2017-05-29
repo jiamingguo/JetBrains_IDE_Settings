@@ -965,6 +965,12 @@
         <mark key="^" line="150" column="18" />
         <mark key="." line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/.gitignore" timestamp="1496099074291">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/python-interview-prep/longest_consecutive_-subsequence/lcs.py" timestamp="1491806457133">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="1" column="0" />
@@ -986,7 +992,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/word_seq_2_seq/train.py" timestamp="1496091572985" />
       <file name="$USER_HOME$/projects/M018_Yggdrasil/mask/M018V3_L1_process_files/TODOs.md" timestamp="1486429933947">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="0" column="4" />
@@ -999,11 +1004,11 @@
         <mark key="." line="32" column="66" />
         <mark key="^" line="32" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/model.py" timestamp="1496096193821">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="51" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="75" column="100" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/model.py" timestamp="1496099249667">
+        <mark key="[" line="61" column="40" />
+        <mark key="]" line="61" column="40" />
+        <mark key="." line="61" column="40" />
+        <mark key="^" line="61" column="40" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/dropbox/game_of_life/game_of_life_Omn_solution.py" timestamp="1492404280607">
         <mark key="[" line="71" column="43" />
@@ -1416,10 +1421,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hidden_n_1=400, hidden_n_2=20</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
