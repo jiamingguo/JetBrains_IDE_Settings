@@ -226,6 +226,13 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" timestamp="1496089360394">
+        <mark key="'" line="6" column="18" />
+        <mark key="[" line="60" column="50" />
+        <mark key="]" line="61" column="3" />
+        <mark key="." line="61" column="3" />
+        <mark key="^" line="61" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1495733401777">
         <mark key="'" line="155" column="44" />
         <mark key="[" line="9" column="0" />
@@ -1305,7 +1312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="502" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="504" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="506" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="510" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
@@ -1405,16 +1411,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/src/lib/Selector.js" />
       <jump line="8" column="15" filename="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" />
       <jump line="35" column="5" filename="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" />
+      <jump line="6" column="18" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>Grammar</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Grammar</text>
       </register>
       <register name="/" type="4">
-        <text>lng</text>
+        <text>Grammar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKjxGbGV4SXRlbSBmbHVpZCBjb21wb25lbnQ9e0dvb2dsZU1hcH0qL30KICAgICAgICAgICAgICAgIHsvKmRlZmF1bHRDZW50ZXI9e3tsYXQsIGxuZ319Ki99CiAgICAgICAgICAgICAgICB7LypkZWZhdWx0Wm9vbT17MTF9PiovfQogICAgICAgICAgICAgICAgey8qPEFnZW50TGVnZW5kIGxhdD17bGF0fSBsbmc9e2xuZ30vPiovfQogICAgICAgICAgICAgICAgey8qPC9GbGV4SXRlbT4qL30K</text>
@@ -1451,9 +1458,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lng</last-search>
+      <last-search>Grammar</last-search>
       <last-offset />
-      <last-pattern>lng</last-pattern>
+      <last-pattern>Grammar</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -1461,7 +1468,6 @@
     </search>
     <history>
       <history-search>
-        <entry>engadget</entry>
         <entry>request</entry>
         <entry>url</entry>
         <entry>append</entry>
@@ -1481,6 +1487,7 @@
         <entry>prop</entry>
         <entry>MainView</entry>
         <entry>lng</entry>
+        <entry>Grammar</entry>
       </history-search>
       <history-cmd>
         <entry>set linenumber</entry>
