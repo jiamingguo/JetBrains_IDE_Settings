@@ -384,6 +384,12 @@
         <mark key="^" line="41" column="12" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/.floydexpt" timestamp="1496108043534">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/warpdrive/warp_drive/tests/test_dataset.py" timestamp="1494028948808">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="1" column="9" />
@@ -1261,6 +1267,11 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/.floydignore" timestamp="1496107994871">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/Direction_Generator/demo/public/index.html" timestamp="1495696017170">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="40" />
@@ -1433,10 +1444,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>D</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -1445,31 +1456,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGU9dGltZS5zdHJmdGltZSgiJXklbSVkIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoYXJncy5sYXRlbnRfbikK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoYXJncy5sYXRlbnRfbikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoYXJncykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLS1kYXRhc2V0JywgJy1kJywgdHlwZT1zdHIsIGRlZmF1bHQ9J21uaXN0JywgaGVscD0nZGF0YXNldCwgY2hvb3NlIGZyb20gW21uaXN0LCAuLi5dJykK</text>
+        <text encoding="base64">cHJpbnQoYXJncykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB2YWVfbW5pc3QgaW1wb3J0IFNlc3Npb24K</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLS1kYXRhc2V0JywgJy1kJywgdHlwZT1zdHIsIGRlZmF1bHQ9J21uaXN0JywgaGVscD0nZGF0YXNldCwgY2hvb3NlIGZyb20gW21uaXN0LCAuLi5dJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZAo=</text>
+        <text encoding="base64">ZnJvbSB2YWVfbW5pc3QgaW1wb3J0IFNlc3Npb24K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CnRyYWluX2xvYWRlciA9</text>
+      <register name="9" type="2">
+        <text encoding="base64">cGFyc2VyLmFkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
