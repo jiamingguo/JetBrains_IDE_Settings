@@ -30,7 +30,7 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1495731870590">
+      <file name="/a.dummy" timestamp="1496101757109">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/eight_queens/eight_queens.py" timestamp="1491929573650">
@@ -226,12 +226,12 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" timestamp="1496096077525">
-        <mark key="'" line="98" column="8" />
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="24" column="26" />
-        <mark key="^" line="24" column="26" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" timestamp="1496105039022">
+        <mark key="'" line="115" column="8" />
+        <mark key="[" line="71" column="73" />
+        <mark key="]" line="71" column="73" />
+        <mark key="." line="71" column="73" />
+        <mark key="^" line="71" column="73" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1495733401777">
         <mark key="'" line="155" column="44" />
@@ -239,6 +239,12 @@
         <mark key="]" line="9" column="41" />
         <mark key="^" line="77" column="71" />
         <mark key="." line="77" column="71" />
+      </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/train.py" timestamp="1496101734383">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="77" />
+        <mark key="^" line="3" column="77" />
+        <mark key="." line="3" column="77" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/two_sigma/power_of_4.py" timestamp="1492398427801">
         <mark key="[" line="39" column="0" />
@@ -535,7 +541,7 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496099848857">
+      <file name="/Dummy.txt" timestamp="1496101797874">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/dave/README.md" timestamp="1494635389921">
@@ -639,6 +645,12 @@
         <mark key="]" line="26" column="15" />
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/main.py" timestamp="1496105095049">
+        <mark key="[" line="13" column="103" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/dykstra/dykstra.py" timestamp="1491698625395">
         <mark key="[" line="8" column="33" />
@@ -834,7 +846,7 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1495852255650">
+      <file name="/Python Console" timestamp="1496105065205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Automatically_Adding_Punctuations/Plan of attack_TODO.md" timestamp="1490907219232">
@@ -1421,43 +1433,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>D</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>hidden_n_1=400, hidden_n_2=20</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGU9dGltZS5zdHJmdGltZSgiJXklbSVkIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5lcG9jaF9udW1iZXIgKz0gMQo=</text>
+        <text encoding="base64">cHJpbnQoYXJncy5sYXRlbnRfbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlcG9jaF9udW1iZXIgaXMgTm9uZToKICAgICAgICAgICAgc2VsZi5lcG9jaF9udW1iZXIgKz0gMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuZXBvY2hfbnVtYmVyID0gZXBvY2hfbnVtYmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlcG9jaF9udW1iZXIgaXMgTm9uZToKICAgICAgICAgICAgc2VsZi5lcG9jaF9udW1iZXIgKz0gMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuZXBvY2hfbnVtYmVyID0gZXBvY2hfbnVtYmVyCg==</text>
+        <text encoding="base64">cHJpbnQoYXJncykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLS1kYXRhc2V0JywgJy1kJywgdHlwZT1zdHIsIGRlZmF1bHQ9J21uaXN0JywgaGVscD0nZGF0YXNldCwgY2hvb3NlIGZyb20gW21uaXN0LCAuLi5dJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZnJvbSB2YWVfbW5pc3QgaW1wb3J0IFNlc3Npb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbG9zc19kYXRhWzBdID4gNTAwOgogICAgICAgICAgICAgICAgIyBzYXZlIGRhdGEgaWYgdGhlIGZpcnN0IGVudHJ5IG9mIGxvc3NfZGF0YSBpcwogICAgICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">cGFyc2VyLmFkZAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9zcwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CnRyYWluX2xvYWRlciA9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
