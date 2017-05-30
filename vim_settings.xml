@@ -239,11 +239,12 @@
         <mark key="^" line="59" column="72" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496165755946">
-        <mark key="'" line="184" column="44" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="56" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496166171223">
+        <mark key="'" line="190" column="44" />
+        <mark key="[" line="102" column="6" />
+        <mark key="]" line="102" column="5" />
+        <mark key="." line="102" column="5" />
+        <mark key="^" line="102" column="5" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/train.py" timestamp="1496114927885">
         <mark key="[" line="10" column="51" />
@@ -1486,10 +1487,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gc2VsZi5hdHRuKGVuY29kZXJfb3V0cHV0LCBjb25kaXRpb25fdmVjKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>idden</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>lng</text>
@@ -1498,31 +1499,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbmRpdGlvbl9zaXplID0gY29uZGl0aW9uX3NpemUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gc2VsZi5hdHRuKGVuY29kZXJfb3V0cHV0LCBjb25kaXRpb25fdmVjKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gc2VsZi5hdHRuKGVuY29kZXJfb3V0cHV0LCBjb25kaXRpb25fdmVjKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbmRpdGlvbiBzaXplID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25kaXRpb25fdmVjID0gdG9yY2guY2F0KFtkZWNvZGVyX2gsIGNdLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgICBjID0gc2VsZi5hdHRuKGVuY29kZXJfb3V0cHV0LCBjb25kaXRpb25fdmVjKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZGl0aW9uX3ZlYyA9IHRvcmNoLmNhdChbZGVjb2Rlcl9oLCBjXSwgMSkK</text>
+        <text encoding="base64">ICAgICAgICBjID0gc2VsZi5hdHRuKGVuY29kZXJfb3V0cHV0LCBjb25kaXRpb25fdmVjKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZGl0aW9uX3ZlYyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb25fdmVjID0gdG9yY2guY2F0KFtkZWNvZGVyX2gsIGNdLCAxKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZGl0aW9uX3ZlYyA9IHRvcmNoLmNhdChbZGVjb2Rlcl9oLCBjXSwgMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZGl0aW9uX3ZlYyA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRfZW1iZWRkZWQsIGRlY29kZXJfaCA9IHNlbGYuZGVjb2RlcihjLCBkZWNvZGVyX2gpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
