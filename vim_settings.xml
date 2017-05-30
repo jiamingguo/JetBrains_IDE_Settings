@@ -30,7 +30,7 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1496101757109">
+      <file name="/a.dummy" timestamp="1496110634460">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/eight_queens/eight_queens.py" timestamp="1491929573650">
@@ -196,6 +196,11 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/README.md" timestamp="1496110583647">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/warpdrive/warpcli/warpcli/core.py" timestamp="1494003893866">
         <mark key="[" line="38" column="47" />
         <mark key="]" line="38" column="46" />
@@ -226,12 +231,12 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" timestamp="1496105039022">
-        <mark key="'" line="115" column="8" />
-        <mark key="[" line="71" column="73" />
-        <mark key="]" line="71" column="73" />
-        <mark key="." line="71" column="73" />
-        <mark key="^" line="71" column="73" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" timestamp="1496112746510">
+        <mark key="'" line="54" column="26" />
+        <mark key="[" line="59" column="48" />
+        <mark key="]" line="59" column="48" />
+        <mark key="^" line="59" column="72" />
+        <mark key="." line="59" column="48" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1495733401777">
         <mark key="'" line="155" column="44" />
@@ -511,6 +516,10 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799/visdom/__init__.py" timestamp="1496108686546">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="186" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/python-interview-prep/two_sigma/README.md" timestamp="1492396993445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -522,6 +531,12 @@
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/generate.py" timestamp="1496112160877">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/deep_summarization/Makefile" timestamp="1494106926279">
         <mark key="[" line="16" column="81" />
@@ -652,11 +667,11 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/main.py" timestamp="1496105095049">
-        <mark key="[" line="13" column="103" />
-        <mark key="]" line="14" column="19" />
-        <mark key="^" line="14" column="19" />
-        <mark key="." line="14" column="19" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/main.py" timestamp="1496110090863">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="49" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="13" column="49" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/dykstra/dykstra.py" timestamp="1491698625395">
         <mark key="[" line="8" column="33" />
@@ -1010,6 +1025,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/visdom_helper/visdom_helper.py" timestamp="1496109903556">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="4" column="46" />
+        <mark key="^" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+      </file>
       <file name="$USER_HOME$/projects/M018_Yggdrasil/mask/M018V3_L1_process_files/TODOs.md" timestamp="1486429933947">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="0" column="4" />
@@ -1341,13 +1362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="512" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="514" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="516" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="518" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="520" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="522" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="524" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="526" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="528" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="530" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
@@ -1438,58 +1452,67 @@
       <jump line="8" column="15" filename="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" />
       <jump line="35" column="5" filename="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" />
       <jump line="6" column="18" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
       <jump line="61" column="16" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
       <jump line="88" column="8" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
+      <jump line="92" column="16" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
+      <jump line="104" column="12" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
+      <jump line="126" column="8" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
+      <jump line="60" column="16" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
+      <jump line="105" column="16" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
+      <jump line="35" column="31" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
+      <jump line="54" column="26" filename="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/vae_mnist.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">IHt9</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">IHt9</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>dashboard</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGU9dGltZS5zdHJmdGltZSgiJXklbSVkIiksCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGRhc2hib2FyZF9zZXJ2ZXIgaXMgbm90IEZhbHNlOiAjIHdoZW4gRmFsc2UgZG8gbm90IGNyZWF0ZSBkYXNoYm9hcmQgaW5zdGFuY2UuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLUwnLCAnLS1sb2FkJywgdHlwZT1ib29sLCBkZWZhdWx0PUZhbHNlLCBoZWxwPSdsb2FkIG1vZGVsIGF0IHRoZSBiZWdpbm5pbmcnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0X2xvc3MgLz0gbGVuKHRlc3RfbG9hZGVyLmRhdGFzZXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoYXJncy5sYXRlbnRfbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoYXJncykK</text>
+        <text encoding="base64">ICAgIHJvdywgY29sID0gMTAsIDEwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLS1kYXRhc2V0JywgJy1kJywgdHlwZT1zdHIsIGRlZmF1bHQ9J21uaXN0JywgaGVscD0nZGF0YXNldCwgY2hvb3NlIGZyb20gW21uaXN0LCAuLi5dJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB2YWVfbW5pc3QgaW1wb3J0IFNlc3Npb24K</text>
+        <text encoding="base64">ICAgIHggPSBWYXJpYWJsZSh0b3JjaC5yYW5kbihhcmdzLnJvdyAqIGFyZ3MuY29sLCA3ODQpKQogICAgeiA9IHZhZS5kZWNvZGVyKHgpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZAo=</text>
+      <register name="9" type="4">
+        <text>prefix=self.prefix,
+                                                date=time.strftime(&quot;%Y%m%d&quot;),
+                                                time=time.strftime(&quot;%H%M%S&quot;)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>dashboard</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>dashboard</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -1497,9 +1520,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
-        <entry>url</entry>
-        <entry>append</entry>
         <entry>open</entry>
         <entry>if url[0</entry>
         <entry>query_delay</entry>
@@ -1517,6 +1537,9 @@
         <entry>lng</entry>
         <entry>Grammar</entry>
         <entry>print</entry>
+        <entry>batch loss</entry>
+        <entry>prefix</entry>
+        <entry>dashboard</entry>
       </history-search>
       <history-cmd>
         <entry>set linenumber</entry>
