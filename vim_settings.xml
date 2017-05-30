@@ -196,11 +196,11 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/README.md" timestamp="1496116500232">
-        <mark key="[" line="257" column="111" />
-        <mark key="]" line="258" column="0" />
-        <mark key="." line="258" column="0" />
-        <mark key="^" line="258" column="0" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/README.md" timestamp="1496120936181">
+        <mark key="[" line="189" column="11" />
+        <mark key="]" line="189" column="11" />
+        <mark key="." line="189" column="11" />
+        <mark key="^" line="189" column="11" />
       </file>
       <file name="$USER_HOME$/projects/warpdrive/warpcli/warpcli/core.py" timestamp="1494003893866">
         <mark key="[" line="38" column="47" />
@@ -826,11 +826,11 @@
         <mark key="." line="191" column="0" />
         <mark key="^" line="191" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/README.md" timestamp="1491802265017">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="84" />
-        <mark key="." line="1" column="84" />
-        <mark key="^" line="1" column="84" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/README.md" timestamp="1496121689504">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="39" />
+        <mark key="^" line="12" column="39" />
+        <mark key="." line="12" column="39" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/pytorch_playground/char2wav_pytorch/modules/sampleRNN.py" timestamp="1494993565995">
         <mark key="'" line="175" column="21" />
@@ -1484,43 +1484,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>multinomial</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>multinomial</text>
       </register>
       <register name="/" type="4">
         <text>dashboard</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IVtsYXRlbnQtMTBdKC4vZmlndXJlcy9WQUUtMjAxNzA1MjktMTAucG5nKQo=</text>
+        <text encoding="base64">LSBbIF0gQ29tcGFyZSByZXN1bHRzIHdpdGggYXR0ZW50aW9uIG1vZGVsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXV0b2VuY29kZXI/IEEgcHl0aG9uIGRlbW8/Cg==</text>
+        <text encoding="base64">LSBbIF0gQWRkIGNvbmZ1c2lvbiBtYXRyaXgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBbeF0gY2xvc2VyIGxvb2sgYXQgdGhlIHBhcGVyCg==</text>
+        <text encoding="base64">LSBbIF0gQWRkIGNvbmZ1c2lvbiBtYXRyaXgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBbeF0gdGhpbmsgb2YgYSBkZW1vOiBob3cgZG8geW91IHZpc3VhbGl6ZSB0aGUgb3V0cHV0IG9mIGEgdmFyaWF0aW9uYWwgCg==</text>
+        <text encoding="base64">LSBbIF0gQWRkIGNvbmZ1c2lvbiBtYXRyaXgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SWYgd2UgdmFyeSB0aGUgZGltZW5zaW9uYWxpdHkgb2YgdGhlIGxhdGVudCBlbWJlZGRpbmc6Cg==</text>
+        <text encoding="base64">LSBbIF0gQWRkIHVuemlwIHNjcmlwdCBmb3IgbGFuZ3VhZ2VzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBbIF0gcG9saXNoIHJlcG8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IVtsYXRlbnQtMTBdKC4vZmlndXJlcy9WQUUtMjAxNzA1MjktMTAucG5nKQo=</text>
+        <text encoding="base64">LSBbIF0gQ29tcGFyZSByZXN1bHRzIHdpdGggYXR0ZW50aW9uIG1vZGVsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBbeF0gcG9saXNoIGRlbW8KLSBbeF0gd3JpdGUgc2VxdWVuY2UgdG8gc2VxdWVuY2UgZXhhbXBsZQotIFt4XSBnZXQgYm90aCB0cmFpbmluZyBhbmQgZXZhbHVhdGlvbiB0byB3b3JrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IVtsYXRlbnQtMl0oLi9maWd1cmVzL1ZBRS0yMDE3MDUyOS0yLnBuZykK</text>
+        <text encoding="base64">IyMgVE9ETyBMaXN0CgotIFt4XSBwb2xpc2ggZGVtbwotIFt4XSB3cml0ZSBzZXF1ZW5jZSB0byBzZXF1ZW5jZSBleGFtcGxlCi0gW3hdIGdldCBib3RoIHRyYWluaW5nIGFuZCBldmFsdWF0aW9uIHRvIHdvcmsKLSBbIF0gQWRkIEJMVUUgYXMgYWNjdXJhY3kgbWV0cmljCi0gWyBdIEFkZCBjb25mdXNpb24gbWF0cml4IGluIGRlbW8uCi0gWyBdIEFkZCB1bnppcCBzY3JpcHQgZm9yIGxhbmd1YWdlcwotIFsgXSBwb2xpc2ggcmVwbwotIFsgXSBDb21wYXJlIHJlc3VsdHMgd2l0aCBhdHRlbnRpb24gbW9kZWwKCiMjIERPTkUKLSBbeF0gd3JpdGUgZGF0YSBzY3JhcGVyLCBkb3dubG9hZCB6aXAgZmlsZXMgZnJvbSBhbmtpCi0gW3hdIGNvbnZlcnQgemlwIHRvIHRleHQgZmlsZQotIFt4XSB3cml0ZSBldmFsdWF0aW9uIGZ1bmN0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VuZXJhdGUgYW4gZW1iZWRkZWQgdmVjdG9yIGFjY29yZGluZyB0byB0aG9zZSBwYXJhbWV0ZXJzLiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
