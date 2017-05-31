@@ -239,12 +239,12 @@
         <mark key="^" line="59" column="72" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496196645371">
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496200177634">
         <mark key="'" line="191" column="44" />
-        <mark key="[" line="103" column="51" />
-        <mark key="]" line="103" column="51" />
-        <mark key="." line="103" column="51" />
-        <mark key="^" line="103" column="38" />
+        <mark key="[" line="122" column="31" />
+        <mark key="]" line="122" column="31" />
+        <mark key="." line="122" column="31" />
+        <mark key="^" line="122" column="54" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/train.py" timestamp="1496114927885">
         <mark key="[" line="10" column="51" />
@@ -1487,10 +1487,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+        <text>.repeat(batch_size, -1)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+        <text>.repeat(batch_size, -1)</text>
       </register>
       <register name="/" type="4">
         <text>lng</text>
