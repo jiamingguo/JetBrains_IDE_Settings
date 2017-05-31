@@ -239,11 +239,12 @@
         <mark key="^" line="59" column="72" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496204124600">
-        <mark key="'" line="194" column="44" />
-        <mark key="[" line="111" column="44" />
-        <mark key="]" line="127" column="22" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496208320998">
+        <mark key="'" line="197" column="44" />
+        <mark key="[" line="105" column="43" />
+        <mark key="]" line="105" column="43" />
+        <mark key="^" line="105" column="43" />
+        <mark key="." line="105" column="43" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/train.py" timestamp="1496114927885">
         <mark key="[" line="10" column="51" />
@@ -1489,45 +1490,41 @@
       <jump line="596" column="6" filename="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799/torch/nn/modules/activation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGF0dG4gPSBBdHRlbnRpb24oKQo=</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>.repeat(batch_size, -1)</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>logsoftmax</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwZXJpbWVudCAyCmV4cGVyaW1lbnQgMgpleHBlcmltZW50IDIKZXhwZXJpbWVudCAyCmV4cGVyaW1lbnQgMgo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IG1ha2UgaXQgc28gZW5kIG9mIHNlbnRlbmNlIGZvciBhbGwgZWxlbWVudHMgaW4gYmF0Y2ggdHJpZ2dlciBlbmQgb2Ygd2hpbGUgbG9vcC4KICAgICAgICBlb3NfZmxhZ3MgPSBsaXN0KHJhbmdlKGJhdGNoX3NpemUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGF0dG4gPSBBdHRlbnRpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICBjID0gc2VsZi5hdHRuKGVuY29kZXJfb3V0cHV0LCBjb25kaXRpb25fdmVjKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRfd29yZF9iYXRjaCA9IHNlbGYuZ2V0X1NPU192ZWMoYmF0Y2hfc2l6ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRfd29yZF9iYXRjaCA9IHNlbGYuZ2V0X1NPU192ZWMoYmF0Y2hfc2l6ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoaWRkZW4gPSBlbmNvZGVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IG1ha2UgaXQgc28gZW5kIG9mIHNlbnRlbmNlIGZvciBhbGwgZWxlbWVudHMgaW4gYmF0Y2ggdHJpZ2dlciBlbmQgb2Ygd2hpbGUgbG9vcC4KICAgICAgICBlb3NfZmxhZ3MgPSBsaXN0KHJhbmdlKGJhdGNoX3NpemUpKQo=</text>
       </register>
-      <register name="6" type="8">
-        <text>0
-0
-0
-0
-0</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzbGljZXMgPSBbXQogICAgICAgIGVtYmVkZWRfb3V0cHV0cyA9IFtdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShzZXFfbGVuZ3RoKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TEFURU5UX049MzAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
