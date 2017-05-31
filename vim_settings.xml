@@ -239,12 +239,12 @@
         <mark key="^" line="59" column="72" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496255988289">
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496256750132">
         <mark key="'" line="191" column="44" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="67" column="13" />
-        <mark key="." line="68" column="0" />
+        <mark key="[" line="90" column="21" />
+        <mark key="]" line="90" column="34" />
+        <mark key="^" line="90" column="34" />
+        <mark key="." line="90" column="34" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/train.py" timestamp="1496114927885">
         <mark key="[" line="10" column="51" />
@@ -1490,11 +1490,11 @@
       <jump line="596" column="6" filename="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799/torch/nn/modules/activation.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZW1iZWRlZAo=</text>
+      <register name="&quot;" type="4">
+        <text>hidden_size</text>
       </register>
       <register name="-" type="4">
-        <text>embeded =</text>
+        <text>hidden_size</text>
       </register>
       <register name="/" type="4">
         <text>logsoftmax</text>
