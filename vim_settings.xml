@@ -239,12 +239,12 @@
         <mark key="^" line="59" column="72" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496256750132">
-        <mark key="'" line="191" column="44" />
-        <mark key="[" line="90" column="21" />
-        <mark key="]" line="90" column="34" />
-        <mark key="^" line="90" column="34" />
-        <mark key="." line="90" column="34" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496257815985">
+        <mark key="'" line="190" column="44" />
+        <mark key="[" line="223" column="67" />
+        <mark key="]" line="223" column="86" />
+        <mark key="^" line="223" column="86" />
+        <mark key="." line="223" column="86" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/train.py" timestamp="1496114927885">
         <mark key="[" line="10" column="51" />
@@ -882,7 +882,7 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1496211188273">
+      <file name="/Python Console" timestamp="1496257758408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Automatically_Adding_Punctuations/Plan of attack_TODO.md" timestamp="1490907219232">
@@ -1491,10 +1491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hidden_size</text>
+        <text encoding="base64">IGlucHV0X3NpemU=</text>
       </register>
       <register name="-" type="4">
-        <text>hidden_size</text>
+        <text encoding="base64">IGlucHV0X3NpemU=</text>
       </register>
       <register name="/" type="4">
         <text>logsoftmax</text>
