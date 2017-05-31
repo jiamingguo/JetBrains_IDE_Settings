@@ -30,7 +30,7 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1495731870590">
+      <file name="/a.dummy" timestamp="1496261953232">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/eight_queens/eight_queens.py" timestamp="1491929573650">
@@ -239,12 +239,12 @@
         <mark key="^" line="59" column="72" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496259048695">
-        <mark key="'" line="190" column="44" />
-        <mark key="[" line="144" column="59" />
-        <mark key="]" line="223" column="86" />
-        <mark key="^" line="223" column="86" />
-        <mark key="." line="223" column="86" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496261198222">
+        <mark key="'" line="189" column="44" />
+        <mark key="[" line="130" column="12" />
+        <mark key="]" line="129" column="109" />
+        <mark key="." line="129" column="109" />
+        <mark key="^" line="129" column="109" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/train.py" timestamp="1496114927885">
         <mark key="[" line="10" column="51" />
@@ -523,10 +523,6 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799/visdom/__init__.py" timestamp="1496108686546">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="186" column="25" />
-      </file>
       <file name="$USER_HOME$/projects/python-interview-prep/two_sigma/README.md" timestamp="1492396993445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -570,7 +566,7 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496200985045">
+      <file name="/Dummy.txt" timestamp="1496262072678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/dave/README.md" timestamp="1494635389921">
@@ -882,7 +878,7 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1496258985851">
+      <file name="/Python Console" timestamp="1496262241810">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Automatically_Adding_Punctuations/Plan of attack_TODO.md" timestamp="1490907219232">
@@ -1009,12 +1005,12 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" timestamp="1496212540838">
-        <mark key="'" line="95" column="28" />
-        <mark key="[" line="58" column="34" />
-        <mark key="]" line="58" column="34" />
-        <mark key="^" line="58" column="34" />
-        <mark key="." line="58" column="34" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" timestamp="1496264231330">
+        <mark key="'" line="74" column="63" />
+        <mark key="[" line="181" column="93" />
+        <mark key="]" line="181" column="93" />
+        <mark key="^" line="181" column="93" />
+        <mark key="." line="181" column="93" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/.gitignore" timestamp="1496115719413">
         <mark key="[" line="2" column="8" />
@@ -1284,6 +1280,12 @@
       <file name="/PythonRegExp Fragment (web_crawler.py:1018).regexp" timestamp="1493273063186">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/data.py" timestamp="1496261837014">
+        <mark key="[" line="42" column="55" />
+        <mark key="]" line="45" column="51" />
+        <mark key="^" line="45" column="51" />
+        <mark key="." line="45" column="51" />
+      </file>
       <file name="$USER_HOME$/projects/warpdrive/warpcli/requirements.txt" timestamp="1494032370032">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="5" column="5" />
@@ -1388,10 +1390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="512" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="514" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="516" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="518" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="520" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="522" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
@@ -1488,55 +1486,59 @@
       <jump line="548" column="13" filename="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799/torch/nn/modules/activation.py" />
       <jump line="598" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799/torch/nn/modules/activation.py" />
       <jump line="596" column="6" filename="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799/torch/nn/modules/activation.py" />
+      <jump line="101" column="132" filename="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" />
+      <jump line="181" column="93" filename="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" />
+      <jump line="37" column="42" filename="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" />
+      <jump line="74" column="63" filename="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlucHV0X3NpemU=</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlucHV0X3NpemU=</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>logsoftmax</text>
+        <text>MAX_INPUT_LENGTH</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFZhcmlhYmxlKAogICAgICAgICAgICAgICAgdG9yY2guemVyb3MoCiAgICAgICAgICAgICAgICAgICAgc2VsZi5iaV9tdWx0aXBsaWVyICogc2VsZi5uX2xheWVycywKICAgICAgICAgICAgICAgICAgICBiYXRjaF9zaXplLAogICAgICAgICAgICAgICAgICAgIHNlbGYuaGlkZGVuX3NpemUpKSAgIyBUT0RPOiBhdHRlbnRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfbWF4X2xlbmd0aCA9IDAKICAgICAgICAgICAgb3V0cHV0X21heF9sZW5ndGggPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZW1iZWRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X21heF9sZW5ndGggPSAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gc2VsZi5kZWNvZGVyLmluaXRfCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X21heF9sZW5ndGggPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfbWF4X2xlbmd0aCA9IDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHNhdmUgaW5wdXQgYW5kIG91dHB1dCBsYW5ndWFnZSBhcyB3ZWxsLCB0byBtYWludGFpbiB0aGUgd29yZCBsaXN0LgogICAgICAgIGQgPSB7azoga3dhcmdzW2tdIGZvciBrIGluIGt3YXJnc30KICAgICAgICBkWyJzdGF0ZV9kaWN0Il0gPSBzZWxmLnN0YXRlX2RpY3QoKQogICAgICAgIGRbImlucHV0X2xhbmciXSA9IHZhcnMoc2VsZi5pbnB1dF9sYW5nKQogICAgICAgIGRbIm91dHB1dF9sYW5nIl0gPSB2YXJzKHNlbGYub3V0cHV0X2xhbmcpCiAgICAgICAgaWYgbWV0YSBpcyBub3QgTm9uZToKICAgICAgICAgICAgZFsnbWV0YSddID0gbWV0YQogICAgICAgIHRvcmNoLnNhdmUoZCwgZm4pCg==</text>
+        <text encoding="base64">ICAgICAgICBiYXRjaF9zaXplID0gZW5jb2Rlcl9vdXRwdXQuc2l6ZSgpWzFdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgVmFuaWxsYVNlcXVlbmNlVG9TZXF1ZW5jZShubi5Nb2R1bGUpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGlucHV0X2xhbmcsIG91dHB1dF9sYW5nLCBoaWRkZW5fc2l6ZSwgbl9sYXllcnM9MSwgYmlkaXJlY3Rpb25hbD1GYWxzZSk6CiAgICAgICAgc3VwZXIoVmFuaWxsYVNlcXVlbmNlVG9TZXF1ZW5jZSwgc2VsZikuX19pbml0X18oKQogICAgICAgIHNlbGYuaW5wdXRfbGFuZyA9IGlucHV0X2xhbmcKICAgICAgICBzZWxmLm91dHB1dF9sYW5nID0gb3V0cHV0X2xhbmcKICAgICAgICBzZWxmLmVuY29kZXIgPSBFbmNvZGVyUk5OKGlucHV0X2xhbmcubl93b3JkcywgaGlkZGVuX3NpemUsIG5fbGF5ZXJzLCBiaWRpcmVjdGlvbmFsKQogICAgICAgIHNlbGYuZGVjb2RlciA9IERlY29kZXJSTk4ob3V0cHV0X2xhbmcubl93b3JkcywgaGlkZGVuX3NpemUsIG5fbGF5ZXJzLCBiaWRpcmVjdGlvbmFsKQoKICAgIGRlZiBpbml0X2hpZGRlbihzZWxmLCBiYXRjaF9zaXplKToKICAgICAgICByZXR1cm4gc2VsZi5lbmNvZGVyLmluaXRfaGlkZGVuKGJhdGNoX3NpemUpCgogICAgZGVmIGdldF9TT1NfdmVjKHNlbGYsIGJhdGNoX3NpemUpOgogICAgICAgIHJldHVybiBWYXJpYWJsZSh0b3JjaC5Mb25nVGVuc29yKFtbc2VsZi5vdXRwdXRfbGFuZy5TT1NfaW5kXV0gKiBiYXRjaF9zaXplKSkKCiAgICBkZWYgZm9yd2FyZChzZWxmLCBpbnB1dCwgaGlkZGVuLCB0YXJnZXQ9Tm9uZSwgdGVhY2hlcl9yPTAsIG1heF9vdXRwdXRfbGVuZ3RoPU5vbmUsICoqcmVzdF93YXJncyk6CiAgICAgICAgIyBET05FOiBTaG91bGQgcmVhbGx5IHVzZSBNb2R1bGUudHJhaW4gYW5kIE1vZHVsZS5ldmFsIHRvIHNldCB0aGUgdHJhaW5pbmcgZmxhZywgdGhlbiBoYW5kbGUgdGhlIGRpZmZlcmVudCBsb2dpYyBpbnNpZGUgdGhlIGZvcndhcmQgZnVuY3Rpb24uIFRoaXMgc2VwYXJhdGUgZXZhbHVhdGlvbiBmdW5jdGlvbiBpcyByZXBldGl0aXZlIGFuZCB3aWxsIG5vdCBuZWVkZWQgaW4gdGhhdCBjYXNlLgogICAgICAgICMgTk9URTogaGlkZGVuIGFsd2F5cyBoYXMgc2Vjb25kIGluZGV4IGJlaW5nIHRoZSBiYXRjaCBpbmRleC4KICAgICAgICBiYXRjaF9zaXplID0gaGlkZGVuLnNpemUoKVsxXQogICAgICAgIHRhcmdldF9zaXplID0gMCBpZiB0YXJnZXQgaXMgTm9uZSBlbHNlIHRhcmdldC5zaXplKClbMV0KICAgICAgICBlbmNvZGVyX291dHB1dCwgZW5jb2RlZCA9IHNlbGYuZW5jb2RlcihpbnB1dCwgaGlkZGVuKQogICAgICAgIHNsaWNlcyA9IFtdCiAgICAgICAgZW1iZWRlZF9vdXRwdXRzID0gW10KICAgICAgICBoaWRkZW4gPSBlbmNvZGVkCiAgICAgICAgb3V0cHV0X3dvcmRfYmF0Y2ggPSBzZWxmLmdldF9TT1NfdmVjKGJhdGNoX3NpemUpCiAgICAgICAgIyBUT0RPOiBtYWtlIGl0IHNvIGVuZCBvZiBzZW50ZW5jZSBmb3IgYWxsIGVsZW1lbnRzIGluIGJhdGNoIHRyaWdnZXIgZW5kIG9mIHdoaWxlIGxvb3AuCiAgICAgICAgZW9zX2ZsYWdzID0gbGlzdChyYW5nZShiYXRjaF9zaXplKSkKICAgICAgICB3aGlsZSBsZW4oc2xpY2VzKSA8IChtYXhfb3V0cHV0X2xlbmd0aCBvciBzZWxmLmFyZ3MuTUFYX09VVFBVVF9MRU4pIFwKICAgICAgICAgICAgICAgIGFuZCBsZW4oZW9zX2ZsYWdzKSAhPSAwOgogICAgICAgICAgICAjIHdvcmRfc2xpY2Ugc2l6ZShiX3NpemUsIDEpLCBpcyBjb3JyZWN0CiAgICAgICAgICAgICMjIFRoaXMgaXMgd2hlcmUgeW91IGFkZCB0ZWFjaGVyIGZvcmNpbmcKICAgICAgICAgICAgaW5kZXggPSBsZW4oc2xpY2VzKQogICAgICAgICAgICBpX3ZlYyA9IFZhcmlhYmxlKHRvcmNoLkxvbmdUZW5zb3IoW2luZGV4XSkpCiAgICAgICAgICAgICMgVE9ETzogdXNlIHRlbnNvciBjb21iaW5lL2FkZF93aXRoX21hc2sgb3BlcmF0b3IgaGVyZSBpbnN0ZWFkLgogICAgICAgICAgICBvdXRwdXRfc2xpY2VfZm9yY2VkID0gb3V0cHV0X3dvcmRfYmF0Y2ggXAogICAgICAgICAgICAgICAgaWYgcmFuZG9tLnJhbmRvbSgpID4gdGVhY2hlcl9yIG9yIGluZGV4ID49IHRhcmdldF9zaXplIFwKICAgICAgICAgICAgICAgIGVsc2UgdGFyZ2V0LmluZGV4X3NlbGVjdCgxLCBpX3ZlYykKICAgICAgICAgICAgb3V0cHV0X2VtYmVkZGVkLCBoaWRkZW4gPSBzZWxmLmRlY29kZXIoc2VsZi5kZWNvZGVyLmVtYmVkKG91dHB1dF9zbGljZV9mb3JjZWQpLCBoaWRkZW4pCiAgICAgICAgICAgICMgY29udmVydCBlbWJlZGRlZCB0byBjbGFzc19pbmRleCBoZXJlCiAgICAgICAgICAgIG91dHB1dF93b3JkX2JhdGNoID0gc2VsZi5kZWNvZGVyLmV4dHJhY3Qob3V0cHV0X2VtYmVkZGVkKQoKICAgICAgICAgICAgIyBOb3cgYWRkIHRoZSBzbGljZXMgdG8gdGhlIG91dHB1dCBzdGFjay4gd29yZF9zbGljZShiX3NpemUsIDEpIC0+IHNpemUoYl9zaXplKQogICAgICAgICAgICBzbGljZXMuYXBwZW5kKG91dHB1dF93b3JkX2JhdGNoLnZpZXcoYmF0Y2hfc2l6ZSkpCiAgICAgICAgICAgIGVtYmVkZWRfb3V0cHV0cy5hcHBlbmQob3V0cHV0X2VtYmVkZGVkLnZpZXcoYmF0Y2hfc2l6ZSwgLTEpKQoKICAgICAgICAgICAgZm9yIGluZCwgcyBpbiBlbnVtZXJhdGUob3V0cHV0X3dvcmRfYmF0Y2gpOgogICAgICAgICAgICAgICAgc19pbmRleCA9IGludChzLmRhdGEubnVtcHkoKVswXSkKICAgICAgICAgICAgICAgIGlmIGluZCBpbiBlb3NfZmxhZ3M6CiAgICAgICAgICAgICAgICAgICAgaWYgc19pbmRleCA9PSBzZWxmLm91dHB1dF9sYW5nLkVPU19pbmQ6CiAgICAgICAgICAgICAgICAgICAgICAgIGVvc19mbGFncy5yZW1vdmUoaW5kKQoKICAgICAgICAjIFRPRE86IGZpeCBtaXNtYXRjaCBvdXRwdXQgYmV0d2VlbiBldmFsdWF0ZSBhbmQgZm9yd2FyZC4KICAgICAgICByZXR1cm4gdG9yY2guc3RhY2soc2xpY2VzLCBkaW09MSksIGhpZGRlbiwgdG9yY2guc3RhY2soZW1iZWRlZF9vdXRwdXRzLCBkaW09MSkKCiAgICBkZWYgc2V0dXBfdHJhaW5pbmcoc2VsZiwgbGVhcm5pbmdfcmF0ZSk6CiAgICAgICAgc2VsZi5vcHRpbWl6ZXIgPSB0b3JjaC5vcHRpbS5BZGFtKHNlbGYucGFyYW1ldGVycygpLCBscj1sZWFybmluZ19yYXRlKQogICAgICAgIHNlbGYub3B0aW1pemVyLnplcm9fZ3JhZCgpCiAgICAgICAgc2VsZi5sb3NzX2ZuID0gbm4uQ3Jvc3NFbnRyb3B5TG9zcygpCiAgICAgICAgc2VsZi5pbml0X2hpZGRlbl8oKQoKICAgIGRlZiBsb2FkKHNlbGYsIGZuKToKICAgICAgICAjIFRPRE86IGxvYWQgdGhlIGlucHV0IGFuZCBvdXRwdXQgbGFuZ3VhZ2UgYXMgd2VsbCwgdG8gbWFpbnRhaW4gdGhlIHdvcmQgbGlzdC4KICAgICAgICBjaGVja3BvaW50ID0gdG9yY2gubG9hZChmbikKICAgICAgICBzZWxmLmxvYWRfc3RhdGVfZGljdChjaGVja3BvaW50WydzdGF0ZV9kaWN0J10pCiAgICAgICAgc2VsZi5pbnB1dF9sYW5nLmxvYWRfZGljdChjaGVja3BvaW50WydpbnB1dF9sYW5nJ10pCiAgICAgICAgc2VsZi5vdXRwdXRfbGFuZy5sb2FkX2RpY3QoY2hlY2twb2ludFsnb3V0cHV0X2xhbmcnXSkKICAgICAgICByZXR1cm4gY2hlY2twb2ludAoKICAgIGRlZiBzYXZlKHNlbGYsIGZuPSJzZXEtdG8tc2VxLmNwIiwgbWV0YT1Ob25lLCAqKmt3YXJncyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIG5vdGU6IGV4cGVjdCBwYWRkaW5nIG9mIGlucHV0IHNlcXVlbmNlIHRvIGJlIGRvbmUgb3V0c2lkZSB0aGlzIG1vZHVsZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVtYmVkZGluZyA9IG5uLkVtYmVkZGluZyhzZWxmLm5fd29yZHMsIGVtYmVkZGluZ19zaXplKQo=</text>
+        <text encoding="base64">ICAgICAgICBjID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBlbWJlZChzZWxmLCBpbnB1dF93b3JkX2luZGV4ZXMpOgogICAgICAgICIiIndvcmQgaW5kZXggdG8gZW1iZWRkaW5nIiIiCiAgICAgICAgYmF0Y2hfc2l6ZSA9IGlucHV0X3dvcmRfaW5kZXhlcy5zaXplKClbMF0KICAgICAgICBlbWJlZGVkID0gc2VsZi5lbWJlZGRpbmcoaW5wdXRfd29yZF9pbmRleGVzKS52aWV3KGJhdGNoX3NpemUsIC0xLCBzZWxmLmhpZGRlbl9zaXplKQogICAgICAgIHJldHVybiBlbWJlZGVkCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZW1iZWRlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYmlfbXVsdGlwbGllciAqIHNlbGYubl9sYXllcnMsCg==</text>
+        <text encoding="base64">ICAgICAgICBjID0gc2VsZi5kZWNvZGVyLmluaXRfCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logsoftmax</last-search>
+      <last-search>MAX_INPUT_LENGTH</last-search>
       <last-offset />
-      <last-pattern>logsoftmax</last-pattern>
+      <last-pattern>MAX_INPUT_LENGTH</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -1544,7 +1546,6 @@
     </search>
     <history>
       <history-search>
-        <entry>query_delay</entry>
         <entry>regex_relative</entry>
         <entry>soup</entry>
         <entry>pop</entry>
@@ -1564,6 +1565,7 @@
         <entry>dashboard</entry>
         <entry>LogSoftmax</entry>
         <entry>logsoftmax</entry>
+        <entry>MAX_INPUT_LENGTH</entry>
       </history-search>
       <history-cmd>
         <entry>set linenumber</entry>
