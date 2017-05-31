@@ -239,12 +239,12 @@
         <mark key="^" line="59" column="72" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496208320998">
-        <mark key="'" line="197" column="44" />
-        <mark key="[" line="105" column="43" />
-        <mark key="]" line="105" column="43" />
-        <mark key="^" line="105" column="43" />
-        <mark key="." line="105" column="43" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496209192211">
+        <mark key="'" line="184" column="44" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="^" line="162" column="7" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/train.py" timestamp="1496114927885">
         <mark key="[" line="10" column="51" />
@@ -1009,12 +1009,12 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" timestamp="1495730914706">
-        <mark key="'" line="93" column="28" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="150" column="18" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" timestamp="1496209732867">
+        <mark key="'" line="95" column="28" />
+        <mark key="[" line="180" column="21" />
+        <mark key="]" line="180" column="47" />
+        <mark key="^" line="180" column="47" />
+        <mark key="." line="180" column="47" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/.gitignore" timestamp="1496115719413">
         <mark key="[" line="2" column="8" />
@@ -1491,43 +1491,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text encoding="base64">IFZhbmlsbGFTZXF1ZW5jZVRvU2VxdWVuY2U=</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">IFZhbmlsbGFTZXF1ZW5jZVRvU2VxdWVuY2U=</text>
       </register>
       <register name="/" type="4">
         <text>logsoftmax</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IG1ha2UgaXQgc28gZW5kIG9mIHNlbnRlbmNlIGZvciBhbGwgZWxlbWVudHMgaW4gYmF0Y2ggdHJpZ2dlciBlbmQgb2Ygd2hpbGUgbG9vcC4KICAgICAgICBlb3NfZmxhZ3MgPSBsaXN0KHJhbmdlKGJhdGNoX3NpemUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlucHV0X2xhbmcgPSBpbnB1dF9sYW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gc2VsZi5hdHRuKGVuY29kZXJfb3V0cHV0LCBjb25kaXRpb25fdmVjKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlucHV0X2xhbmcsIHNlbGYub3V0cHV0X2xhbmcgPSBnZXRfbGFuZ3VhZ2VfcGFpcnMoc2VsZi5hcmdzLklOUFVUX0xBTkcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyZ3MuT1VUUFVUX0xBTkcsIHNlbGYucGFpcnMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRfd29yZF9iYXRjaCA9IHNlbGYuZ2V0X1NPU192ZWMoYmF0Y2hfc2l6ZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsID0gbW9kZWwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRfd29yZF9iYXRjaCA9IHNlbGYuZ2V0X1NPU192ZWMoYmF0Y2hfc2l6ZSkK</text>
+      <register name="3" type="4">
+        <text>VanillaSequenceToSequence(
+            self.input_lang, self.output_lang, 200, n_layers=self.args.N_LAYERS,
+            bidirectional=self.args.BI_DIRECTIONAL)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRkZW4gPSBlbmNvZGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXggPSBsZW4oc2xpY2VzKQogICAgICAgICAgICBpX3ZlYyA9IFZhcmlhYmxlKHRvcmNoLkxvbmdUZW5zb3IoW2luZGV4XSkpCiAgICAgICAgICAgICMgVE9ETzogdXNlIHRlbnNvciBjb21iaW5lL2FkZF93aXRoX21hc2sgb3BlcmF0b3IgaGVyZSBpbnN0ZWFkLgogICAgICAgICAgICBvdXRwdXRfc2xpY2VfZm9yY2VkID0gb3V0cHV0X3dvcmRfYmF0Y2ggXAogICAgICAgICAgICAgICAgaWYgcmFuZG9tLnJhbmRvbSgpID4gdGVhY2hlcl9yIG9yIGluZGV4ID49IHRhcmdldF9zaXplIFwKICAgICAgICAgICAgICAgIGVsc2UgdGFyZ2V0LmluZGV4X3NlbGVjdCgxLCBpX3ZlYykKICAgICAgICAgICAgb3V0cHV0X2VtYmVkZGVkLCBoaWRkZW4gPSBzZWxmLmRlY29kZXIoc2VsZi5kZWNvZGVyLmVtYmVkKG91dHB1dF9zbGljZV9mb3JjZWQpLCBoaWRkZW4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IG1ha2UgaXQgc28gZW5kIG9mIHNlbnRlbmNlIGZvciBhbGwgZWxlbWVudHMgaW4gYmF0Y2ggdHJpZ2dlciBlbmQgb2Ygd2hpbGUgbG9vcC4KICAgICAgICBlb3NfZmxhZ3MgPSBsaXN0KHJhbmdlKGJhdGNoX3NpemUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IG1ha2UgaXQgc28gZW5kIG9mIHNlbnRlbmNlIGZvciBhbGwgZWxlbWVudHMgaW4gYmF0Y2ggdHJpZ2dlciBlbmQgb2Ygd2hpbGUgbG9vcC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzbGljZXMgPSBbXQogICAgICAgIGVtYmVkZWRfb3V0cHV0cyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyMgVGhpcyBpcyB3aGVyZSB5b3UgYWRkIHRlYWNoZXIgZm9yY2luZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShzZXFfbGVuZ3RoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB3b3JkX3NsaWNlIHNpemUoYl9zaXplLCAxKSwgaXMgY29ycmVjdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB3b3JkX3NsaWNlIHNpemUoYl9zaXplLCAxKSwgaXMgY29ycmVjdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBsZW4oc2xpY2VzKSA8IChtYXhfb3V0cHV0X2xlbmd0aCBvciBzZWxmLmFyZ3MuTUFYX09VVFBVVF9MRU4pIFwKICAgICAgICAgICAgICAgIGFuZCBsZW4oZW9zX2ZsYWdzKSAhPSAwOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
