@@ -239,11 +239,11 @@
         <mark key="^" line="59" column="72" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496202288555">
-        <mark key="'" line="193" column="44" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="126" column="22" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/model.py" timestamp="1496204124600">
+        <mark key="'" line="194" column="44" />
+        <mark key="[" line="111" column="44" />
+        <mark key="]" line="127" column="22" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="$USER_HOME$/projects/deep_learning_notes/Proj_variational_autoencoder_pytorch/train.py" timestamp="1496114927885">
         <mark key="[" line="10" column="51" />
@@ -923,6 +923,9 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799/torch/nn/modules/activation.py" timestamp="1496204176396">
+        <mark key="'" line="596" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/warpdrive/warp_cli/requirements.txt" timestamp="1494029481974">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="2" />
@@ -1384,9 +1387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="502" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="504" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
-      <jump line="506" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="510" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="512" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
       <jump line="514" column="0" filename="$USER_HOME$/projects/instructionGenerator/README.md" />
@@ -1484,6 +1484,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/Direction_Generator/demo/src/lib/Selector.js" />
       <jump line="8" column="15" filename="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" />
       <jump line="35" column="5" filename="$USER_HOME$/projects/Direction_Generator/demo/src/MainView.js" />
+      <jump line="548" column="13" filename="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799/torch/nn/modules/activation.py" />
+      <jump line="598" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799/torch/nn/modules/activation.py" />
+      <jump line="596" column="6" filename="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799/torch/nn/modules/activation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1493,7 +1496,7 @@
         <text>.repeat(batch_size, -1)</text>
       </register>
       <register name="/" type="4">
-        <text>lng</text>
+        <text>logsoftmax</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwZXJpbWVudCAyCmV4cGVyaW1lbnQgMgpleHBlcmltZW50IDIKZXhwZXJpbWVudCAyCmV4cGVyaW1lbnQgMgo=</text>
@@ -1534,9 +1537,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lng</last-search>
+      <last-search>logsoftmax</last-search>
       <last-offset />
-      <last-pattern>lng</last-pattern>
+      <last-pattern>logsoftmax</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -1544,8 +1547,6 @@
     </search>
     <history>
       <history-search>
-        <entry>open</entry>
-        <entry>if url[0</entry>
         <entry>query_delay</entry>
         <entry>regex_relative</entry>
         <entry>soup</entry>
@@ -1564,6 +1565,8 @@
         <entry>batch loss</entry>
         <entry>prefix</entry>
         <entry>dashboard</entry>
+        <entry>LogSoftmax</entry>
+        <entry>logsoftmax</entry>
       </history-search>
       <history-cmd>
         <entry>set linenumber</entry>
