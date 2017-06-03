@@ -736,11 +736,11 @@
         <mark key="." line="5" column="48" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/file-browser/src/index.js" timestamp="1496454324449">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/index.js" timestamp="1496455728017">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/projects/M018_Yggdrasil/mask/M018V6_L1_process_files/ShuntedLauncher.py" timestamp="1490988063546">
         <mark key="[" line="2" column="17" />
@@ -1520,7 +1520,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text># module reload</text>
@@ -1532,31 +1532,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfbWF4X2xlbmd0aCA9IDAKICAgICAgICAgICAgb3V0cHV0X21heF9sZW5ndGggPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMgTW9kdWxlCi0gWyBdIGJlc3Qgd2F5IHRvIHByZXZlbnQgbXVsdGlwbGUgY29waWVzIG9mIHNhZ2FzCi0gWyBdIGJlc3Qgd2F5IHRvIGxvYWQgbW9kdWxlcyAodXJsOiAvc3JjL3BhY2thZ2UuanNvbiBibGFoIGJsYWgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgTW9kdWxlCi0gWyBdIGJlc3Qgd2F5IHRvIHByZXZlbnQgbXVsdGlwbGUgY29waWVzIG9mIHNhZ2FzCi0gWyBdIGJlc3Qgd2F5IHRvIGxvYWQgbW9kdWxlcyAodXJsOiAvc3JjL3BhY2thZ2UuanNvbiBibGFoIGJsYWgpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMgRGVzaWduCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dmlldywgcmVkdWNlcnMsIHNhZ2FzLiAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyMgRGVzaWduCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dmlldywgcmVkdWNlcnMsIHNhZ2FzLiAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEJvb3RTdHJhcCA9IHJhXy5ib290c3RyYXAoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
