@@ -736,6 +736,12 @@
         <mark key="." line="5" column="48" />
         <mark key="^" line="5" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/index.js" timestamp="1496452585976">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/M018_Yggdrasil/mask/M018V6_L1_process_files/ShuntedLauncher.py" timestamp="1490988063546">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="22" />
@@ -1008,6 +1014,11 @@
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/file-browser/README.md" timestamp="1496452697973">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda/envs/deep-learning/lib/python3.6/site-packages/torch/nn/functional.py" timestamp="1494103715144">
         <mark key="[" line="67" column="0" />
@@ -1509,10 +1520,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gQGZsb3cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text># module reload</text>
       </register>
       <register name="/" type="4">
         <text>MAX_INPUT_LENGTH</text>
@@ -1521,31 +1532,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfbWF4X2xlbmd0aCA9IDAKICAgICAgICAgICAgb3V0cHV0X21heF9sZW5ndGggPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gQGZsb3cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X21heF9sZW5ndGggPSAwCg==</text>
+        <text encoding="base64">IyMgTW9kdWxlCi0gWyBdIGJlc3Qgd2F5IHRvIHByZXZlbnQgbXVsdGlwbGUgY29waWVzIG9mIHNhZ2FzCi0gWyBdIGJlc3Qgd2F5IHRvIGxvYWQgbW9kdWxlcyAodXJsOiAvc3JjL3BhY2thZ2UuanNvbiBibGFoIGJsYWgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X21heF9sZW5ndGggPSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfbWF4X2xlbmd0aCA9IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYXRjaF9zaXplID0gZW5jb2Rlcl9vdXRwdXQuc2l6ZSgpWzFdCg==</text>
+        <text encoding="base64">IyMgRGVzaWduCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5vdGU6IGV4cGVjdCBwYWRkaW5nIG9mIGlucHV0IHNlcXVlbmNlIHRvIGJlIGRvbmUgb3V0c2lkZSB0aGlzIG1vZHVsZS4K</text>
+        <text encoding="base64">dmlldywgcmVkdWNlcnMsIHNhZ2FzLiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IEJvb3RTdHJhcCA9IHJhXy5ib290c3RyYXAoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZW1iZWRlZAo=</text>
+        <text encoding="base64">aW1wb3J0IFJhXyBmcm9tICIuL1JhXyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
