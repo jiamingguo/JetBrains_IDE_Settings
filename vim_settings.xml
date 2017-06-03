@@ -759,10 +759,11 @@
         <mark key="." line="5" column="48" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/file-browser/src/index.js" timestamp="1496456364640">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/index.js" timestamp="1496522151082">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/projects/M018_Yggdrasil/mask/M018V6_L1_process_files/ShuntedLauncher.py" timestamp="1490988063546">
         <mark key="[" line="2" column="17" />
@@ -958,11 +959,11 @@
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/file-browser/src/model.js" timestamp="1496456809793">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="26" />
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/model.js" timestamp="1496520165281">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/dropbox/duplicate_numbers.py" timestamp="1492409615523">
         <mark key="[" line="10" column="0" />
@@ -1431,6 +1432,12 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/Meta.js" timestamp="1496522492483">
+        <mark key="[" line="8" column="58" />
+        <mark key="]" line="8" column="58" />
+        <mark key="." line="8" column="58" />
+        <mark key="^" line="8" column="58" />
+      </file>
       <file name="$USER_HOME$/projects/author_graph/categories" timestamp="1495056869496">
         <mark key="'" line="127" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1561,10 +1568,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>I</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>I</text>
       </register>
       <register name="/" type="4">
         <text>MAX_INPUT_LENGTH</text>
@@ -1576,28 +1583,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqIENyZWF0ZWQgYnkgZ2Ugb24gNi8zLzE3LiAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcmVkdWNlcihzdGF0ZSA9IDAsIGFjdGlvbikgey8vIGRlZmF1bHQgdmFsdWUgaGVyZSB3b3VsZCBiZSAwLgogICAgaWYgKGFjdGlvbi50eXBlID09PSAiSU5DIikgewogICAgICAgIHJldHVybiBzdGF0ZSArIDE7CiAgICB9IGVsc2UgewogICAgICAgIHJldHVybiBzdGF0ZTsKICAgIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtyb290U3RvcmUkfSBmcm9tICIuL21vZGVsIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LmNzcyc7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gcmVkdWNlcihzdGF0ZSA9IDAsIGFjdGlvbikgey8vIGRlZmF1bHQgdmFsdWUgaGVyZSB3b3VsZCBiZSAwLgogICAgaWYgKGFjdGlvbi50eXBlID09PSAiSU5DIikgewogICAgICAgIHJldHVybiBzdGF0ZSArIDE7CiAgICB9IGVsc2UgewogICAgICAgIHJldHVybiBzdGF0ZTsKICAgIH0KfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtyb290U3RvcmUkfSBmcm9tICIuL21vZGVsIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LmNzcyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtTdG9yZX0gZnJvbSAnbHVuYSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtyb290fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
