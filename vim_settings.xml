@@ -12,10 +12,10 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/file-browser/src/components/GenericFileItem.js" timestamp="1496525164491">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/components/GenericFileItem.js" timestamp="1496527507019">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/fast_exponential/fast_exp.py" timestamp="1487361092757">
         <mark key="[" line="23" column="13" />
@@ -246,6 +246,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/components/SearchInput.js" timestamp="1496527510196">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/test-luna-saga/src/model.js" timestamp="1496502270080">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
@@ -438,11 +443,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/file-browser/src/components/ContextHeader.js" timestamp="1496525756994">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
-        <mark key="^" line="4" column="33" />
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/components/ContextHeader.js" timestamp="1496527505448">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="43" />
       </file>
       <file name="$USER_HOME$/projects/warpdrive/warp_drive/tests/test_dataset.py" timestamp="1494028948808">
         <mark key="[" line="0" column="9" />
@@ -609,7 +614,7 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496526758017">
+      <file name="/Dummy.txt" timestamp="1496527498034">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/dave/README.md" timestamp="1494635389921">
@@ -816,10 +821,10 @@
         <mark key="^" line="36" column="21" />
         <mark key="." line="36" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/file-browser/src/components/ListView.js" timestamp="1496525141053">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/components/ListView.js" timestamp="1496527508899">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/warpdrive/.travis.yml" timestamp="1494033211513">
         <mark key="[" line="2" column="11" />
@@ -1210,10 +1215,10 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/file-browser/src/components/ListTab.js" timestamp="1496525769347">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="27" />
-        <mark key="." line="6" column="27" />
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/components/ListTab.js" timestamp="1496527508019">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/longest_consecutive_-subsequence/check_non_consecutive_substring.py" timestamp="1491841728050">
@@ -1431,11 +1436,11 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/file-browser/src/Meta.js" timestamp="1496525900540">
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="3" column="50" />
-        <mark key="^" line="3" column="50" />
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/Meta.js" timestamp="1496527560734">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/tree_search/basic_tree_traversal/post_order.py" timestamp="1491885243875">
         <mark key="[" line="40" column="0" />
@@ -1560,43 +1565,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>layout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwcm9wcyA9IHRoaXMucHJvcHM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqIENyZWF0ZWQgYnkgZ2Ugb24gNC8yNy8xNi4gKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqIENyZWF0ZWQgYnkgZ2Ugb24gNC8yNC8xNi4gKi8K</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gKDxkaXY+Q29udGV4dEhlYWRlcjwvZGl2PikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">LyoqIENyZWF0ZWQgYnkgZ2Ugb24gNC8yNy8xNi4gKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBnZSBvbiA2LzIzLzE2Lgo=</text>
+        <text encoding="base64">LyoqIENyZWF0ZWQgYnkgZ2Ugb24gNC8yNC8xNi4gKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqIENyZWF0ZWQgYnkgZ2Ugb24gMTIvMTEvMTYuICovCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqIENyZWF0ZWQgYnkgZ2Ugb24gNC8yOC8xNi4K</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBnZSBvbiA2LzIzLzE2Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqIENyZWF0ZWQgYnkgZ2Ugb24gNC8yNC8xNi4gKi8K</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
