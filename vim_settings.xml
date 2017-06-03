@@ -311,6 +311,12 @@
         <mark key="^" line="30" column="33" />
         <mark key="." line="30" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/packages/README.md" timestamp="1496519182150">
+        <mark key="[" line="2" column="78" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/python-interview-prep/find_tree_paths_with_sum/find_path.py" timestamp="1487198543067">
         <mark key="[" line="55" column="56" />
         <mark key="]" line="55" column="61" />
@@ -1555,10 +1561,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>MAX_INPUT_LENGTH</text>
