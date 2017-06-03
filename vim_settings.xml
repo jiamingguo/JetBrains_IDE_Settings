@@ -557,8 +557,11 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/file-browser/package.json" timestamp="1496526070903">
-        <mark key="'" line="5" column="31" />
+      <file name="$USER_HOME$/projects/escherpad/file-browser/package.json" timestamp="1496529293861">
+        <mark key="'" line="32" column="28" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/projects/warpdrive/warpdrive/Makefile" timestamp="1494033078500">
         <mark key="[" line="6" column="4" />
@@ -779,11 +782,10 @@
         <mark key="." line="5" column="48" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/file-browser/src/index.js" timestamp="1496522151082">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="25" />
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/index.js" timestamp="1496528886309">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/M018_Yggdrasil/mask/M018V6_L1_process_files/ShuntedLauncher.py" timestamp="1490988063546">
         <mark key="[" line="2" column="17" />
@@ -797,11 +799,11 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/layout-components/src/FlexHide.js" timestamp="1496526875262">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="9" />
-        <mark key="." line="17" column="9" />
-        <mark key="^" line="17" column="9" />
+      <file name="$USER_HOME$/projects/layout-components/src/FlexHide.js" timestamp="1496529003432">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/sorting/merge_sort.py" timestamp="1491874808524">
         <mark key="[" line="16" column="21" />
@@ -976,20 +978,17 @@
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/file-browser/src/model.js" timestamp="1496525044797">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="0" column="7" />
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/model.js" timestamp="1496528965788">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="25" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/dropbox/duplicate_numbers.py" timestamp="1492409615523">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="27" />
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/1169923726/1506319799/torch/nn/modules/activation.py" timestamp="1496204176396">
-        <mark key="'" line="596" column="6" />
       </file>
       <file name="$USER_HOME$/projects/warpdrive/warp_cli/requirements.txt" timestamp="1494029481974">
         <mark key="[" line="5" column="2" />
@@ -1436,11 +1435,11 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/file-browser/src/Meta.js" timestamp="1496527560734">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="29" />
-        <mark key="." line="12" column="29" />
-        <mark key="^" line="12" column="29" />
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/Meta.js" timestamp="1496528952632">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="5" />
+        <mark key="." line="12" column="5" />
+        <mark key="^" line="12" column="5" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/tree_search/basic_tree_traversal/post_order.py" timestamp="1491885243875">
         <mark key="[" line="40" column="0" />
@@ -1462,8 +1461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="35" filename="$USER_HOME$/projects/author_graph/web_crawler/web_crawler.py" />
-      <jump line="46" column="21" filename="$USER_HOME$/projects/author_graph/web_crawler/web_crawler.py" />
       <jump line="29" column="8" filename="$USER_HOME$/projects/author_graph/web_crawler/web_crawler.py" />
       <jump line="107" column="27" filename="$USER_HOME$/projects/author_graph/web_crawler/web_crawler.py" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/author_graph/web_crawler/web_crawler.py" />
@@ -1562,55 +1559,57 @@
       <jump line="48" column="16" filename="$USER_HOME$/projects/layout-components/src/Responsive.js" />
       <jump line="39" column="0" filename="$USER_HOME$/projects/layout-components/src/Responsive.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/layout-components/src/Responsive.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/projects/escherpad/file-browser/package.json" />
+      <jump line="32" column="28" filename="$USER_HOME$/projects/escherpad/file-browser/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJsYXlvdXQtY29tcG9uZW50cyI6ICJeMi42LjMiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>react</text>
       </register>
       <register name="/" type="4">
-        <text>layout</text>
+        <text>lay</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwcm9wcyA9IHRoaXMucHJvcHM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50LCBQcm9wVHlwZXN9IGZyb20gInJlYWN0IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICJsYXlvdXQtY29tcG9uZW50cyI6ICJeMi42LjMiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gKDxkaXY+Q29udGV4dEhlYWRlcjwvZGl2PikK</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqIENyZWF0ZWQgYnkgZ2Ugb24gNC8yNy8xNi4gKi8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyoqIENyZWF0ZWQgYnkgZ2Ugb24gNC8yNC8xNi4gKi8K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBnZSBvbiA2LzIzLzE2Lgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gKDxkaXY+Q29udGV4dEhlYWRlcjwvZGl2PikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>layout</last-search>
+      <last-search>lay</last-search>
       <last-offset />
-      <last-pattern>layout</last-pattern>
+      <last-pattern>lay</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -1618,7 +1617,6 @@
     </search>
     <history>
       <history-search>
-        <entry>soup</entry>
         <entry>pop</entry>
         <entry>time.sleep</entry>
         <entry>export</entry>
@@ -1638,6 +1636,7 @@
         <entry>logsoftmax</entry>
         <entry>MAX_INPUT_LENGTH</entry>
         <entry>layout</entry>
+        <entry>lay</entry>
       </history-search>
       <history-cmd>
         <entry>set linenumber</entry>
