@@ -736,11 +736,10 @@
         <mark key="." line="5" column="48" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/escherpad/file-browser/src/index.js" timestamp="1496455728017">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="6" column="3" />
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/index.js" timestamp="1496456364640">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/M018_Yggdrasil/mask/M018V6_L1_process_files/ShuntedLauncher.py" timestamp="1490988063546">
         <mark key="[" line="2" column="17" />
@@ -935,6 +934,12 @@
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/escherpad/file-browser/src/model.js" timestamp="1496456809793">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/projects/python-interview-prep/dropbox/duplicate_numbers.py" timestamp="1492409615523">
         <mark key="[" line="10" column="0" />
@@ -1519,11 +1524,11 @@
       <jump line="74" column="63" filename="$USER_HOME$/projects/deep_learning_notes/Proj_Machine_Translation_with_PyTorch/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text># module reload</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>MAX_INPUT_LENGTH</text>
@@ -1532,28 +1537,28 @@
         <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfbWF4X2xlbmd0aCA9IDAKICAgICAgICAgICAgb3V0cHV0X21heF9sZW5ndGggPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IFJlYWN0RE9NIGZyb20gInJlYWN0LWRvbSI7Cgp3aW5kb3cuZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignRE9NQ29udGVudExvYWRlZCcsIGZ1bmN0aW9uICgpIHsKICAgIFJlYWN0RE9NLnJlbmRlcig8ZGl2Lz4sIHdpbmRvdy5kb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjYm9vdHN0cmFwJykpOwp9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgTW9kdWxlCi0gWyBdIGJlc3Qgd2F5IHRvIHByZXZlbnQgbXVsdGlwbGUgY29waWVzIG9mIHNhZ2FzCi0gWyBdIGJlc3Qgd2F5IHRvIGxvYWQgbW9kdWxlcyAodXJsOiAvc3JjL3BhY2thZ2UuanNvbiBibGFoIGJsYWgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMgRGVzaWduCg==</text>
+        <text encoding="base64">IyMgTW9kdWxlCi0gWyBdIGJlc3Qgd2F5IHRvIHByZXZlbnQgbXVsdGlwbGUgY29waWVzIG9mIHNhZ2FzCi0gWyBdIGJlc3Qgd2F5IHRvIGxvYWQgbW9kdWxlcyAodXJsOiAvc3JjL3BhY2thZ2UuanNvbiBibGFoIGJsYWgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmlldywgcmVkdWNlcnMsIHNhZ2FzLiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
